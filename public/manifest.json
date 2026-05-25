@@ -1,0 +1,19 @@
+{
+  "name": "自然スポットマップ",
+  "short_name": "NatureMap",
+  "description": "東京・神奈川の自然スポットを地図で共有するアプリ",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#22c55e",
+  "orientation": "portrait-primary",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

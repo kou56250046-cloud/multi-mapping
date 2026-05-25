@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Hiragino Sans",
+    "Hiragino Kaku Gothic ProN", "BIZ UDPGothic", Meiryo, sans-serif;
+}
+
+/* maplibre-gl 用のスタイル上書き */
+.maplibregl-popup-content {
+  padding: 0 !important;
+  border-radius: 8px !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
+}
+
+.maplibregl-popup-close-button {
+  font-size: 20px !important;
+  padding: 4px 8px !important;
+}
