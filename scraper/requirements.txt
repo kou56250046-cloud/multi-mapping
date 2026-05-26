@@ -5,3 +5,8 @@ pandas==2.2.1
 playwright==1.43.0
 tqdm==4.66.2
 python-dotenv==1.0.1
+
+# Streamlit UI
+streamlit==1.35.0
+folium==0.17.0
+streamlit-folium==0.20.0

@@ -4,18 +4,20 @@
 使い方:
   cd scraper
   pip install -r requirements.txt
-  python run_all.py
+  python run_all.py                              # 全ソースを実行
+  python run_all.py --sources mlit,tokyo_park   # 指定ソースのみ実行
+  NAP_SCRAPING_ENABLED=true python run_all.py   # なっぷも含めて全実行
 
 出力:
   scraper/output/spots.csv  → プロジェクトルートの data/spots.csv にコピーされる
   (その後 npm run generate でJSONに変換する)
 """
 
+import argparse
 import os
 import sys
 import pandas as pd
 from pathlib import Path
-from datetime import datetime
 
 # プロジェクトルートをパスに追加
 ROOT_DIR = Path(__file__).parent.parent
@@ -72,48 +74,66 @@ def spots_to_csv_rows(spots: list[dict]) -> list[dict]:
     return rows
 
 
-def main():
+def main(enabled_sources: set[str] | None = None):
+    """
+    Args:
+        enabled_sources: 実行するソースのセット。None の場合は全ソースを実行。
+                         例: {"mlit", "tokyo_park"}
+    """
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     os.makedirs(str(ROOT_DIR / "data"), exist_ok=True)
+
+    def should_run(source_key: str) -> bool:
+        return enabled_sources is None or source_key in enabled_sources
 
     all_spots: list[dict] = []
 
     # 1. 国土数値情報 N13（最優先・法的リスクなし）
-    try:
-        from sources.mlit_open import scrape_mlit
-        spots = run_scraper("国土数値情報 N13（都市公園）", scrape_mlit)
-        all_spots.extend(spots)
-    except ImportError as e:
-        print(f"⚠️  mlit_open のインポートエラー: {e}")
+    if should_run("mlit"):
+        try:
+            from sources.mlit_open import scrape_mlit
+            spots = run_scraper("国土数値情報 N13（都市公園）", scrape_mlit)
+            all_spots.extend(spots)
+        except ImportError as e:
+            print(f"⚠️  mlit_open のインポートエラー: {e}")
+    else:
+        print("⏭️  国土数値情報 N13: スキップ")
 
     # 2. 東京都公園協会
-    try:
-        from sources.tokyo_park import TokyoParkScraper
-        spots = run_scraper("東京都立公園", TokyoParkScraper().scrape)
-        all_spots.extend(spots)
-    except ImportError as e:
-        print(f"⚠️  tokyo_park のインポートエラー: {e}")
+    if should_run("tokyo_park"):
+        try:
+            from sources.tokyo_park import TokyoParkScraper
+            spots = run_scraper("東京都立公園", TokyoParkScraper().scrape)
+            all_spots.extend(spots)
+        except ImportError as e:
+            print(f"⚠️  tokyo_park のインポートエラー: {e}")
+    else:
+        print("⏭️  東京都立公園: スキップ")
 
     # 3. 神奈川県立公園
-    try:
-        from sources.kanagawa_park import KanagawaParkScraper
-        spots = run_scraper("神奈川県立公園", KanagawaParkScraper().scrape)
-        all_spots.extend(spots)
-    except ImportError as e:
-        print(f"⚠️  kanagawa_park のインポートエラー: {e}")
+    if should_run("kanagawa_park"):
+        try:
+            from sources.kanagawa_park import KanagawaParkScraper
+            spots = run_scraper("神奈川県立公園", KanagawaParkScraper().scrape)
+            all_spots.extend(spots)
+        except ImportError as e:
+            print(f"⚠️  kanagawa_park のインポートエラー: {e}")
+    else:
+        print("⏭️  神奈川県立公園: スキップ")
 
-    # 4. なっぷ（robots.txt確認済みの場合のみ）
+    # 4. なっぷ（robots.txt確認済み かつ 選択された場合のみ）
     NAP_ENABLED = os.environ.get("NAP_SCRAPING_ENABLED", "false").lower() == "true"
-    if NAP_ENABLED:
+    if should_run("nap") and NAP_ENABLED:
         try:
             from sources.nap import NapScraper
             spots = run_scraper("なっぷ (nap.jp)", NapScraper().scrape)
             all_spots.extend(spots)
         except ImportError as e:
             print(f"⚠️  nap のインポートエラー: {e}")
+    elif should_run("nap") and not NAP_ENABLED:
+        print("\nℹ️  なっぷのスクレイピングは無効です（NAP_SCRAPING_ENABLED=true が必要）")
     else:
-        print("\nℹ️  なっぷのスクレイピングは無効です")
-        print("   有効にするには: NAP_SCRAPING_ENABLED=true python run_all.py")
+        print("⏭️  なっぷ: スキップ")
 
     if not all_spots:
         print("\n⚠️  データが取得できませんでした")
@@ -161,4 +181,17 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(description="スポットスクレイパー実行ツール")
+    parser.add_argument(
+        "--sources",
+        default=None,
+        help="実行するソース（カンマ区切り）例: mlit,tokyo_park,kanagawa_park,nap",
+    )
+    args = parser.parse_args()
+
+    enabled: set[str] | None = None
+    if args.sources:
+        enabled = {s.strip() for s in args.sources.split(",") if s.strip()}
+        print(f"📋 実行対象ソース: {', '.join(sorted(enabled))}")
+
+    main(enabled_sources=enabled)
