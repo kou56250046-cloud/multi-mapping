@@ -31,19 +31,22 @@ SOURCE_ID = "overpass"
 # OSMタグ → カテゴリのマッピング
 CATEGORY_MAP = [
     # (カテゴリ, [(key, value), ...]) — 先にマッチしたものが優先
-    ("waterfall",  [("natural", "waterfall")]),
-    ("bbq",        [("amenity", "bbq"), ("leisure", "firepit")]),
+    ("waterfall",  [("natural", "waterfall"), ("waterway", "waterfall")]),
+    ("bbq",        [("amenity", "bbq"), ("leisure", "firepit"),
+                    ("barbecue_grill", "yes")]),
     ("waterside",  [("natural", "water"), ("waterway", "river"),
                     ("waterway", "stream"), ("natural", "coastline"),
-                    ("natural", "beach"), ("leisure", "swimming_area")]),
+                    ("natural", "beach"), ("leisure", "swimming_area"),
+                    ("waterway", "riverbank")]),
     ("sports",     [("leisure", "sports_centre"), ("leisure", "pitch"),
                     ("leisure", "stadium"), ("leisure", "track")]),
+    ("hidden_gem", [("tourism", "attraction"), ("tourism", "artwork"),
+                    ("historic", "ruins"), ("historic", "archaeological_site")]),
     ("walking",    [("leisure", "park"), ("leisure", "garden"),
                     ("leisure", "nature_reserve"), ("boundary", "national_park"),
                     ("natural", "peak"), ("natural", "wood")]),
     ("meditation", [("tourism", "viewpoint"), ("historic", "monument"),
                     ("amenity", "place_of_worship")]),
-    ("hidden_gem", [("tourism", "attraction"), ("tourism", "artwork")]),
 ]
 
 # OSMタグ → SpotTagのマッピング
@@ -77,25 +80,36 @@ out center;
 (
   node["natural"="waterfall"]{bbox};
   way["natural"="waterfall"]["name"~"."]{bbox};
+  node["waterway"="waterfall"]["name"~"."]{bbox};
+  way["waterway"="waterfall"]["name"~"."]{bbox};
+  node["name"~"滝",i]{bbox};
 );
 out center;
 """,
     "waterside": """
-[out:json][timeout:60];
+[out:json][timeout:90];
 (
   node["natural"="beach"]["name"~"."]{bbox};
   way["natural"="beach"]["name"~"."]{bbox};
   node["leisure"="swimming_area"]["name"~"."]{bbox};
   way["waterway"="river"]["name"~"."]{bbox};
+  relation["waterway"="river"]["name"~"."]{bbox};
   node["natural"="spring"]["name"~"."]{bbox};
+  way["natural"="water"]["name"~"."]{bbox};
+  node["natural"="water"]["name"~"."]{bbox};
+  way["waterway"="stream"]["name"~"."]{bbox};
 );
 out center;
 """,
     "bbq": """
-[out:json][timeout:30];
+[out:json][timeout:60];
 (
   node["amenity"="bbq"]{bbox};
   node["leisure"="firepit"]["name"~"."]{bbox};
+  way["barbecue_grill"="yes"]["name"~"."]{bbox};
+  node["barbecue_grill"="yes"]["name"~"."]{bbox};
+  node["name"~"バーベキュー|BBQ|バーベキュ",i]{bbox};
+  way["name"~"バーベキュー|BBQ|バーベキュ",i]{bbox};
 );
 out center;
 """,
@@ -115,6 +129,19 @@ out center;
 );
 out center;
 """,
+    "hidden_gem": """
+[out:json][timeout:60];
+(
+  node["tourism"="attraction"]["name"~"."]{bbox};
+  way["tourism"="attraction"]["name"~"."]{bbox};
+  node["tourism"="artwork"]["name"~"."]{bbox};
+  way["tourism"="artwork"]["name"~"."]{bbox};
+  node["historic"="ruins"]["name"~"."]{bbox};
+  node["historic"="archaeological_site"]["name"~"."]{bbox};
+  way["historic"="ruins"]["name"~"."]{bbox};
+);
+out center;
+""",
 }
 
 
@@ -124,8 +151,15 @@ def _osm_tags_to_category(tags: dict) -> str:
         for key, val in conditions:
             if tags.get(key) == val:
                 return category
-    # 名前からも判定
-    name = tags.get("name", "") + " " + tags.get("description", "")
+    # 名前・説明からも判定
+    name = (tags.get("name", "") + " " + tags.get("name:ja", "") +
+            " " + tags.get("description", "")).lower()
+    if any(w in name for w in ["滝", "falls", "waterfall"]):
+        return "waterfall"
+    if any(w in name for w in ["バーベキュー", "bbq", "バーベキュ"]):
+        return "bbq"
+    if any(w in name for w in ["川", "河川", "river", "海", "池", "湖", "湿地"]):
+        return "waterside"
     from classifier import classify_category
     return classify_category(name)
 

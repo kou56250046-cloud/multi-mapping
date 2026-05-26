@@ -23816,3 +23816,621 @@ overpass-23786,展望広場,,meditation,35.7944799,139.2553798,overpass,https://
 overpass-23787,マツボックリ山展望台(三町分岐点),,meditation,35.7973057,139.2574381,overpass,https://www.openstreetmap.org/node/13751694488,,tokyo
 overpass-23788,リスの展望広場,,meditation,35.7994937,139.2580308,overpass,https://www.openstreetmap.org/node/13751694489,,tokyo
 overpass-23789,大観山,,walking,35.1845489,139.0483745,overpass,https://www.openstreetmap.org/node/13809814285,,kanagawa
+overpass-23790,観世能楽堂,,hidden_gem,35.6620432,139.6935718,overpass,https://www.openstreetmap.org/node/252675438,,tokyo
+overpass-23791,新島のモヤイ像,,hidden_gem,35.5623746,139.7169699,overpass,https://www.openstreetmap.org/node/302022636,wheelchair,tokyo
+overpass-23792,ダチョウ牧場,,hidden_gem,35.7724132,139.5707189,overpass,https://www.openstreetmap.org/node/683120225,,tokyo
+overpass-23793,千葉周作修行之地,,hidden_gem,35.7828709,139.8971351,overpass,https://www.openstreetmap.org/node/771412748,,tokyo
+overpass-23794,松戸中央公園正門門柱,旧陸軍工兵学校正門門柱,hidden_gem,35.7821104,139.9033631,overpass,https://www.openstreetmap.org/node/822483989,,tokyo
+overpass-23795,ビッグ サンダー マウンテン,,hidden_gem,35.6326401,139.8840822,overpass,https://www.openstreetmap.org/node/854584575,,tokyo
+overpass-23796,プロメテウス火山,,hidden_gem,35.6256963,139.8845468,overpass,https://www.openstreetmap.org/node/859682628,,tokyo
+overpass-23797,ポートディスカバリー・ステーション,,hidden_gem,35.625393,139.8830972,overpass,https://www.openstreetmap.org/node/859682633,,tokyo
+overpass-23798,アメリカンウォーターフロント・ステーション,,hidden_gem,35.6248634,139.8877946,overpass,https://www.openstreetmap.org/node/859682692,,tokyo
+overpass-23799,ガンダム像,,hidden_gem,35.7250305,139.6035474,overpass,https://www.openstreetmap.org/node/1077780842,,tokyo
+overpass-23800,シンデレラのフェアリーテイル・ホール Cinderella's Fairy Tale Hall,,hidden_gem,35.6319456,139.8808501,overpass,https://www.openstreetmap.org/node/1272804708,,tokyo
+overpass-23801,松戸市消防局小金消防署跡,"National-Land Numerical Information (Public Facility) 2006, MLIT Japan",hidden_gem,35.8260101,139.9353075,overpass,https://www.openstreetmap.org/node/1420740572,,tokyo
+overpass-23802,野菊の墓文学碑,,hidden_gem,35.76025,139.895183,overpass,https://www.openstreetmap.org/node/1441555679,,tokyo
+overpass-23803,京王れーるらんど,,hidden_gem,35.6489697,139.4046052,overpass,https://www.openstreetmap.org/node/1510685429,,tokyo
+overpass-23804,東大正門,,hidden_gem,35.7129409,139.7596604,overpass,https://www.openstreetmap.org/node/1623971579,wheelchair,tokyo
+overpass-23805,青石塔婆,,hidden_gem,36.0079741,139.2339668,overpass,https://www.openstreetmap.org/node/2043234646,,tokyo
+overpass-23806,アカカンガルー,,hidden_gem,35.6498401,139.3971299,overpass,https://www.openstreetmap.org/node/2130473336,,tokyo
+overpass-23807,イヌワシ,,hidden_gem,35.6502681,139.3989269,overpass,https://www.openstreetmap.org/node/2130473345,,tokyo
+overpass-23808,インコ,,hidden_gem,35.6500756,139.4001895,overpass,https://www.openstreetmap.org/node/2130473350,,tokyo
+overpass-23809,エミュー,,hidden_gem,35.6499967,139.3973441,overpass,https://www.openstreetmap.org/node/2130473359,,tokyo
+overpass-23810,オオカミ,,hidden_gem,35.6474935,139.397872,overpass,https://www.openstreetmap.org/node/2130473360,,tokyo
+overpass-23811,オランウータン,,hidden_gem,35.6484718,139.3950496,overpass,https://www.openstreetmap.org/node/2130473363,,tokyo
+overpass-23812,カワウソ,,hidden_gem,35.6495571,139.3994006,overpass,https://www.openstreetmap.org/node/2130473365,,tokyo
+overpass-23813,コウノトリ,,hidden_gem,35.6485816,139.4005044,overpass,https://www.openstreetmap.org/node/2130473367,,tokyo
+overpass-23814,コウノトリ,,hidden_gem,35.6509682,139.3996522,overpass,https://www.openstreetmap.org/node/2130473368,,tokyo
+overpass-23815,サギ,,hidden_gem,35.648392,139.4003592,overpass,https://www.openstreetmap.org/node/2130473369,,tokyo
+overpass-23816,サーバル,,hidden_gem,35.6527084,139.4034647,overpass,https://www.openstreetmap.org/node/2130473370,,tokyo
+overpass-23817,シフゾウ,,hidden_gem,35.6480899,139.3960578,overpass,https://www.openstreetmap.org/node/2130473372,,tokyo
+overpass-23818,シャモア,,hidden_gem,35.6470532,139.3966861,overpass,https://www.openstreetmap.org/node/2130473373,,tokyo
+overpass-23819,シロテナガザル,,hidden_gem,35.6485416,139.3957435,overpass,https://www.openstreetmap.org/node/2130473374,,tokyo
+overpass-23820,ソデグロヅル,,hidden_gem,35.6502051,139.4014406,overpass,https://www.openstreetmap.org/node/2130473376,,tokyo
+overpass-23821,タヌキ,,hidden_gem,35.6501211,139.3994839,overpass,https://www.openstreetmap.org/node/2130473377,,tokyo
+overpass-23822,ターキン,,hidden_gem,35.6472234,139.3962547,overpass,https://www.openstreetmap.org/node/2130473378,,tokyo
+overpass-23823,チーター,,hidden_gem,35.6524763,139.40306,overpass,https://www.openstreetmap.org/node/2130473379,,tokyo
+overpass-23824,トキ,,hidden_gem,35.6481619,139.4002236,overpass,https://www.openstreetmap.org/node/2130473380,,tokyo
+overpass-23825,トナカイ,,hidden_gem,35.6501186,139.397644,overpass,https://www.openstreetmap.org/node/2130473381,,tokyo
+overpass-23826,トラ,,hidden_gem,35.6485938,139.3963647,overpass,https://www.openstreetmap.org/node/2130473382,,tokyo
+overpass-23827,ニホンカモシカ,,hidden_gem,35.6480899,139.3963815,overpass,https://www.openstreetmap.org/node/2130473383,,tokyo
+overpass-23828,ノウサギ,,hidden_gem,35.6498142,139.3998544,overpass,https://www.openstreetmap.org/node/2130473384,,tokyo
+overpass-23829,ハクビシン,,hidden_gem,35.6486338,139.3967911,overpass,https://www.openstreetmap.org/node/2130473434,,tokyo
+overpass-23830,ツキノワグマ,,hidden_gem,35.65018,139.4004656,overpass,https://www.openstreetmap.org/node/2130473435,,tokyo
+overpass-23831,フクロウ,,hidden_gem,35.6503203,139.3991387,overpass,https://www.openstreetmap.org/node/2130473436,,tokyo
+overpass-23832,マレーバク,,hidden_gem,35.6495742,139.3998239,overpass,https://www.openstreetmap.org/node/2130473437,,tokyo
+overpass-23833,ムササビ,,hidden_gem,35.6502303,139.4007607,overpass,https://www.openstreetmap.org/node/2130473438,,tokyo
+overpass-23834,グレビーシマウマ,,hidden_gem,35.6506278,139.3998528,overpass,https://www.openstreetmap.org/node/2130473439,,tokyo
+overpass-23835,モルモット,,hidden_gem,35.6498068,139.4000454,overpass,https://www.openstreetmap.org/node/2130473441,,tokyo
+overpass-23836,ヤギ,,hidden_gem,35.6497613,139.4002167,overpass,https://www.openstreetmap.org/node/2130473442,,tokyo
+overpass-23837,ユキヒョウ,,hidden_gem,35.6479151,139.3955126,overpass,https://www.openstreetmap.org/node/2130473443,,tokyo
+overpass-23838,レッサーパンダ,,hidden_gem,35.6474277,139.3957314,overpass,https://www.openstreetmap.org/node/2130473444,,tokyo
+overpass-23839,ワシ,,hidden_gem,35.6506201,139.3987651,overpass,https://www.openstreetmap.org/node/2130473445,,tokyo
+overpass-23840,ワライカワセミ,,hidden_gem,35.648898,139.3953091,overpass,https://www.openstreetmap.org/node/2130473446,,tokyo
+overpass-23841,コアラ,,hidden_gem,35.997567,139.3778311,overpass,https://www.openstreetmap.org/node/2248612403,,tokyo
+overpass-23842,恐竜コーナー,,hidden_gem,35.9962556,139.3724845,overpass,https://www.openstreetmap.org/node/2248840338,,tokyo
+overpass-23843,天馬の塔,,hidden_gem,35.9989601,139.3750745,overpass,https://www.openstreetmap.org/node/2248840341,,tokyo
+overpass-23844,カモシカ,,hidden_gem,35.9953245,139.3749491,overpass,https://www.openstreetmap.org/node/2248840347,,tokyo
+overpass-23845,カピバラ・ワラビー広場,,hidden_gem,35.996312,139.3768622,overpass,https://www.openstreetmap.org/node/2248840353,,tokyo
+overpass-23846,エミュー,,hidden_gem,35.9970716,139.3783857,overpass,https://www.openstreetmap.org/node/2248840357,,tokyo
+overpass-23847,なかよしコーナー,,hidden_gem,35.9999298,139.3732347,overpass,https://www.openstreetmap.org/node/2248840362,,tokyo
+overpass-23848,フラミンゴ・コウノトリ,,hidden_gem,35.9990191,139.3738877,overpass,https://www.openstreetmap.org/node/2248840364,,tokyo
+overpass-23849,乳牛コーナー,,hidden_gem,35.9994256,139.3715743,overpass,https://www.openstreetmap.org/node/2248840365,,tokyo
+overpass-23850,キツネザル・マダガスカルトキ,,hidden_gem,35.9975734,139.373738,overpass,https://www.openstreetmap.org/node/2248840367,,tokyo
+overpass-23851,シマウマ,,hidden_gem,35.9997276,139.3760897,overpass,https://www.openstreetmap.org/node/2248840368,,tokyo
+overpass-23852,カンガルーコーナー,,hidden_gem,35.9967591,139.3791474,overpass,https://www.openstreetmap.org/node/2248840370,,tokyo
+overpass-23853,小動物コーナー,,hidden_gem,35.9988162,139.3698943,overpass,https://www.openstreetmap.org/node/2248840373,,tokyo
+overpass-23854,花と鳥の丘,,hidden_gem,35.9971723,139.3700173,overpass,https://www.openstreetmap.org/node/2248869139,,tokyo
+overpass-23855,クジャク,,hidden_gem,35.9976878,139.3693472,overpass,https://www.openstreetmap.org/node/2248869145,,tokyo
+overpass-23856,埼玉県平和資料館 展望塔,,hidden_gem,35.9986573,139.3651182,overpass,https://www.openstreetmap.org/node/2253771532,,tokyo
+overpass-23857,ツル,,hidden_gem,35.9980905,139.3722767,overpass,https://www.openstreetmap.org/node/2253796797,,tokyo
+overpass-23858,三鷹天明反転住宅,,hidden_gem,35.6809995,139.5380362,overpass,https://www.openstreetmap.org/node/2383934564,,tokyo
+overpass-23859,京急デハ268,,hidden_gem,35.721599,139.6799848,overpass,https://www.openstreetmap.org/node/2707990752,,tokyo
+overpass-23860,ジャングルクルーズ,,hidden_gem,35.6339528,139.8824076,overpass,https://www.openstreetmap.org/node/2713524339,,tokyo
+overpass-23861,バンデット,,hidden_gem,35.6255742,139.5181231,overpass,https://www.openstreetmap.org/node/2763020275,,tokyo
+overpass-23862,ジャイアントスカイリバー,,hidden_gem,35.6243574,139.5206376,overpass,https://www.openstreetmap.org/node/2763020278,,tokyo
+overpass-23863,レーザーアスレチック ファラオの罠,,hidden_gem,35.6260492,139.518107,overpass,https://www.openstreetmap.org/node/2763020279,,tokyo
+overpass-23864,アニマルレスキュー,,hidden_gem,35.6260473,139.5180987,overpass,https://www.openstreetmap.org/node/2763020283,,tokyo
+overpass-23865,ゴーカート,,hidden_gem,35.6249376,139.5190297,overpass,https://www.openstreetmap.org/node/2763020286,,tokyo
+overpass-23866,タートル・トーク,,hidden_gem,35.6233239,139.8874676,overpass,https://www.openstreetmap.org/node/2770417080,,tokyo
+overpass-23867,マジックランプシアター,,hidden_gem,35.6285626,139.883104,overpass,https://www.openstreetmap.org/node/2770484862,,tokyo
+overpass-23868,フランダーのフライングフィッシュコースター,,hidden_gem,35.6271738,139.8823191,overpass,https://www.openstreetmap.org/node/2770501380,,tokyo
+overpass-23869,ブローフィッシュ・バルーンレース,indoors,hidden_gem,35.6265401,139.8829696,overpass,https://www.openstreetmap.org/node/2770537440,,tokyo
+overpass-23870,ジャンピン・ジェリーフィッシュ,indoors,hidden_gem,35.6264458,139.8833143,overpass,https://www.openstreetmap.org/node/2770551169,,tokyo
+overpass-23871,マーメイドラグーンシアター,indoors,hidden_gem,35.6262202,139.8830533,overpass,https://www.openstreetmap.org/node/2770551173,,tokyo
+overpass-23872,海底2万マイル,,hidden_gem,35.6263849,139.884684,overpass,https://www.openstreetmap.org/node/2770576773,,tokyo
+overpass-23873,アリエルのプレイグラウンド,,hidden_gem,35.6267105,139.8830194,overpass,https://www.openstreetmap.org/node/2770576798,,tokyo
+overpass-23874,ナンジャタウン,,hidden_gem,35.7288803,139.7196965,overpass,https://www.openstreetmap.org/node/2802694590,,tokyo
+overpass-23875,ダイダラボッチ伝説の地,,hidden_gem,35.6659442,139.6623138,overpass,https://www.openstreetmap.org/node/3257774992,,tokyo
+overpass-23876,JAXA地球観測展示室,,hidden_gem,36.0030189,139.3491763,overpass,https://www.openstreetmap.org/node/3345070926,,tokyo
+overpass-23877,代田富士見橋,富士山の眺望がすばらしい！　2015年3月8日開通,hidden_gem,35.6579103,139.6600005,overpass,https://www.openstreetmap.org/node/3376106759,wheelchair,tokyo
+overpass-23878,ペニーアーケード,,hidden_gem,35.6340158,139.8795555,overpass,https://www.openstreetmap.org/node/3692911380,,tokyo
+overpass-23880,思い出横丁,,hidden_gem,35.6930689,139.6995016,overpass,https://www.openstreetmap.org/node/4154282189,wheelchair,tokyo
+overpass-23881,Restaurants Sushi e Cenas,,hidden_gem,35.7082202,139.7742278,overpass,https://www.openstreetmap.org/node/4165484098,,tokyo
+overpass-23882,柳原閘門,近代化産業遺産,hidden_gem,35.7520051,139.891982,overpass,https://www.openstreetmap.org/node/4168568742,,tokyo
+overpass-23883,水車小屋,,hidden_gem,35.5684737,139.5010553,overpass,https://www.openstreetmap.org/node/4274597575,,tokyo
+overpass-23884,Taito Station Shinjuku South Exit,,hidden_gem,35.689805,139.7022802,overpass,https://www.openstreetmap.org/node/4303422825,,tokyo
+overpass-23885,天神湯 ( てんじんゆ ),,hidden_gem,35.6991187,139.6896393,overpass,https://www.openstreetmap.org/node/4348162791,,tokyo
+overpass-23886,恐竜の足跡,,hidden_gem,36.0714767,138.8299292,overpass,https://www.openstreetmap.org/node/4373113894,,tokyo
+overpass-23887,ハイパーレーン,,hidden_gem,35.7327694,139.7135437,overpass,https://www.openstreetmap.org/node/4379340492,,tokyo
+overpass-23888,チャレンジサイクル,,hidden_gem,35.5594772,139.4922471,overpass,https://www.openstreetmap.org/node/4394446154,,tokyo
+overpass-23889,芝浦アイランドエアタワー,,hidden_gem,35.6411314,139.7520058,overpass,https://www.openstreetmap.org/node/4403659290,,tokyo
+overpass-23890,試衛館跡,,hidden_gem,35.699034,139.726753,overpass,https://www.openstreetmap.org/node/4409374259,,tokyo
+overpass-23891,アウル,,hidden_gem,35.7334991,139.7112121,overpass,https://www.openstreetmap.org/node/4434538192,,tokyo
+overpass-23892,北柏ふれあい公園 (KKF),,hidden_gem,35.8685661,139.9903341,overpass,https://www.openstreetmap.org/node/4434575893,,tokyo
+overpass-23893,ないものわない,,hidden_gem,35.7201722,139.7954152,overpass,https://www.openstreetmap.org/node/4486828091,,tokyo
+overpass-23894,アメヤ横丁,,hidden_gem,35.7100592,139.7745428,overpass,https://www.openstreetmap.org/node/4496960001,wheelchair,tokyo
+overpass-23895,TOMODACHI LANE,,hidden_gem,35.7522319,139.3389386,overpass,https://www.openstreetmap.org/node/4505231090,,tokyo
+overpass-23896,ホタル,,hidden_gem,35.5676515,139.5002382,overpass,https://www.openstreetmap.org/node/4529528146,,tokyo
+overpass-23897,高尾山さる園・野草園,,hidden_gem,35.6298255,139.2549341,overpass,https://www.openstreetmap.org/node/4554762389,,tokyo
+overpass-23898,石川酒造,,hidden_gem,35.7188059,139.3321401,overpass,https://www.openstreetmap.org/node/4624069592,,tokyo
+overpass-23899,東京ラーメンストリート,,hidden_gem,35.6803754,139.7678774,overpass,https://www.openstreetmap.org/node/4646514992,wheelchair,tokyo
+overpass-23900,品川一里塚,,hidden_gem,35.619985,139.7421504,overpass,https://www.openstreetmap.org/node/4662967611,,tokyo
+overpass-23901,ウノタワ,,hidden_gem,35.9213217,139.1099353,overpass,https://www.openstreetmap.org/node/4663300562,,tokyo
+overpass-23902,阿美橫丁,,hidden_gem,35.7097123,139.7743577,overpass,https://www.openstreetmap.org/node/4670288696,,tokyo
+overpass-23903,岩畳,,hidden_gem,36.0946797,139.1157823,overpass,https://www.openstreetmap.org/node/4678633730,,tokyo
+overpass-23904,這是家,,hidden_gem,35.8657365,139.7674265,overpass,https://www.openstreetmap.org/node/4681190004,,tokyo
+overpass-23905,狛江の五本松,昔は時代劇のロケによく使われていた,hidden_gem,35.6324772,139.5662938,overpass,https://www.openstreetmap.org/node/4681555681,,tokyo
+overpass-23906,合羽橋,,hidden_gem,35.7125201,139.7885498,overpass,https://www.openstreetmap.org/node/4691630391,,tokyo
+overpass-23907,芝桜の丘,,hidden_gem,35.9812258,139.0887078,overpass,https://www.openstreetmap.org/node/4695055444,cherry_blossom,tokyo
+overpass-23908,Bridge with river and cherry blossom view,,hidden_gem,35.6358999,139.7084871,overpass,https://www.openstreetmap.org/node/4773491042,,tokyo
+overpass-23909,La Porte Aoyama,,hidden_gem,35.6628143,139.709538,overpass,https://www.openstreetmap.org/node/4803759626,,tokyo
+overpass-23910,ポニー牧場,,hidden_gem,35.5603682,139.4949936,overpass,https://www.openstreetmap.org/node/4819521112,,tokyo
+overpass-23911,Cơm hộp,,hidden_gem,35.9239325,139.8422604,overpass,https://www.openstreetmap.org/node/4829891526,,tokyo
+overpass-23912,亀戸梅屋敷,,hidden_gem,35.7016038,139.8255702,overpass,https://www.openstreetmap.org/node/4879948722,,tokyo
+overpass-23913,歌舞伎町,,hidden_gem,35.6952491,139.7031183,overpass,https://www.openstreetmap.org/node/4881027723,,tokyo
+overpass-23914,亀戸の富士塚,,hidden_gem,35.695902,139.8441876,overpass,https://www.openstreetmap.org/node/4928552025,,tokyo
+overpass-23915,錦糸町道場,,hidden_gem,35.688094,139.8097842,overpass,https://www.openstreetmap.org/node/4932084625,,tokyo
+overpass-23916,土俵,,hidden_gem,35.6961211,139.7928128,overpass,https://www.openstreetmap.org/node/4932090521,,tokyo
+overpass-23917,アリじごく,,hidden_gem,35.5639129,139.4874323,overpass,https://www.openstreetmap.org/node/4946911464,,tokyo
+overpass-23918,ハス,,hidden_gem,35.7131688,139.7717749,overpass,https://www.openstreetmap.org/node/4987634563,,tokyo
+overpass-23919,カワウ,,hidden_gem,35.7134594,139.7715925,overpass,https://www.openstreetmap.org/node/4987697650,,tokyo
+overpass-23920,屋上庭園,,hidden_gem,35.673678,139.7791065,overpass,https://www.openstreetmap.org/node/4999493525,,tokyo
+overpass-23921,D51機関車の動輪,,hidden_gem,35.6661,139.7587437,overpass,https://www.openstreetmap.org/node/5016411427,,tokyo
+overpass-23922,屋上スカイツリー展望,,hidden_gem,35.7119443,139.7982413,overpass,https://www.openstreetmap.org/node/5102970721,,tokyo
+overpass-23923,緑と花の学習園,,hidden_gem,35.7089048,139.8253781,overpass,https://www.openstreetmap.org/node/5102971621,,tokyo
+overpass-23924,Clone Factory (Build a replica of yourself),,hidden_gem,35.6974253,139.772526,overpass,https://www.openstreetmap.org/node/5147139423,,tokyo
+overpass-23925,方南銀座商店街,,hidden_gem,35.683558,139.6584106,overpass,https://www.openstreetmap.org/node/5172041100,wheelchair,tokyo
+overpass-23926,はねかめ,,hidden_gem,35.6979328,139.824866,overpass,https://www.openstreetmap.org/node/5232392027,,tokyo
+overpass-23927,ひさつき氷柱,,hidden_gem,36.0284039,138.9406082,overpass,https://www.openstreetmap.org/node/5237748121,,tokyo
+overpass-23928,ルーピングスターシップ,,hidden_gem,35.6245626,139.5197979,overpass,https://www.openstreetmap.org/node/5265068007,,tokyo
+overpass-23929,わんデット,,hidden_gem,35.6248911,139.5182461,overpass,https://www.openstreetmap.org/node/5265068015,,tokyo
+overpass-23930,プテラサイクル,,hidden_gem,35.6251426,139.518358,overpass,https://www.openstreetmap.org/node/5265070632,,tokyo
+overpass-23931,さざれ石,,hidden_gem,35.7015606,139.7679825,overpass,https://www.openstreetmap.org/node/5292835775,,tokyo
+overpass-23932,Studio Booty,,hidden_gem,35.6887858,139.8389295,overpass,https://www.openstreetmap.org/node/5313158724,,tokyo
+overpass-23933,お台場,,hidden_gem,35.6275347,139.7714719,overpass,https://www.openstreetmap.org/node/5337040199,,tokyo
+overpass-23934,村山快哉堂,,hidden_gem,35.8357487,139.5810832,overpass,https://www.openstreetmap.org/node/5344800584,,tokyo
+overpass-23935,神田古書店街,,hidden_gem,35.69586,139.7586067,overpass,https://www.openstreetmap.org/node/5403391605,,tokyo
+overpass-23936,汐留SIO-SITE,,hidden_gem,35.6646201,139.7604893,overpass,https://www.openstreetmap.org/node/5439020592,,tokyo
+overpass-23937,横綱土俵入り像,,hidden_gem,35.6956557,139.7919432,overpass,https://www.openstreetmap.org/node/5439427932,,tokyo
+overpass-23938,水準原点,,hidden_gem,35.6772124,139.7478515,overpass,https://www.openstreetmap.org/node/5439434433,,tokyo
+overpass-23939,赤坂サカス,,hidden_gem,35.6723363,139.7355878,overpass,https://www.openstreetmap.org/node/5471047452,,tokyo
+overpass-23940,権現堂桜堤,,hidden_gem,36.0907999,139.7249298,overpass,https://www.openstreetmap.org/node/5528666293,cherry_blossom;wheelchair,tokyo
+overpass-23941,河津桜,,hidden_gem,35.6729956,139.8098145,overpass,https://www.openstreetmap.org/node/5539721529,cherry_blossom,tokyo
+overpass-23942,無線山桜並木,,hidden_gem,35.9867661,139.6179324,overpass,https://www.openstreetmap.org/node/5556243752,cherry_blossom,tokyo
+overpass-23943,箕輪,,hidden_gem,35.705342,139.815162,overpass,https://www.openstreetmap.org/node/5603040004,,tokyo
+overpass-23944,はとバス東京営業所,,hidden_gem,35.679007,139.765747,overpass,https://www.openstreetmap.org/node/5603040005,,tokyo
+overpass-23945,坂東市観光交流センター 秀緑,,hidden_gem,36.049931,139.88476,overpass,https://www.openstreetmap.org/node/5624515221,,tokyo
+overpass-23946,水琴窟,,hidden_gem,35.7075342,139.7687091,overpass,https://www.openstreetmap.org/node/5632475574,,tokyo
+overpass-23947,バラの小径,,hidden_gem,35.9921982,139.4883522,overpass,https://www.openstreetmap.org/node/5646192984,,tokyo
+overpass-23948,RCオアフ,,hidden_gem,35.5938169,139.5366087,overpass,https://www.openstreetmap.org/node/5670448921,,tokyo
+overpass-23949,幽冥鐘,,hidden_gem,35.6988682,139.7967718,overpass,https://www.openstreetmap.org/node/5715209502,,tokyo
+overpass-23950,史跡 駒止井戸,,hidden_gem,35.6980578,139.7938889,overpass,https://www.openstreetmap.org/node/5721701872,,tokyo
+overpass-23951,駒止石,,hidden_gem,35.6980375,139.7938697,overpass,https://www.openstreetmap.org/node/5721701873,,tokyo
+overpass-23952,ふれあい動物広場,,hidden_gem,36.0533742,139.1586913,overpass,https://www.openstreetmap.org/node/5756927476,,tokyo
+overpass-23953,彩の国ふれあい牧場,,hidden_gem,36.0535922,139.1575956,overpass,https://www.openstreetmap.org/node/5756927477,,tokyo
+overpass-23954,大奥跡,,hidden_gem,35.6873627,139.7553982,overpass,https://www.openstreetmap.org/node/5808073053,,tokyo
+overpass-23955,シカ,,hidden_gem,35.9952297,139.3744763,overpass,https://www.openstreetmap.org/node/5821777719,,tokyo
+overpass-23956,ペンギンヒルズ,,hidden_gem,35.9984005,139.3689848,overpass,https://www.openstreetmap.org/node/5821846033,,tokyo
+overpass-23957,レッサーパンダ舎,,hidden_gem,35.9989803,139.3706134,overpass,https://www.openstreetmap.org/node/5821977709,,tokyo
+overpass-23958,第二中里踏切,,hidden_gem,35.7391202,139.7526088,overpass,https://www.openstreetmap.org/node/5833877562,,tokyo
+overpass-23959,SAP草加ボウル,,hidden_gem,35.8354396,139.8186133,overpass,https://www.openstreetmap.org/node/5886804101,,tokyo
+overpass-23960,東京バーチャルサーキット,,hidden_gem,35.669556,139.7370353,overpass,https://www.openstreetmap.org/node/5911510186,,tokyo
+overpass-23961,バードサンクチュアリ,,hidden_gem,35.6711253,139.6982773,overpass,https://www.openstreetmap.org/node/5920275585,,tokyo
+overpass-23962,Amazake Yokocho,,hidden_gem,35.6838236,139.7823296,overpass,https://www.openstreetmap.org/node/5981208786,,tokyo
+overpass-23963,国立スポーツ科学センターフットサルコート,,hidden_gem,35.7678756,139.707255,overpass,https://www.openstreetmap.org/node/6048351385,,tokyo
+overpass-23964,みたか井心亭,,hidden_gem,35.6967209,139.5669436,overpass,https://www.openstreetmap.org/node/6055086216,,tokyo
+overpass-23965,六本木ヒルズイルミネーション,六本木ヒルズ・けやき坂通りのクリスマスイルミネーション,hidden_gem,35.65918,139.7298671,overpass,https://www.openstreetmap.org/node/6127216097,night_view;wheelchair,tokyo
+overpass-23966,巣鴨地蔵通り商店街,,hidden_gem,35.7387979,139.7306169,overpass,https://www.openstreetmap.org/node/6127218288,,tokyo
+overpass-23967,スピニング岩,,hidden_gem,35.6315883,139.8842666,overpass,https://www.openstreetmap.org/node/6175539711,,tokyo
+overpass-23968,奉献酒樽,,hidden_gem,35.6736842,139.7019092,overpass,https://www.openstreetmap.org/node/6199655893,,tokyo
+overpass-23969,渋谷駅 A0,,hidden_gem,35.6593672,139.6985057,overpass,https://www.openstreetmap.org/node/6222818680,,tokyo
+overpass-23970,かわさき宙と緑の科学館,,hidden_gem,35.608501,139.5614498,overpass,https://www.openstreetmap.org/node/6320388246,,tokyo
+overpass-23971,川崎市伝統工芸館,,hidden_gem,35.6088722,139.557177,overpass,https://www.openstreetmap.org/node/6320388251,,tokyo
+overpass-23972,川崎市制記念多摩川花火大会,,hidden_gem,35.6049084,139.6307411,overpass,https://www.openstreetmap.org/node/6320388253,,tokyo
+overpass-23973,香林寺,,hidden_gem,35.616308,139.5134498,overpass,https://www.openstreetmap.org/node/6320388257,shade,tokyo
+overpass-23974,麻生不動院,,hidden_gem,35.5807045,139.5063984,overpass,https://www.openstreetmap.org/node/6320388259,,tokyo
+overpass-23975,Rocks garden,,hidden_gem,35.7762956,139.1434384,overpass,https://www.openstreetmap.org/node/6328203211,,tokyo
+overpass-23976,Boutique de baguettes artisanales,,hidden_gem,35.7173548,139.814323,overpass,https://www.openstreetmap.org/node/6336545985,,tokyo
+overpass-23977,Harajuku Station,,hidden_gem,35.6709419,139.7023936,overpass,https://www.openstreetmap.org/node/6340053385,,tokyo
+overpass-23978,仙台堀川公園 西端,,hidden_gem,35.6761439,139.8124737,overpass,https://www.openstreetmap.org/node/6342605089,,tokyo
+overpass-23979,Cat cafe Nyankoto,,hidden_gem,35.7128009,139.7065242,overpass,https://www.openstreetmap.org/node/6345031987,,tokyo
+overpass-23980,銀座四丁目交差点,,hidden_gem,35.6712197,139.7650359,overpass,https://www.openstreetmap.org/node/6346639685,,tokyo
+overpass-23981,Silk Road cosmetic Ueno,,hidden_gem,35.7081654,139.7746873,overpass,https://www.openstreetmap.org/node/6346685086,,tokyo
+overpass-23982,Kitchen Street,,hidden_gem,35.6827329,139.7687319,overpass,https://www.openstreetmap.org/node/6350139786,,tokyo
+overpass-23983,勝鬨橋,,hidden_gem,35.662745,139.7744236,overpass,https://www.openstreetmap.org/node/6351835586,,tokyo
+overpass-23984,Sunamachi Ginza Shopping Street,,hidden_gem,35.679295,139.8277181,overpass,https://www.openstreetmap.org/node/6352638585,,tokyo
+overpass-23985,Costco misato,,hidden_gem,35.8582833,139.8667753,overpass,https://www.openstreetmap.org/node/6357495285,,tokyo
+overpass-23986,三十槌の氷柱,,hidden_gem,35.9443713,138.9253166,overpass,https://www.openstreetmap.org/node/6358826485,,tokyo
+overpass-23987,都電6080号,,hidden_gem,35.7503675,139.7387432,overpass,https://www.openstreetmap.org/node/6380694945,,tokyo
+overpass-23988,蒸気機関車D51 853,,hidden_gem,35.7501111,139.7388469,overpass,https://www.openstreetmap.org/node/6380696689,,tokyo
+overpass-23989,フラミンゴ,,hidden_gem,35.6539417,139.4030223,overpass,https://www.openstreetmap.org/node/6392975966,,tokyo
+overpass-23990,忠犬ハチ公像,,hidden_gem,35.6590597,139.7006279,overpass,https://www.openstreetmap.org/node/597685675,wheelchair,tokyo
+overpass-23991,多摩川ドナウ川友好記念碑,,hidden_gem,35.6116257,139.6240712,overpass,https://www.openstreetmap.org/node/603161166,,tokyo
+overpass-23992,東京大仏,,hidden_gem,35.7820546,139.644631,overpass,https://www.openstreetmap.org/node/648824772,,tokyo
+overpass-23993,ウルトラマン 像,,hidden_gem,35.6433009,139.6089166,overpass,https://www.openstreetmap.org/node/961344393,,tokyo
+overpass-23994,平和の女神像,,hidden_gem,35.7132106,139.7047648,overpass,https://www.openstreetmap.org/node/1116455531,,tokyo
+overpass-23995,花の童子,,hidden_gem,35.7035051,139.6002731,overpass,https://www.openstreetmap.org/node/1219142018,,tokyo
+overpass-23996,Partners,,hidden_gem,35.633499,139.8800548,overpass,https://www.openstreetmap.org/node/1345595271,,tokyo
+overpass-23997,浦和うなこちゃん,,hidden_gem,35.8561542,139.6411407,overpass,https://www.openstreetmap.org/node/1379745348,,tokyo
+overpass-23998,オベリスク・ジラフ,1989年に東京駅八重洲口近くに設置された安藤泉の金属製キリンの彫刻。高さ6.25mで、伝統的な中国医学の王としてのキリンを象徴する冠をかぶっており、元の設置場所である津村ビルを示している。,hidden_gem,35.6795681,139.7716193,overpass,https://www.openstreetmap.org/node/1423728722,wheelchair,tokyo
+overpass-23999,伊能忠敬像,,hidden_gem,35.6710251,139.7990836,overpass,https://www.openstreetmap.org/node/1651573980,,tokyo
+overpass-24000,浦和うなこちゃん,,hidden_gem,35.8587326,139.656116,overpass,https://www.openstreetmap.org/node/1672906425,,tokyo
+overpass-24001,水辺,,hidden_gem,35.7844999,139.6443048,overpass,https://www.openstreetmap.org/node/1685884949,,tokyo
+overpass-24002,すがもんのおしり,,hidden_gem,35.7375515,139.7318966,overpass,https://www.openstreetmap.org/node/1870958134,wheelchair,tokyo
+overpass-24003,りんりんちゃん,,hidden_gem,35.7463812,139.7196659,overpass,https://www.openstreetmap.org/node/1881824293,,tokyo
+overpass-24004,月の番兵,,hidden_gem,35.6154666,139.1888616,overpass,https://www.openstreetmap.org/node/1938984587,,tokyo
+overpass-24005,日テレ大時計,,hidden_gem,35.6641123,139.7599394,overpass,https://www.openstreetmap.org/node/1966230113,,tokyo
+overpass-24006,仏像,,hidden_gem,35.6148488,139.4694683,overpass,https://www.openstreetmap.org/node/1996467964,,tokyo
+overpass-24007,水紋,,hidden_gem,35.6571062,139.3387398,overpass,https://www.openstreetmap.org/node/2139783803,,tokyo
+overpass-24008,カタリストBA,クリエイティブ・シティ・コンソーシアムが運営するコミュニティスペース。次世代のまちづくりに関連する様々なワークショップが開催されています。,hidden_gem,35.6117522,139.6280845,overpass,https://www.openstreetmap.org/node/2172462129,,tokyo
+overpass-24009,地球儀,,hidden_gem,35.6865734,139.6947633,overpass,https://www.openstreetmap.org/node/2198645201,,tokyo
+overpass-24010,叡知と慈愛の女神像,,hidden_gem,35.6858486,139.6937259,overpass,https://www.openstreetmap.org/node/2199448663,,tokyo
+overpass-24011,みはらし,,hidden_gem,35.9893087,139.378895,overpass,https://www.openstreetmap.org/node/2245831169,,tokyo
+overpass-24012,どんぐりころころ,,hidden_gem,35.661365,139.8929124,overpass,https://www.openstreetmap.org/node/2282805727,,tokyo
+overpass-24013,離陸 1911,,hidden_gem,35.800676,139.472442,overpass,https://www.openstreetmap.org/node/2320296845,,tokyo
+overpass-24014,モヤイ像,,hidden_gem,35.6545959,139.7625479,overpass,https://www.openstreetmap.org/node/2327856045,,tokyo
+overpass-24015,渚,,hidden_gem,35.6329364,139.7362686,overpass,https://www.openstreetmap.org/node/2343308363,,tokyo
+overpass-24016,健康像,,hidden_gem,35.6456548,139.7453366,overpass,https://www.openstreetmap.org/node/2345123814,,tokyo
+overpass-24017,よろこび,,hidden_gem,35.6802117,139.403441,overpass,https://www.openstreetmap.org/node/2384095353,,tokyo
+overpass-24018,みどり,,hidden_gem,35.6802252,139.4034683,overpass,https://www.openstreetmap.org/node/2384096083,,tokyo
+overpass-24019,はばたき,,hidden_gem,35.6801925,139.4034041,overpass,https://www.openstreetmap.org/node/2384096241,,tokyo
+overpass-24020,無限,,hidden_gem,35.6638517,139.7411411,overpass,https://www.openstreetmap.org/node/2408527810,wheelchair,tokyo
+overpass-24021,重力の無い杜,,hidden_gem,35.6185818,139.7786744,overpass,https://www.openstreetmap.org/node/2410758710,,tokyo
+overpass-24022,ROUND STRUCTURE-1995,,hidden_gem,35.618812,139.778584,overpass,https://www.openstreetmap.org/node/2410760265,,tokyo
+overpass-24023,fACING tIME,,hidden_gem,35.670814,139.7039771,overpass,https://www.openstreetmap.org/node/2442701439,,tokyo
+overpass-24024,碧空の花,,hidden_gem,35.6185024,139.779015,overpass,https://www.openstreetmap.org/node/2534481212,,tokyo
+overpass-24025,自由の炎,,hidden_gem,35.6241491,139.7739592,overpass,https://www.openstreetmap.org/node/2534517787,wheelchair,tokyo
+overpass-24026,⚪︎△◻︎大拙考,,hidden_gem,35.779534,139.724809,overpass,https://www.openstreetmap.org/node/2558053466,wheelchair,tokyo
+overpass-24027,プレゼント,,hidden_gem,35.779527,139.726224,overpass,https://www.openstreetmap.org/node/2558056391,wheelchair,tokyo
+overpass-24028,silent language,,hidden_gem,35.779408,139.72378,overpass,https://www.openstreetmap.org/node/2558149510,wheelchair,tokyo
+overpass-24029,月を射る,,hidden_gem,35.787404,139.730948,overpass,https://www.openstreetmap.org/node/2558160458,,tokyo
+overpass-24030,粟穂・稗穂,,hidden_gem,35.7388396,139.4447023,overpass,https://www.openstreetmap.org/node/2559515394,,tokyo
+overpass-24031,華ごろも,,hidden_gem,35.6954451,139.7704671,overpass,https://www.openstreetmap.org/node/2567982646,,tokyo
+overpass-24032,雨,,hidden_gem,35.612436,139.138263,overpass,https://www.openstreetmap.org/node/2569241043,,tokyo
+overpass-24033,芽軸,,hidden_gem,35.611588,139.13703,overpass,https://www.openstreetmap.org/node/2569242932,,tokyo
+overpass-24034,羅典薔薇,,hidden_gem,35.6036614,139.1342037,overpass,https://www.openstreetmap.org/node/2569245764,,tokyo
+overpass-24035,吠える,,hidden_gem,35.602947,139.133718,overpass,https://www.openstreetmap.org/node/2569250959,,tokyo
+overpass-24036,回帰する球体,,hidden_gem,35.6028925,139.1340904,overpass,https://www.openstreetmap.org/node/2569255626,,tokyo
+overpass-24037,語り合う石たち,,hidden_gem,35.603454,139.133486,overpass,https://www.openstreetmap.org/node/2569263862,,tokyo
+overpass-24038,森の守護神,,hidden_gem,35.601895,139.137822,overpass,https://www.openstreetmap.org/node/2569266832,shade,tokyo
+overpass-24039,射影子午線,,hidden_gem,35.604573,139.143644,overpass,https://www.openstreetmap.org/node/2569269518,,tokyo
+overpass-24040,限定と無限定,,hidden_gem,35.604565,139.144604,overpass,https://www.openstreetmap.org/node/2569270974,,tokyo
+overpass-24041,COSMOS,,hidden_gem,35.604888,139.145447,overpass,https://www.openstreetmap.org/node/2569272170,,tokyo
+overpass-24042,記憶容量-水より、台地より,,hidden_gem,35.61208,139.156396,overpass,https://www.openstreetmap.org/node/2569284442,,tokyo
+overpass-24043,記憶容量-水より、台地より,,hidden_gem,35.614188,139.155337,overpass,https://www.openstreetmap.org/node/2569289976,,tokyo
+overpass-24044,瀞,,hidden_gem,35.615249,139.154776,overpass,https://www.openstreetmap.org/node/2569298112,,tokyo
+overpass-24045,フジノゲート,,hidden_gem,35.6158057,139.1523131,overpass,https://www.openstreetmap.org/node/2569309873,,tokyo
+overpass-24046,カナダ雁,,hidden_gem,35.614738,139.148724,overpass,https://www.openstreetmap.org/node/2569317689,,tokyo
+overpass-24047,庵,,hidden_gem,35.606274,139.135268,overpass,https://www.openstreetmap.org/node/2569325183,,tokyo
+overpass-24048,森の記念碑,,hidden_gem,35.607047,139.136454,overpass,https://www.openstreetmap.org/node/2569325394,shade,tokyo
+overpass-24049,あなたと…明日の空の色について,,hidden_gem,35.6131,139.146228,overpass,https://www.openstreetmap.org/node/2569329596,,tokyo
+overpass-24050,空を持つ柱,,hidden_gem,35.611833,139.1375973,overpass,https://www.openstreetmap.org/node/2569334150,,tokyo
+overpass-24051,カリブー,,hidden_gem,35.610562,139.150371,overpass,https://www.openstreetmap.org/node/2569337252,,tokyo
+overpass-24052,トライアングル・ウインド・ソング,,hidden_gem,35.60918,139.150281,overpass,https://www.openstreetmap.org/node/2569352120,,tokyo
+overpass-24053,過去からのひびき(エコー) 円盤,,hidden_gem,35.607876,139.148945,overpass,https://www.openstreetmap.org/node/2569361090,,tokyo
+overpass-24054,過去からのひびき(エコー) 都市,,hidden_gem,35.6083773,139.1494387,overpass,https://www.openstreetmap.org/node/2569376123,,tokyo
+overpass-24055,両側の丘の斜面,,hidden_gem,35.60709,139.150219,overpass,https://www.openstreetmap.org/node/2569377855,,tokyo
+overpass-24056,FLORA/FAUNA,,hidden_gem,35.6052504,139.1346911,overpass,https://www.openstreetmap.org/node/2570950602,,tokyo
+overpass-24057,愛の鐘,,hidden_gem,35.6101588,139.148366,overpass,https://www.openstreetmap.org/node/2570950664,,tokyo
+overpass-24058,未来への躍動／季節の翼,,hidden_gem,35.6066699,139.1366115,overpass,https://www.openstreetmap.org/node/2570950665,,tokyo
+overpass-24059,LA FAMIGLIA（家族）,,hidden_gem,35.7001215,139.4148863,overpass,https://www.openstreetmap.org/node/2718510809,,tokyo
+overpass-24060,記憶の扉,,hidden_gem,35.9178,139.631518,overpass,https://www.openstreetmap.org/node/2751356375,,tokyo
+overpass-24061,中山大仏,,hidden_gem,35.7202021,139.9487649,overpass,https://www.openstreetmap.org/node/2835247894,,tokyo
+overpass-24062,こりすのトトちゃん,,hidden_gem,35.9069331,139.6251181,overpass,https://www.openstreetmap.org/node/2907479408,,tokyo
+overpass-24063,可美真手命,,hidden_gem,35.6602456,139.7630131,overpass,https://www.openstreetmap.org/node/2918077535,,tokyo
+overpass-24064,躍進,,hidden_gem,35.6263335,139.3405504,overpass,https://www.openstreetmap.org/node/2932493035,,tokyo
+overpass-24065,躍進,,hidden_gem,35.626498,139.3404819,overpass,https://www.openstreetmap.org/node/2932493037,,tokyo
+overpass-24066,躍進,,hidden_gem,35.6265258,139.3404383,overpass,https://www.openstreetmap.org/node/2932493038,,tokyo
+overpass-24067,蓮の子,,hidden_gem,35.6631207,139.8738619,overpass,https://www.openstreetmap.org/node/2977335214,,tokyo
+overpass-24068,地球まほろば,gexpo ,hidden_gem,35.619297,139.777494,overpass,https://www.openstreetmap.org/node/3090353065,,tokyo
+overpass-24069,大隈重信銅像,,hidden_gem,35.7087916,139.7196203,overpass,https://www.openstreetmap.org/node/3163911661,,tokyo
+overpass-24070,空間工場,,hidden_gem,35.6588018,139.6601931,overpass,https://www.openstreetmap.org/node/3213570166,,tokyo
+overpass-24071,栗山久次郎,,hidden_gem,35.6104587,139.66912,overpass,https://www.openstreetmap.org/node/3221184059,,tokyo
+overpass-24072,大黒天,,hidden_gem,35.6183609,139.7406606,overpass,https://www.openstreetmap.org/node/3322856146,,tokyo
+overpass-24073,時世,,hidden_gem,35.9077354,139.4838434,overpass,https://www.openstreetmap.org/node/3468159344,,tokyo
+overpass-24074,春に寄せて,,hidden_gem,35.6727042,139.4940644,overpass,https://www.openstreetmap.org/node/3498509806,,tokyo
+overpass-24075,無限～夏の星空,,hidden_gem,35.6538666,139.4737574,overpass,https://www.openstreetmap.org/node/3498514450,,tokyo
+overpass-24076,繭のかけ橋,,hidden_gem,35.6753597,139.4738956,overpass,https://www.openstreetmap.org/node/3498515301,,tokyo
+overpass-24077,木陰にて,,hidden_gem,35.6773684,139.4820166,overpass,https://www.openstreetmap.org/node/3498554499,shade,tokyo
+overpass-24078,雲,,hidden_gem,35.6785107,139.4962364,overpass,https://www.openstreetmap.org/node/3498555747,,tokyo
+overpass-24079,童々広場,,hidden_gem,35.6753938,139.4783813,overpass,https://www.openstreetmap.org/node/3498557501,,tokyo
+overpass-24080,ヒポポタマス,,hidden_gem,35.6547423,139.4643299,overpass,https://www.openstreetmap.org/node/3498557947,,tokyo
+overpass-24081,地下のデイジー,,hidden_gem,35.6789287,139.4915902,overpass,https://www.openstreetmap.org/node/3498566368,,tokyo
+overpass-24082,庚申塚古墳,,hidden_gem,35.6415853,139.4340497,overpass,https://www.openstreetmap.org/node/312492160,,tokyo
+overpass-24083,根戸城跡・金塚古墳 (Nedo-jou-ato kanezuka kofun),,hidden_gem,35.8720012,139.9945853,overpass,https://www.openstreetmap.org/node/364276143,,tokyo
+overpass-24084,旧日本軍地下燃料庫跡,地下燃料タンクの通気口,hidden_gem,35.8997945,139.9675751,overpass,https://www.openstreetmap.org/node/684048237,,tokyo
+overpass-24085,市ヶ谷見附,,hidden_gem,35.6914159,139.7361971,overpass,https://www.openstreetmap.org/node/691481681,,tokyo
+overpass-24086,国府台城跡,,hidden_gem,35.7473333,139.9000488,overpass,https://www.openstreetmap.org/node/693050728,,tokyo
+overpass-24087,川越城中ノ堀跡,,hidden_gem,35.9246981,139.4881569,overpass,https://www.openstreetmap.org/node/735957639,,tokyo
+overpass-24088,三変稲荷神社古墳,,hidden_gem,35.9150345,139.4943269,overpass,https://www.openstreetmap.org/node/963334145,,tokyo
+overpass-24089,江戸歌舞伎発祥の地,,hidden_gem,35.6753176,139.7688794,overpass,https://www.openstreetmap.org/node/1327332425,,tokyo
+overpass-24090,庚申堂,,hidden_gem,35.6976179,139.53954,overpass,https://www.openstreetmap.org/node/1596308089,,tokyo
+overpass-24091,桑ハウス,,hidden_gem,35.681859,139.4018021,overpass,https://www.openstreetmap.org/node/1741077919,,tokyo
+overpass-24092,亀塚,,hidden_gem,35.6434571,139.7410318,overpass,https://www.openstreetmap.org/node/2278340011,,tokyo
+overpass-24093,神田猿楽町町会詰所,,hidden_gem,35.699218,139.758187,overpass,https://www.openstreetmap.org/node/2385944690,,tokyo
+overpass-24094,吟花亭跡,,hidden_gem,35.7328038,139.7444972,overpass,https://www.openstreetmap.org/node/2562424497,,tokyo
+overpass-24095,塚場一里塚,,hidden_gem,35.6228346,139.1226074,overpass,https://www.openstreetmap.org/node/2894065000,,tokyo
+overpass-24096,代田連絡線 分岐点,,hidden_gem,35.6623375,139.6619654,overpass,https://www.openstreetmap.org/node/3622968948,,tokyo
+overpass-24097,マンガン抗跡,,hidden_gem,35.7791853,139.2192431,overpass,https://www.openstreetmap.org/node/3733862034,,tokyo
+overpass-24098,田柄用水跡,,hidden_gem,35.7375601,139.5824629,overpass,https://www.openstreetmap.org/node/3815473993,,tokyo
+overpass-24099,大滝小学校三峰分校,,hidden_gem,35.9272781,138.9238514,overpass,https://www.openstreetmap.org/node/5465246921,,tokyo
+overpass-24100,品川本陣跡,,hidden_gem,35.6185905,139.7438313,overpass,https://www.openstreetmap.org/node/5471970415,,tokyo
+overpass-24101,史跡 高輪大木戸跡,,hidden_gem,35.6394427,139.7405892,overpass,https://www.openstreetmap.org/node/5492626503,,tokyo
+overpass-24102,御文庫附属庫,,hidden_gem,35.6869445,139.7496784,overpass,https://www.openstreetmap.org/node/7261650253,,tokyo
+overpass-24103,膳棚遺跡,,hidden_gem,35.7894427,139.4411902,overpass,https://www.openstreetmap.org/node/8973082577,,tokyo
+overpass-24104,真先銭座跡,,hidden_gem,35.7310237,139.8089326,overpass,https://www.openstreetmap.org/node/9771911816,,tokyo
+overpass-24105,shrine ruins,,hidden_gem,35.6617696,139.6810317,overpass,https://www.openstreetmap.org/node/12866536485,,tokyo
+overpass-24106,大谷瓦窯跡,,hidden_gem,36.0708871,139.4024505,overpass,https://www.openstreetmap.org/node/13022683680,,tokyo
+overpass-24107,伊東甲子太郎道場跡,伊東甲子太郎道場は、江東区公式および区立深川江戸資料館の展示で、佐賀1-16付近にあったとされています。ただ、これは異論があるようで、前に私が打ったポイントはそれで消されたのでしょうか。現地は古い長屋やアパートが連なり、それらを民泊ないし簡易宿泊所として一括運用している業者が権利を持っていると思われます。その関連で迷惑だということであれば、また消していただいて構いません。,hidden_gem,35.6765354,139.7909911,overpass,https://www.openstreetmap.org/node/13108584901,,tokyo
+overpass-24108,田原の滝,,waterfall,35.5397412,138.8892718,overpass,https://www.openstreetmap.org/node/758937874,,kanagawa
+overpass-24109,鐘,,hidden_gem,35.265656,139.0172525,overpass,https://www.openstreetmap.org/node/1440505203,,kanagawa
+overpass-24110,宇藤木トンネル,,hidden_gem,35.1722523,139.9799675,overpass,https://www.openstreetmap.org/node/1450327517,,tokyo
+overpass-24111,駒門風穴,,hidden_gem,35.2507713,138.9137218,overpass,https://www.openstreetmap.org/node/2962622244,fee,kanagawa
+overpass-24112,畑宿一里塚,,hidden_gem,35.211289,139.062185,overpass,https://www.openstreetmap.org/node/3193210404,,kanagawa
+overpass-24113,アクアライドII,,hidden_gem,35.3367753,139.6477549,overpass,https://www.openstreetmap.org/node/3215545504,,kanagawa
+overpass-24114,シーパラダイスタワー,,hidden_gem,35.3356158,139.6445732,overpass,https://www.openstreetmap.org/node/3215545505,,kanagawa
+overpass-24115,厄除け門,,hidden_gem,35.5354023,139.7267155,overpass,https://www.openstreetmap.org/node/3362735297,wheelchair,kanagawa
+overpass-24116,霊木 奇跡の銀杏,,hidden_gem,35.5345718,139.7298592,overpass,https://www.openstreetmap.org/node/3362873501,,kanagawa
+overpass-24117,川崎大師仲見世南から外観,,hidden_gem,35.534033,139.730332,overpass,https://www.openstreetmap.org/node/3362908048,wheelchair,kanagawa
+overpass-24118,恋人の聖地,,hidden_gem,35.0960774,139.0770691,overpass,https://www.openstreetmap.org/node/3591728633,,kanagawa
+overpass-24119,大楠,,hidden_gem,35.1006878,139.0676277,overpass,https://www.openstreetmap.org/node/3812047087,,kanagawa
+overpass-24120,スラムダンク登場する場所,,hidden_gem,35.3066013,139.5020923,overpass,https://www.openstreetmap.org/node/3937261506,wheelchair,kanagawa
+overpass-24121,バードショー,,hidden_gem,35.5011675,139.5215799,overpass,https://www.openstreetmap.org/node/4032187562,wheelchair,kanagawa
+overpass-24122,インドゾウ,,hidden_gem,35.4933984,139.5267685,overpass,https://www.openstreetmap.org/node/4032259307,,kanagawa
+overpass-24123,マレーバク,,hidden_gem,35.4938169,139.5255694,overpass,https://www.openstreetmap.org/node/4032282998,,kanagawa
+overpass-24124,ボルネオオランウータン,,hidden_gem,35.4932185,139.5262421,overpass,https://www.openstreetmap.org/node/4032289538,,kanagawa
+overpass-24125,スマトラトラ,,hidden_gem,35.4933855,139.5255886,overpass,https://www.openstreetmap.org/node/4032433036,,kanagawa
+overpass-24126,ウンピョウ,,hidden_gem,35.4929761,139.5258056,overpass,https://www.openstreetmap.org/node/4032444468,,kanagawa
+overpass-24127,ライオン,,hidden_gem,35.5010801,139.5202547,overpass,https://www.openstreetmap.org/node/4032469109,,kanagawa
+overpass-24128,カワセミ,,hidden_gem,35.5046651,139.5361227,overpass,https://www.openstreetmap.org/node/4095566189,,kanagawa
+overpass-24129,ホタル,,hidden_gem,35.5023718,139.5336479,overpass,https://www.openstreetmap.org/node/4095606565,,kanagawa
+overpass-24130,ホタル,,hidden_gem,35.5029284,139.5333409,overpass,https://www.openstreetmap.org/node/4095606566,,kanagawa
+overpass-24131,水琴窟,,hidden_gem,35.4442539,139.6413327,overpass,https://www.openstreetmap.org/node/4116231327,,kanagawa
+overpass-24132,馬の背洞門,,hidden_gem,35.1312348,139.6183254,overpass,https://www.openstreetmap.org/node/4200311204,,kanagawa
+overpass-24133,東京湾観音,,hidden_gem,35.2634007,139.8624669,overpass,https://www.openstreetmap.org/node/4204843099,,tokyo
+overpass-24134,太閤風呂,,hidden_gem,35.2441858,139.0564811,overpass,https://www.openstreetmap.org/node/4326967991,,kanagawa
+overpass-24135,大房岬の要塞群,,hidden_gem,35.0383399,139.8119673,overpass,https://www.openstreetmap.org/node/4370760772,,tokyo
+overpass-24136,小田原城お濠の夜桜,,hidden_gem,35.2510879,139.1567499,overpass,https://www.openstreetmap.org/node/4375125754,cherry_blossom,kanagawa
+overpass-24137,あわしまマリンパーク,,hidden_gem,35.0335761,138.8900153,overpass,https://www.openstreetmap.org/node/4441605990,,kanagawa
+overpass-24138,水琴窟,,hidden_gem,35.5361711,139.477525,overpass,https://www.openstreetmap.org/node/4631557047,,kanagawa
+overpass-24139,大諏訪松長一里塚,,hidden_gem,35.1130965,138.8265923,overpass,https://www.openstreetmap.org/node/4641769077,,kanagawa
+overpass-24140,沼津日枝一里塚,,hidden_gem,35.0995379,138.8685914,overpass,https://www.openstreetmap.org/node/4641775632,,kanagawa
+overpass-24141,笹原一里塚,,hidden_gem,35.1470814,138.979267,overpass,https://www.openstreetmap.org/node/4644151741,,kanagawa
+overpass-24142,伏見一里塚,,hidden_gem,35.1105767,138.8983902,overpass,https://www.openstreetmap.org/node/4644151743,,kanagawa
+overpass-24143,湯本茶屋一里塚,,hidden_gem,35.2281695,139.0968346,overpass,https://www.openstreetmap.org/node/4652538484,,kanagawa
+overpass-24144,葭原久保一里塚,,hidden_gem,35.1992638,139.0299524,overpass,https://www.openstreetmap.org/node/4652538485,,kanagawa
+overpass-24145,接待茶屋一里塚,,hidden_gem,35.1719664,139.0070612,overpass,https://www.openstreetmap.org/node/4652538486,,kanagawa
+overpass-24146,押切坂一里塚,,hidden_gem,35.2919147,139.2413927,overpass,https://www.openstreetmap.org/node/4659818069,,kanagawa
+overpass-24147,馬入一里塚跡碑,,hidden_gem,35.3313838,139.3605737,overpass,https://www.openstreetmap.org/node/4662881648,,kanagawa
+overpass-24148,小八幡一里塚,,hidden_gem,35.2749794,139.202335,overpass,https://www.openstreetmap.org/node/4662881651,,kanagawa
+overpass-24149,山王原一里塚,,hidden_gem,35.2546342,139.1681266,overpass,https://www.openstreetmap.org/node/4662881652,,kanagawa
+overpass-24150,碧テラス,,hidden_gem,35.0120342,138.9210091,overpass,https://www.openstreetmap.org/node/4663300534,,kanagawa
+overpass-24151,酪農王国オラッチェ,,hidden_gem,35.1034648,139.0146991,overpass,https://www.openstreetmap.org/node/4686460792,,kanagawa
+overpass-24152,忍野八海,,hidden_gem,35.4602407,138.8327032,overpass,https://www.openstreetmap.org/node/4717364293,,kanagawa
+overpass-24153,メリーゴーランド,,hidden_gem,35.4553847,139.6347044,overpass,https://www.openstreetmap.org/node/4850938627,,kanagawa
+overpass-24154,小坂みかん共同農園,,hidden_gem,35.0157777,138.931968,overpass,https://www.openstreetmap.org/node/5302963569,,kanagawa
+overpass-24155,燈籠坂大師の切通しトンネル,,hidden_gem,35.2026736,139.840532,overpass,https://www.openstreetmap.org/node/5358926521,,tokyo
+overpass-24157,大竹公民館,,hidden_gem,35.108034,138.964535,overpass,https://www.openstreetmap.org/node/5603010428,,kanagawa
+overpass-24158,熱海市消防本部,,hidden_gem,35.0963143,139.0717864,overpass,https://www.openstreetmap.org/node/5603023725,,kanagawa
+overpass-24159,親水公園,,hidden_gem,35.094188,139.075071,overpass,https://www.openstreetmap.org/node/5603023726,,kanagawa
+overpass-24160,塩田,,hidden_gem,35.118715,138.989107,overpass,https://www.openstreetmap.org/node/5603023729,,kanagawa
+overpass-24161,殉国墓地,,hidden_gem,35.121877,138.971838,overpass,https://www.openstreetmap.org/node/5603023731,,kanagawa
+overpass-24162,網代漁港,,hidden_gem,35.044989,139.086302,overpass,https://www.openstreetmap.org/node/5603023734,,kanagawa
+overpass-24163,3分団,,hidden_gem,35.1086412,138.9651377,overpass,https://www.openstreetmap.org/node/5603023824,,kanagawa
+overpass-24164,網代港,,hidden_gem,35.046815,139.089022,overpass,https://www.openstreetmap.org/node/5603023829,,kanagawa
+overpass-24165,芝生公園,,hidden_gem,35.091317,139.078858,overpass,https://www.openstreetmap.org/node/5603023830,,kanagawa
+overpass-24166,函南ゴルフ倶楽部,,hidden_gem,35.142789,139.002798,overpass,https://www.openstreetmap.org/node/5603023838,,kanagawa
+overpass-24167,木立キャンプ場,,hidden_gem,35.1488331,138.9973632,overpass,https://www.openstreetmap.org/node/5603023839,,kanagawa
+overpass-24168,芹田,,hidden_gem,35.101269,138.963198,overpass,https://www.openstreetmap.org/node/5603023844,,kanagawa
+overpass-24169,坂上,,hidden_gem,35.103067,139.004328,overpass,https://www.openstreetmap.org/node/5603023846,,kanagawa
+overpass-24170,加藤,,hidden_gem,35.103231,139.001796,overpass,https://www.openstreetmap.org/node/5603023847,,kanagawa
+overpass-24171,川口利宏,,hidden_gem,35.111637,138.977756,overpass,https://www.openstreetmap.org/node/5603023855,,kanagawa
+overpass-24172,奴田場公民館,,hidden_gem,35.118514,139.000658,overpass,https://www.openstreetmap.org/node/5603023858,,kanagawa
+overpass-24173,2分団,,hidden_gem,35.1041902,139.0137257,overpass,https://www.openstreetmap.org/node/5603023860,,kanagawa
+overpass-24174,伊豆・三津シーパラダイス,,hidden_gem,35.0195265,138.8964791,overpass,https://www.openstreetmap.org/node/5603023868,,kanagawa
+overpass-24175,池彦2,,hidden_gem,35.1021316,138.8478335,overpass,https://www.openstreetmap.org/node/5603023884,,kanagawa
+overpass-24176,8分団,,hidden_gem,35.045021,139.081867,overpass,https://www.openstreetmap.org/node/5603024026,,kanagawa
+overpass-24177,三本松集会所,,hidden_gem,35.126501,138.990389,overpass,https://www.openstreetmap.org/node/5603024029,,kanagawa
+overpass-24178,杉本,,hidden_gem,35.102303,139.010195,overpass,https://www.openstreetmap.org/node/5603024032,,kanagawa
+overpass-24179,江間いちご狩センター,,hidden_gem,35.0565279,138.9245446,overpass,https://www.openstreetmap.org/node/5603024034,,kanagawa
+overpass-24180,三島聖苑,,hidden_gem,35.14241,138.936672,overpass,https://www.openstreetmap.org/node/5603024036,,kanagawa
+overpass-24181,久料,,hidden_gem,35.0201796,138.8318412,overpass,https://www.openstreetmap.org/node/5603024038,,kanagawa
+overpass-24182,石神,,hidden_gem,35.123094,138.968423,overpass,https://www.openstreetmap.org/node/5603024039,,kanagawa
+overpass-24183,スポーツ公園,,hidden_gem,35.103391,138.974716,overpass,https://www.openstreetmap.org/node/5603024128,,kanagawa
+overpass-24184,高根ふれあい,,hidden_gem,35.327406,138.939358,overpass,https://www.openstreetmap.org/node/5603024138,,kanagawa
+overpass-24185,桑原公民館,,hidden_gem,35.120421,138.973033,overpass,https://www.openstreetmap.org/node/5603024147,,kanagawa
+overpass-24186,東海機工,,hidden_gem,35.124143,138.978481,overpass,https://www.openstreetmap.org/node/5603024148,,kanagawa
+overpass-24187,高橋,,hidden_gem,35.095325,139.017294,overpass,https://www.openstreetmap.org/node/5603024153,,kanagawa
+overpass-24188,菊地,,hidden_gem,35.068358,138.917258,overpass,https://www.openstreetmap.org/node/5603024154,,kanagawa
+overpass-24189,不動の滝,,hidden_gem,35.11437,138.979204,overpass,https://www.openstreetmap.org/node/5603024159,,kanagawa
+overpass-24190,函南町焼却場,,hidden_gem,35.119481,139.000911,overpass,https://www.openstreetmap.org/node/5603024164,,kanagawa
+overpass-24191,山の神,,hidden_gem,35.117486,138.976226,overpass,https://www.openstreetmap.org/node/5603024177,,kanagawa
+overpass-24192,池彦3,,hidden_gem,35.1030688,138.8480355,overpass,https://www.openstreetmap.org/node/5603024191,,kanagawa
+overpass-24193,池彦1,,hidden_gem,35.1018254,138.8476992,overpass,https://www.openstreetmap.org/node/5603024192,,kanagawa
+overpass-24194,原生の森公園,,hidden_gem,35.153659,139.011327,overpass,https://www.openstreetmap.org/node/5603028222,shade,kanagawa
+overpass-24195,富士総合火力演習場,,hidden_gem,35.282046,138.849671,overpass,https://www.openstreetmap.org/node/5603028227,,kanagawa
+overpass-24196,坂上,,hidden_gem,35.104086,139.010573,overpass,https://www.openstreetmap.org/node/5603036621,,kanagawa
+overpass-24197,森延彦,,hidden_gem,35.114765,138.980458,overpass,https://www.openstreetmap.org/node/5603036721,shade,kanagawa
+overpass-24198,駐車,,hidden_gem,35.445894,139.638623,overpass,https://www.openstreetmap.org/node/5603040065,parking,kanagawa
+overpass-24199,ﾊﾟｻﾃﾞｨﾅ公民館,,hidden_gem,35.110776,138.961999,overpass,https://www.openstreetmap.org/node/5621787421,,kanagawa
+overpass-24200,長谷川,,hidden_gem,35.130287,138.932679,overpass,https://www.openstreetmap.org/node/5647423222,,kanagawa
+overpass-24201,芦ノ湖遊覧船,,hidden_gem,35.2114698,139.0086433,overpass,https://www.openstreetmap.org/node/5658824922,,kanagawa
+overpass-24202,香音橋,,hidden_gem,35.1306157,138.9801538,overpass,https://www.openstreetmap.org/node/5680470123,,kanagawa
+overpass-24203,磐石橋,,hidden_gem,35.1339449,138.982819,overpass,https://www.openstreetmap.org/node/5680477521,,kanagawa
+overpass-24204,長谷川,,hidden_gem,35.137691,138.92543,overpass,https://www.openstreetmap.org/node/5712392422,,kanagawa
+overpass-24205,狩場JCT,,hidden_gem,35.4409347,139.5817848,overpass,https://www.openstreetmap.org/node/5714116625,,kanagawa
+overpass-24206,吉井の大井戸,,hidden_gem,35.100263,139.8934181,overpass,https://www.openstreetmap.org/node/5862396453,,tokyo
+overpass-24207,水車小屋,,hidden_gem,35.1010267,139.8927207,overpass,https://www.openstreetmap.org/node/5862396455,,tokyo
+overpass-24208,足湯,,hidden_gem,35.1034551,139.0785006,overpass,https://www.openstreetmap.org/node/6072119886,,kanagawa
+overpass-24209,江ノ電もなか 扇屋,,hidden_gem,35.3106213,139.489143,overpass,https://www.openstreetmap.org/node/6127216091,,kanagawa
+overpass-24210,二代目ゴンドラ,,hidden_gem,35.2442247,139.0060096,overpass,https://www.openstreetmap.org/node/6167529855,,kanagawa
+overpass-24211,初代ゴンドラ,ロープウェイの保存車両,hidden_gem,35.2442682,139.0059669,overpass,https://www.openstreetmap.org/node/6167529856,,kanagawa
+overpass-24212,沼津港,,hidden_gem,35.0835817,138.8515199,overpass,https://www.openstreetmap.org/node/6176057469,,kanagawa
+overpass-24213,熱海芸妓見番歌舞練場,,hidden_gem,35.0948148,139.071866,overpass,https://www.openstreetmap.org/node/6187615421,,kanagawa
+overpass-24214,熱海サンビーチ,,hidden_gem,35.0982401,139.0768609,overpass,https://www.openstreetmap.org/node/6187615422,,kanagawa
+overpass-24215,梁尻,,hidden_gem,35.430782,138.8530516,overpass,https://www.openstreetmap.org/node/6187735887,,kanagawa
+overpass-24216,アタミロープウェイ,,hidden_gem,35.0886877,139.077722,overpass,https://www.openstreetmap.org/node/6187998539,,kanagawa
+overpass-24217,熱海遊覧船サンレモ,,hidden_gem,35.0929842,139.0751085,overpass,https://www.openstreetmap.org/node/6187998540,,kanagawa
+overpass-24218,伊豆フルーツパーク,"URL
+http://izupa.orepa.jp/
+",hidden_gem,35.1307317,138.9451541,overpass,https://www.openstreetmap.org/node/6249262829,,kanagawa
+overpass-24219,山本食品 三島わさび工場,"URL
+http://www.yamamotofoods.co.jp/tourism/mishima
+",hidden_gem,35.0764434,138.9260346,overpass,https://www.openstreetmap.org/node/6282525889,,kanagawa
+overpass-24220,はいさいフェスタ,,hidden_gem,35.5280778,139.6983193,overpass,https://www.openstreetmap.org/node/6320388252,,kanagawa
+overpass-24221,瀋秀園,,hidden_gem,35.5317356,139.7323068,overpass,https://www.openstreetmap.org/node/6320388255,,kanagawa
+overpass-24222,自動車交通安全祈祷殿,,hidden_gem,35.5385684,139.7358655,overpass,https://www.openstreetmap.org/node/6320388256,,kanagawa
+overpass-24223,キリンビール横浜工場,,hidden_gem,35.4904335,139.6640692,overpass,https://www.openstreetmap.org/node/6356069090,,kanagawa
+overpass-24224,竹岡のヒカリモ発生地（黄金井戸）,,hidden_gem,35.1979828,139.8273921,overpass,https://www.openstreetmap.org/node/6584040664,,tokyo
+overpass-24225,曽我梅林,,hidden_gem,35.2995446,139.1930641,overpass,https://www.openstreetmap.org/node/6700903686,shade,kanagawa
+overpass-24226,原会場（原梅林）,,hidden_gem,35.2997472,139.188836,overpass,https://www.openstreetmap.org/node/6700935386,shade,kanagawa
+overpass-24227,鶴巻温泉手湯「千の泉」,,hidden_gem,35.3810869,139.2769048,overpass,https://www.openstreetmap.org/node/6728721719,,kanagawa
+overpass-24228,旧植松家住宅,,hidden_gem,35.18462,138.9043692,overpass,https://www.openstreetmap.org/node/6904470839,,kanagawa
+overpass-24229,土肥椙山巌窟(しとどの窟),,hidden_gem,35.1635716,139.076604,overpass,https://www.openstreetmap.org/node/7281749302,,kanagawa
+overpass-24230,Pileated Gibbon,,hidden_gem,35.4935667,139.526083,overpass,https://www.openstreetmap.org/node/7308316791,,kanagawa
+overpass-24231,インドライオン,,hidden_gem,35.4927617,139.5253395,overpass,https://www.openstreetmap.org/node/7308316792,,kanagawa
+overpass-24232,Lion-tailed Macaque,,hidden_gem,35.4925255,139.5256158,overpass,https://www.openstreetmap.org/node/7308316793,,kanagawa
+overpass-24233,伏姫籠穴,,hidden_gem,35.0974736,139.8693271,overpass,https://www.openstreetmap.org/node/7871085055,,tokyo
+overpass-24234,関の犬岩,,hidden_gem,35.2036388,139.9499582,overpass,https://www.openstreetmap.org/node/8107353470,,tokyo
+overpass-24235,高宕川,,hidden_gem,35.2060492,139.9674778,overpass,https://www.openstreetmap.org/node/9106398222,,tokyo
+overpass-24236,練木ホタルの里（ホタルロード）,,hidden_gem,35.3287473,139.9486663,overpass,https://www.openstreetmap.org/node/9179060196,,tokyo
+overpass-24237,スマイルサーキット（ラジコン）,,hidden_gem,35.5363351,139.2670877,overpass,https://www.openstreetmap.org/node/9385117318,,kanagawa
+overpass-24238,ポケふた（ポッポ･コラッタ）,,hidden_gem,35.545639,139.454895,overpass,https://www.openstreetmap.org/node/9518425716,,kanagawa
+overpass-24239,ポケふた（ナゾノクサ・ビードル･キャタピー）,,hidden_gem,35.5461121,139.454361,overpass,https://www.openstreetmap.org/node/9518451775,,kanagawa
+overpass-24240,ポケふた（ヒトカゲ）,,hidden_gem,35.5481682,139.4513092,overpass,https://www.openstreetmap.org/node/9518451949,,kanagawa
+overpass-24241,ポケふた（フシギダネ）,,hidden_gem,35.548111,139.4503326,overpass,https://www.openstreetmap.org/node/9518471101,,kanagawa
+overpass-24242,ポケふた（ニョロモ）,,hidden_gem,35.5467224,139.4539795,overpass,https://www.openstreetmap.org/node/9518474426,,kanagawa
+overpass-24243,ポケふた（ゼニガメ）,,hidden_gem,35.5453072,139.4550018,overpass,https://www.openstreetmap.org/node/9518477727,,kanagawa
+overpass-24244,愛の鐘,,hidden_gem,35.2373067,138.9285189,overpass,https://www.openstreetmap.org/node/9703917265,,kanagawa
+overpass-24245,高山謝罪しろ!看板,伊勢原市長の高山松太郎及び神奈川県知事の黒岩祐治に謝罪を求める看板。具体的に何に謝罪を求めているのかは不明。,hidden_gem,35.3865635,139.2934043,overpass,https://www.openstreetmap.org/node/9818271847,,kanagawa
+overpass-24246,GKW&Restaurant,,hidden_gem,35.2362314,138.9245413,overpass,https://www.openstreetmap.org/node/9984352861,,kanagawa
+overpass-24247,ashiyu,,hidden_gem,35.2465076,139.0358266,overpass,https://www.openstreetmap.org/node/10131466717,,kanagawa
+overpass-24248,Torii,,hidden_gem,35.2238481,138.9990064,overpass,https://www.openstreetmap.org/node/10132628317,,kanagawa
+overpass-24249,平和の鳥居,,hidden_gem,35.2027411,139.0257425,overpass,https://www.openstreetmap.org/node/10132659717,,kanagawa
+overpass-24250,横浜赤レンガ倉庫,,hidden_gem,35.4524046,139.6429182,overpass,https://www.openstreetmap.org/node/10216454044,,kanagawa
+overpass-24251,世界の広場,,hidden_gem,35.4440847,139.6527207,overpass,https://www.openstreetmap.org/node/11062734991,,kanagawa
+overpass-24252,続日本100名城スタンプ125・小机城,,hidden_gem,35.5086091,139.5990728,overpass,https://www.openstreetmap.org/node/11062761595,,kanagawa
+overpass-24253,半原水源地跡,,hidden_gem,35.5427251,139.2637629,overpass,https://www.openstreetmap.org/node/11379991304,,kanagawa
+overpass-24254,発句石,,hidden_gem,35.4955522,139.2896787,overpass,https://www.openstreetmap.org/node/11820466596,,kanagawa
+overpass-24255,千鳥開館,,hidden_gem,35.0210516,138.8977546,overpass,https://www.openstreetmap.org/node/11848589768,,kanagawa
+overpass-24256,銚子ヶ淵,,hidden_gem,35.3303621,138.9904812,overpass,https://www.openstreetmap.org/node/11898413845,,kanagawa
+overpass-24257,Ko-Kiridoshi,,hidden_gem,35.3281174,139.593044,overpass,https://www.openstreetmap.org/node/12029220050,,kanagawa
+overpass-24258,Suda-ji,,hidden_gem,35.3260547,139.5914239,overpass,https://www.openstreetmap.org/node/12029220220,,kanagawa
+overpass-24259,O-Kiridoshi,,hidden_gem,35.3271445,139.5908137,overpass,https://www.openstreetmap.org/node/12029279409,,kanagawa
+overpass-24260,愛の鐘,,hidden_gem,35.2185622,139.7062061,overpass,https://www.openstreetmap.org/node/12519519136,,kanagawa
+overpass-24261,かどやファームの扉,,hidden_gem,35.3827927,139.0507514,overpass,https://www.openstreetmap.org/node/12620538997,,kanagawa
+overpass-24262,しんかい2000,,hidden_gem,35.3103046,139.4791995,overpass,https://www.openstreetmap.org/node/12637918114,,kanagawa
+overpass-24263,展望広場,,hidden_gem,35.1769679,139.1155408,overpass,https://www.openstreetmap.org/node/12862107201,,kanagawa
+overpass-24264,鏡の家,,hidden_gem,35.1231601,138.9105884,overpass,https://www.openstreetmap.org/node/12906349457,,kanagawa
+overpass-24265,縄状溶岩の露頭,,hidden_gem,35.1247436,138.9116337,overpass,https://www.openstreetmap.org/node/12908712713,,kanagawa
+overpass-24266,動物ふれあい広場,,hidden_gem,35.1238277,138.9104107,overpass,https://www.openstreetmap.org/node/12909124324,,kanagawa
+overpass-24267,縄状溶岩の露頭,,hidden_gem,35.1234843,138.9112961,overpass,https://www.openstreetmap.org/node/12909303337,,kanagawa
+overpass-24268,縄状溶岩の露頭,,hidden_gem,35.1228161,138.9127196,overpass,https://www.openstreetmap.org/node/12909303338,,kanagawa
+overpass-24269,ふれあい花広場,,hidden_gem,35.1239732,138.9098435,overpass,https://www.openstreetmap.org/node/12911734157,,kanagawa
+overpass-24270,のりもの広場,,hidden_gem,35.1240517,138.9105284,overpass,https://www.openstreetmap.org/node/12911734158,,kanagawa
+overpass-24271,どうぶつ広場,,hidden_gem,35.1238219,138.9100363,overpass,https://www.openstreetmap.org/node/12911734159,,kanagawa
+overpass-24272,万葉の森,,hidden_gem,35.1230971,138.9099744,overpass,https://www.openstreetmap.org/node/12911734190,shade,kanagawa
+overpass-24273,天神の森,,hidden_gem,35.1231368,138.9096215,overpass,https://www.openstreetmap.org/node/12911734191,shade,kanagawa
+overpass-24274,小浜の森,,hidden_gem,35.1246677,138.9117147,overpass,https://www.openstreetmap.org/node/12911734192,shade,kanagawa
+overpass-24275,緒明記念の森,,hidden_gem,35.1244741,138.9125155,overpass,https://www.openstreetmap.org/node/12911734193,shade,kanagawa
+overpass-24276,常盤の森,,hidden_gem,35.1232261,138.911205,overpass,https://www.openstreetmap.org/node/12911734194,shade,kanagawa
+overpass-24277,さぎの森,,hidden_gem,35.1227332,138.9128749,overpass,https://www.openstreetmap.org/node/12911734195,shade,kanagawa
+overpass-24278,箱根登山鉄道モハ1形107号,,hidden_gem,35.2459214,139.1307279,overpass,https://www.openstreetmap.org/node/13004002001,,kanagawa
+overpass-24279,早川橋梁,,hidden_gem,35.2341684,139.0871233,overpass,https://www.openstreetmap.org/node/13006219155,,kanagawa
+overpass-24280,Shinkansen bottom view at full speed,,hidden_gem,35.3907241,139.3723557,overpass,https://www.openstreetmap.org/node/13012264311,,kanagawa
+overpass-24281,山ノ神のフジ,,hidden_gem,35.5162076,138.8303849,overpass,https://www.openstreetmap.org/node/13037489469,,kanagawa
+overpass-24282,下吉田ブルートレインテラス,,hidden_gem,35.4977417,138.8036292,overpass,https://www.openstreetmap.org/node/13039674951,,kanagawa
+overpass-24283,さくらテラス,,hidden_gem,35.2846446,139.594749,overpass,https://www.openstreetmap.org/node/13135737407,,kanagawa
+overpass-24284,大磯照ヶ崎のアオバト集団飛来地,,hidden_gem,35.3051432,139.3159731,overpass,https://www.openstreetmap.org/node/13176267312,,kanagawa
+overpass-24285,Ajisai Bridge,,hidden_gem,35.2328479,139.1043127,overpass,https://www.openstreetmap.org/node/13398799601,,kanagawa
+overpass-24286,恐竜アドベンチャー,A dinosaur-themed attraction area featuring a maze and AR shooting game.,hidden_gem,35.1552972,138.9814745,overpass,https://www.openstreetmap.org/node/13685774347,bench,kanagawa
+overpass-24287,鎌倉大仏,"Cast bronze statue of Buddha, 11.3m in height without the pedestal, 13.4m with pedestal. Weight is 121t.",hidden_gem,35.3168482,139.5357212,overpass,https://www.openstreetmap.org/node/260752586,fee,kanagawa
+overpass-24288,ブリキのおもちゃ博物館,,hidden_gem,35.4377148,139.6530124,overpass,https://www.openstreetmap.org/node/602391200,,kanagawa
+overpass-24289,MacArthur,,hidden_gem,35.4580445,139.4337551,overpass,https://www.openstreetmap.org/node/691526680,,kanagawa
+overpass-24290,日本寺大仏,,hidden_gem,35.1577061,139.8347358,overpass,https://www.openstreetmap.org/node/760291652,,tokyo
+overpass-24291,Fruit Tree,,hidden_gem,35.4614236,139.6376468,overpass,https://www.openstreetmap.org/node/1198164407,,kanagawa
+overpass-24292,対話,,hidden_gem,35.3516874,139.5368955,overpass,https://www.openstreetmap.org/node/1677481566,,kanagawa
+overpass-24293,あら「今日は」,銘板とは反対側の面に「寄贈 横浜高島屋 開店25周年記念 1985.9」と記載あり。,hidden_gem,35.4661584,139.621085,overpass,https://www.openstreetmap.org/node/1719017266,,kanagawa
+overpass-24294,飛翔,,hidden_gem,35.3811554,139.2773897,overpass,https://www.openstreetmap.org/node/1726088024,,kanagawa
+overpass-24295,かっぱ,,hidden_gem,35.4493018,139.4066554,overpass,https://www.openstreetmap.org/node/1742707939,,kanagawa
+overpass-24296,目久尻川の日時計,,hidden_gem,35.4475219,139.4072809,overpass,https://www.openstreetmap.org/node/1742708200,,kanagawa
+overpass-24297,北条早雲騎馬像,,hidden_gem,35.2568714,139.1544611,overpass,https://www.openstreetmap.org/node/1784607598,,kanagawa
+overpass-24298,宗祖一遍上人像,,hidden_gem,35.3480715,139.4884992,overpass,https://www.openstreetmap.org/node/2204202593,,kanagawa
+overpass-24299,大悲水子地蔵菩薩,,hidden_gem,35.3484349,139.4889743,overpass,https://www.openstreetmap.org/node/2204213119,,kanagawa
+overpass-24300,横濱三塔物語,,hidden_gem,35.465238,139.623266,overpass,https://www.openstreetmap.org/node/2253656694,,kanagawa
+overpass-24301,Grow,,hidden_gem,35.4631762,139.6244161,overpass,https://www.openstreetmap.org/node/2253680964,,kanagawa
+overpass-24302,PROPOSE,,hidden_gem,35.4593179,139.6296071,overpass,https://www.openstreetmap.org/node/2253720043,,kanagawa
+overpass-24303,Hello,,hidden_gem,35.459876,139.630576,overpass,https://www.openstreetmap.org/node/2253727103,,kanagawa
+overpass-24304,Between sky and sea,,hidden_gem,35.458758,139.632029,overpass,https://www.openstreetmap.org/node/2253742904,,kanagawa
+overpass-24305,星座'94横浜,,hidden_gem,35.458452,139.636952,overpass,https://www.openstreetmap.org/node/2253788469,,kanagawa
+overpass-24306,A place beyond down,,hidden_gem,35.456317,139.634164,overpass,https://www.openstreetmap.org/node/2253805516,,kanagawa
+overpass-24307,結婚式,,hidden_gem,35.456619,139.634923,overpass,https://www.openstreetmap.org/node/2253825333,,kanagawa
+overpass-24308,家族,,hidden_gem,35.456535,139.635126,overpass,https://www.openstreetmap.org/node/2253826100,,kanagawa
+overpass-24309,船出,,hidden_gem,35.457316,139.6345,overpass,https://www.openstreetmap.org/node/2253832532,,kanagawa
+overpass-24310,季の風奏,,hidden_gem,35.457377,139.635078,overpass,https://www.openstreetmap.org/node/2253842049,,kanagawa
+overpass-24311,The Boundaries of the Limitless,,hidden_gem,35.456847,139.633587,overpass,https://www.openstreetmap.org/node/2253848837,,kanagawa
+overpass-24312,セダクション,,hidden_gem,35.456594,139.633442,overpass,https://www.openstreetmap.org/node/2253853327,,kanagawa
+overpass-24313,STAR GATE,,hidden_gem,35.457032,139.633492,overpass,https://www.openstreetmap.org/node/2253855487,,kanagawa
+overpass-24314,Eye on the Sea,,hidden_gem,35.455463,139.633131,overpass,https://www.openstreetmap.org/node/2253864190,,kanagawa
+overpass-24315,Eye on the City,,hidden_gem,35.4555632,139.6332539,overpass,https://www.openstreetmap.org/node/2253864664,,kanagawa
+overpass-24316,モクモク ワクワク ヨコハマ ヨーヨー,,hidden_gem,35.455807,139.632476,overpass,https://www.openstreetmap.org/node/2253865061,,kanagawa
+overpass-24317,風の音符,,hidden_gem,35.45658,139.631011,overpass,https://www.openstreetmap.org/node/2253880739,,kanagawa
+overpass-24318,愛の変容,,hidden_gem,35.455382,139.630355,overpass,https://www.openstreetmap.org/node/2253896524,,kanagawa
+overpass-24319,無限(飛翔),,hidden_gem,35.455172,139.630124,overpass,https://www.openstreetmap.org/node/2253902529,,kanagawa
+overpass-24320,水面の鳥,,hidden_gem,35.454504,139.629881,overpass,https://www.openstreetmap.org/node/2253907082,,kanagawa
+overpass-24321,海鳥達の風 The wind for sea birds,,hidden_gem,35.45426,139.632892,overpass,https://www.openstreetmap.org/node/2253924066,,kanagawa
+overpass-24322,白い花,,hidden_gem,35.454506,139.633087,overpass,https://www.openstreetmap.org/node/2253926041,,kanagawa
+overpass-24323,Forest,,hidden_gem,35.4081069,139.5961153,overpass,https://www.openstreetmap.org/node/2254673400,,kanagawa
+overpass-24324,Good Luck,,hidden_gem,35.4090794,139.5961341,overpass,https://www.openstreetmap.org/node/2254673408,,kanagawa
+overpass-24325,不確定性正方形-正方形のある交番,,hidden_gem,35.4096319,139.5961428,overpass,https://www.openstreetmap.org/node/2254673417,,kanagawa
+overpass-24326,STAR LIGHTS,,hidden_gem,35.4076868,139.595914,overpass,https://www.openstreetmap.org/node/2254689211,,kanagawa
+overpass-24327,子ども達は時を駆け抜ける,,hidden_gem,35.4073373,139.5959195,overpass,https://www.openstreetmap.org/node/2254689217,,kanagawa
+overpass-24328,Imaginary Garden,,hidden_gem,35.4077088,139.5964024,overpass,https://www.openstreetmap.org/node/2254719563,,kanagawa
+overpass-24329,花　過ぎるものとそうでないものと,,hidden_gem,35.4071883,139.5959271,overpass,https://www.openstreetmap.org/node/2254719569,,kanagawa
+overpass-24330,JIZO 001上大岡,,hidden_gem,35.4077655,139.5959569,overpass,https://www.openstreetmap.org/node/2254719571,,kanagawa
+overpass-24331,HISTORY OF 'I' EXISTS IN YOU,,hidden_gem,35.4077788,139.5962643,overpass,https://www.openstreetmap.org/node/2254719576,,kanagawa
+overpass-24332,World is Yours,,hidden_gem,35.4082446,139.5961421,overpass,https://www.openstreetmap.org/node/2254754088,,kanagawa
+overpass-24333,あなたはどこへいくのか　あなたはどこからきたのか,,hidden_gem,35.4083649,139.596126,overpass,https://www.openstreetmap.org/node/2254754092,,kanagawa
+overpass-24334,パッシング・モーメンツ,,hidden_gem,35.4085593,139.5961958,overpass,https://www.openstreetmap.org/node/2254754097,,kanagawa
+overpass-24335,Traveler,,hidden_gem,35.4085375,139.5963674,overpass,https://www.openstreetmap.org/node/2254754099,,kanagawa
+overpass-24336,ルーフトップ・パッセージ,,hidden_gem,35.4083298,139.5962078,overpass,https://www.openstreetmap.org/node/2254754104,,kanagawa
+overpass-24337,Bloom,,hidden_gem,35.4078052,139.5960375,overpass,https://www.openstreetmap.org/node/2254780524,,kanagawa
+overpass-24338,音のカタチは光のカタチ,,hidden_gem,35.4081198,139.5964133,overpass,https://www.openstreetmap.org/node/2254780532,,kanagawa
+overpass-24339,Jigsaw puzzle (Yokohama),,hidden_gem,35.4079274,139.5964535,overpass,https://www.openstreetmap.org/node/2254780542,,kanagawa
+overpass-24340,谺の原ッぱ,,hidden_gem,35.4080238,139.5963406,overpass,https://www.openstreetmap.org/node/2254780544,,kanagawa
+overpass-24341,DOB君、こんにちわ,,hidden_gem,35.407639,139.5960831,overpass,https://www.openstreetmap.org/node/2254780553,,kanagawa
+overpass-24342,知恵の箱,,hidden_gem,35.447951,139.626385,overpass,https://www.openstreetmap.org/node/2320339225,,kanagawa
+overpass-24343,薪棚,,hidden_gem,35.4098009,138.8600082,overpass,https://www.openstreetmap.org/node/2473319291,,kanagawa
+overpass-24344,木材置き場,,hidden_gem,35.430048,138.850467,overpass,https://www.openstreetmap.org/node/2577810477,,kanagawa
+overpass-24345,金剛力士像 吽形,,hidden_gem,35.4372247,139.2759084,overpass,https://www.openstreetmap.org/node/2618227460,,kanagawa
+overpass-24346,金剛力士像 阿形,,hidden_gem,35.4372588,139.2759696,overpass,https://www.openstreetmap.org/node/2618227461,,kanagawa
+overpass-24347,大船観音,huge very large statue of goddess of mercy,hidden_gem,35.3535099,139.5287494,overpass,https://www.openstreetmap.org/node/2721120979,,kanagawa
+overpass-24348,La belle servante,,hidden_gem,35.440615,139.631985,overpass,https://www.openstreetmap.org/node/2735703754,,kanagawa
+overpass-24349,笹と少年,,hidden_gem,35.44116,139.633115,overpass,https://www.openstreetmap.org/node/2735710650,,kanagawa
+overpass-24350,Three part object,,hidden_gem,35.441534,139.633513,overpass,https://www.openstreetmap.org/node/2735711564,,kanagawa
+overpass-24351,La meditation,,hidden_gem,35.443137,139.6359358,overpass,https://www.openstreetmap.org/node/2735715496,wheelchair,kanagawa
+overpass-24352,PEACE II,,hidden_gem,35.446955,139.6365329,overpass,https://www.openstreetmap.org/node/3123770087,,kanagawa
+overpass-24353,波の華,,hidden_gem,35.4386951,139.6245784,overpass,https://www.openstreetmap.org/node/3125228386,,kanagawa
+overpass-24354,桃太郎,,hidden_gem,35.4289429,139.6014473,overpass,https://www.openstreetmap.org/node/3163925575,,kanagawa
+overpass-24355,若き心,,hidden_gem,35.4399567,139.364084,overpass,https://www.openstreetmap.org/node/3199366620,,kanagawa
+overpass-24356,パパのズボン,加藤 豊 1992,hidden_gem,35.4421654,139.3662689,overpass,https://www.openstreetmap.org/node/3199410440,,kanagawa
+overpass-24357,地蔵祠,,hidden_gem,35.4243168,139.5976361,overpass,https://www.openstreetmap.org/node/3283295398,,kanagawa
+overpass-24358,身代地蔵菩薩,,hidden_gem,35.424036,139.5976963,overpass,https://www.openstreetmap.org/node/3283295403,,kanagawa
+overpass-24359,観世音,,hidden_gem,35.4240236,139.5977926,overpass,https://www.openstreetmap.org/node/3283295407,,kanagawa
+overpass-24360,馬頭観世音,,hidden_gem,35.4239821,139.5978387,overpass,https://www.openstreetmap.org/node/3283295411,,kanagawa
+overpass-24361,みんなげんきに,,hidden_gem,35.4662859,139.6139164,overpass,https://www.openstreetmap.org/node/3306884700,,kanagawa
+overpass-24362,上昇,,hidden_gem,35.4671603,139.6179579,overpass,https://www.openstreetmap.org/node/3306884709,,kanagawa
+overpass-24363,流衣,,hidden_gem,35.4662135,139.6158099,overpass,https://www.openstreetmap.org/node/3306884735,,kanagawa
+overpass-24364,飛躍,,hidden_gem,35.4659894,139.6150034,overpass,https://www.openstreetmap.org/node/3306884748,,kanagawa
+overpass-24365,リング64・II,横浜ベイシェラトンホテルの建物の2階部分を通り抜ける通路にあります。2016-12-26現地調査済み。建物内部なので、位置はやや不正確。,hidden_gem,35.4666741,139.619838,overpass,https://www.openstreetmap.org/node/3306884754,,kanagawa
+overpass-24366,動きだす球,,hidden_gem,35.4659553,139.614642,overpass,https://www.openstreetmap.org/node/3306885263,,kanagawa
+overpass-24367,祈りと平和,,hidden_gem,35.5343181,139.7300289,overpass,https://www.openstreetmap.org/node/3362873493,,kanagawa
+overpass-24368,街角の王様,,hidden_gem,35.4843517,139.4652074,overpass,https://www.openstreetmap.org/node/3500516701,,kanagawa
+overpass-24369,求心,,hidden_gem,35.4875,139.4576531,overpass,https://www.openstreetmap.org/node/3549256842,,kanagawa
+overpass-24370,二宮金次郎像,,hidden_gem,35.1433475,139.8440679,overpass,https://www.openstreetmap.org/node/3907557989,,tokyo
+overpass-24371,えび～にゃ像,,hidden_gem,35.4546376,139.3890169,overpass,https://www.openstreetmap.org/node/3935442356,,kanagawa
+overpass-24372,母と子の夢・大空へ,,hidden_gem,35.4869911,139.4577501,overpass,https://www.openstreetmap.org/node/4132277620,,kanagawa
+overpass-24373,海への祈り,,hidden_gem,35.1352774,139.6115611,overpass,https://www.openstreetmap.org/node/4200311199,,kanagawa
+overpass-24374,願掛け撫で牛,,hidden_gem,35.2281157,139.7037292,overpass,https://www.openstreetmap.org/node/4326781615,,kanagawa
+overpass-24375,出舟,,hidden_gem,35.4104349,139.5958979,overpass,https://www.openstreetmap.org/node/4330438540,,kanagawa
+overpass-24376,暖かい手で,,hidden_gem,35.4454286,139.6454648,overpass,https://www.openstreetmap.org/node/4439954080,,kanagawa
+overpass-24377,蓮池辨財天,仏像,hidden_gem,35.2527653,139.1543272,overpass,https://www.openstreetmap.org/node/4500355718,,kanagawa
+overpass-24378,看護顕彰の碑,,hidden_gem,35.4372829,139.6638677,overpass,https://www.openstreetmap.org/node/4502290572,,kanagawa
+overpass-24379,虫歯地蔵,仏像,hidden_gem,35.1542458,138.9943248,overpass,https://www.openstreetmap.org/node/4524244201,,kanagawa
+overpass-24380,愛の母子像,慰霊のための母子像があります。,hidden_gem,35.440949,139.6538736,overpass,https://www.openstreetmap.org/node/4549051126,,kanagawa
+overpass-24381,FANTAISIE,表に「青少年に愛と希望を」、裏に「一九七四.　六.　二」と書かれています。,hidden_gem,35.4660803,139.6213677,overpass,https://www.openstreetmap.org/node/4551133730,,kanagawa
+overpass-24382,魁の舞,横浜駅西口第二歩道橋の下にあります。,hidden_gem,35.46667,139.619595,overpass,https://www.openstreetmap.org/node/4573270039,,kanagawa
+overpass-24383,赤い靴はいてた女の子,最初にこのPOIを設置した人は中国語で「紅鞋女孩像」とnameタグを付けましたが、この像の銘板には中国語名は記されておらず、日本語名と英語名だけが記されています。中国語名は「name:zh」として残しておきました。,hidden_gem,35.4471064,139.6481339,overpass,https://www.openstreetmap.org/node/4702078791,,kanagawa
+overpass-24384,さんぽ,銘板によると1990年作成,hidden_gem,35.5132477,139.4578745,overpass,https://www.openstreetmap.org/node/4754071793,,kanagawa
+overpass-24385,親子のふれあい,,hidden_gem,35.4564316,139.4600143,overpass,https://www.openstreetmap.org/node/4838240123,,kanagawa
+overpass-24386,旧税関事務所遺構,,hidden_gem,35.453418,139.6431707,overpass,https://www.openstreetmap.org/node/868385230,,kanagawa
+overpass-24387,石垣山一夜城歴史公園,,hidden_gem,35.2360554,139.1283018,overpass,https://www.openstreetmap.org/node/2113670605,,kanagawa
+overpass-24388,能見堂跡,,hidden_gem,35.3502648,139.6187596,overpass,https://www.openstreetmap.org/node/2441026434,,kanagawa
+overpass-24389,明治10年代に築造されたレンガ造りマンホールと下水管,,hidden_gem,35.4474298,139.6442848,overpass,https://www.openstreetmap.org/node/3125367986,,kanagawa
+overpass-24390,旧居留地消防隊地下貯留水槽遺構,,hidden_gem,35.445705,139.6431955,overpass,https://www.openstreetmap.org/node/3125467484,,kanagawa
+overpass-24391,近代横浜の土木遺構,,hidden_gem,35.4460431,139.6432501,overpass,https://www.openstreetmap.org/node/3162356393,,kanagawa
+overpass-24392,御所台の井戸,,hidden_gem,35.443415,139.5983511,overpass,https://www.openstreetmap.org/node/3256363483,,kanagawa
+overpass-24393,苦難除けの石燈籠,,hidden_gem,35.4353843,139.6161121,overpass,https://www.openstreetmap.org/node/3281630715,,kanagawa
+overpass-24394,創建当時の手水鉢,,hidden_gem,35.4354312,139.6160933,overpass,https://www.openstreetmap.org/node/3281630739,,kanagawa
+overpass-24395,蛇混柏,,hidden_gem,35.3323044,139.6219765,overpass,https://www.openstreetmap.org/node/3362664011,,kanagawa
+overpass-24396,二代目横浜駅,,hidden_gem,35.4597177,139.6230561,overpass,https://www.openstreetmap.org/node/3924737575,,kanagawa
+overpass-24397,長浜城跡,,hidden_gem,35.0181979,138.8879476,overpass,https://www.openstreetmap.org/node/4061388937,,kanagawa
+overpass-24398,レンガ造り井戸遺構,古井戸の遺構が展示されています,hidden_gem,35.4409151,139.6539744,overpass,https://www.openstreetmap.org/node/4549051125,,kanagawa
+overpass-24399,台場跡,,hidden_gem,35.2867834,139.6960616,overpass,https://www.openstreetmap.org/node/4958114755,,kanagawa
+overpass-24400,日蓮洞穴,,hidden_gem,35.2877122,139.6949843,overpass,https://www.openstreetmap.org/node/4958114760,,kanagawa
+overpass-24401,太田和城跡,,hidden_gem,35.2280664,139.6374802,overpass,https://www.openstreetmap.org/node/5491592092,,kanagawa
+overpass-24402,北門第二砲台跡,,hidden_gem,35.2571777,139.7435456,overpass,https://www.openstreetmap.org/node/6036364461,,kanagawa
+overpass-24403,北門第一砲台跡,,hidden_gem,35.2550991,139.744577,overpass,https://www.openstreetmap.org/node/6036364462,,kanagawa
+overpass-24404,旧相模川橋脚,,hidden_gem,35.3326144,139.3844549,overpass,https://www.openstreetmap.org/node/6140213942,,kanagawa
+overpass-24405,成瀬城跡,,hidden_gem,35.5411253,139.4724878,overpass,https://www.openstreetmap.org/node/8050551808,,kanagawa
