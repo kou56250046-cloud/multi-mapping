@@ -44,3 +44,12 @@ next-env.d.ts
 
 # playwright mcp logs
 .playwright-mcp/
+
+# scraper intermediate output (中間生成物)
+scraper/output/*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/

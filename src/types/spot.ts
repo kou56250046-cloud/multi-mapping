@@ -21,6 +21,14 @@ export type SpotTag =
   | "cherry_blossom"
   | "autumn_leaves";
 
+/** データ提供元の識別子 */
+export type SpotSource =
+  | "nap"
+  | "tokyo_park"
+  | "kanagawa_park"
+  | "mlit"
+  | "manual";
+
 export interface Spot {
   id: string;
   name: string;
@@ -28,20 +36,13 @@ export interface Spot {
   category: SpotCategory;
   latitude: number;
   longitude: number;
-  nickname: string | null;
+  /** データ提供元 */
+  source: SpotSource;
+  /** 元データのURL（あれば） */
+  source_url: string | null;
   created_at: string;
   updated_at: string;
   tags?: SpotTag[];
+  /** 現在地からの距離（計算値・任意） */
   distance_km?: number;
-}
-
-export interface SpotCreatePayload {
-  name: string;
-  description?: string;
-  category: SpotCategory;
-  latitude: number;
-  longitude: number;
-  nickname?: string;
-  tags: SpotTag[];
-  turnstileToken: string;
 }

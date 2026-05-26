@@ -1,13 +1,13 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useMemo } from "react";
 import { useSearchParams } from "next/navigation";
 import MapView from "@/components/map/MapView";
 import SpotFilter from "@/components/spots/SpotFilter";
 import NearbySpots from "@/components/spots/NearbySpots";
-import { loadAllSpots } from "@/lib/storage/local";
+import { loadAllSpots } from "@/lib/data/spots";
 import { isValidTag } from "@/lib/utils/tagConfig";
-import type { Spot, SpotCategory } from "@/types/spot";
+import type { SpotCategory } from "@/types/spot";
 
 const VALID_CATEGORIES: SpotCategory[] = [
   "meditation",
@@ -21,19 +21,9 @@ const VALID_CATEGORIES: SpotCategory[] = [
 
 export default function HomeClient() {
   const searchParams = useSearchParams();
-  const [allSpots, setAllSpots] = useState<Spot[]>([]);
-  const [mounted, setMounted] = useState(false);
 
-  useEffect(() => {
-    setAllSpots(loadAllSpots());
-    setMounted(true);
-
-    const onStorage = (e: StorageEvent) => {
-      if (e.key === "multi-mapping:spots:v1") setAllSpots(loadAllSpots());
-    };
-    window.addEventListener("storage", onStorage);
-    return () => window.removeEventListener("storage", onStorage);
-  }, []);
+  // 静的JSONから全スポットを取得（LocalStorageは不要）
+  const allSpots = useMemo(() => loadAllSpots(), []);
 
   const filteredSpots = useMemo(() => {
     const categoryParam = searchParams.get("category");
@@ -65,7 +55,7 @@ export default function HomeClient() {
       <div className="relative" style={{ height: "60vh", minHeight: "400px" }}>
         <MapView spots={filteredSpots} />
         <div className="absolute bottom-3 left-3 bg-white/95 backdrop-blur px-3 py-1.5 rounded-md shadow text-xs text-gray-700 z-10">
-          {mounted ? `${filteredSpots.length} 件のスポット` : "読み込み中..."}
+          {filteredSpots.length} 件のスポット
         </div>
       </div>
       <NearbySpots spots={allSpots} />

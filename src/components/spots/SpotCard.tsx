@@ -1,9 +1,17 @@
 import Link from "next/link";
 import CategoryBadge from "./CategoryBadge";
-import { displayNickname, formatDate } from "@/lib/utils/formatters";
+import { formatDate } from "@/lib/utils/formatters";
 import { formatDistance } from "@/lib/utils/geo";
 import { getTagIcon, getTagLabel } from "@/lib/utils/tagConfig";
 import type { Spot } from "@/types/spot";
+
+const SOURCE_LABELS: Record<string, string> = {
+  nap: "なっぷ",
+  tokyo_park: "東京都公園協会",
+  kanagawa_park: "神奈川県公園",
+  mlit: "国土数値情報",
+  manual: "編集部",
+};
 
 export default function SpotCard({ spot }: { spot: Spot }) {
   return (
@@ -41,7 +49,7 @@ export default function SpotCard({ spot }: { spot: Spot }) {
         </div>
       )}
       <div className="text-xs text-gray-500 flex items-center justify-between">
-        <span>{displayNickname(spot.nickname)}</span>
+        <span>{SOURCE_LABELS[spot.source] ?? spot.source}</span>
         <span>{formatDate(spot.created_at)}</span>
       </div>
     </Link>

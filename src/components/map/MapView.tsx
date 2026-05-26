@@ -4,7 +4,6 @@ import { useEffect, useRef, useState } from "react";
 import type { Spot } from "@/types/spot";
 import { getCategoryColor, getCategoryIcon, getCategoryLabel } from "@/lib/utils/categoryConfig";
 import { TOKYO_CENTER } from "@/lib/utils/geo";
-import { displayNickname } from "@/lib/utils/formatters";
 
 interface Props {
   spots: Spot[];
@@ -124,7 +123,7 @@ export default function MapView({
             </div>
             <div style="font-weight: bold; font-size: 14px; margin-bottom: 4px;">${escapeHtml(spot.name)}</div>
             ${spot.description ? `<div style="font-size: 12px; color: #555; margin-bottom: 6px; max-height: 60px; overflow: hidden;">${escapeHtml(spot.description)}</div>` : ""}
-            <div style="font-size: 11px; color: #888; margin-bottom: 8px;">投稿者: ${escapeHtml(displayNickname(spot.nickname))}</div>
+            <div style="font-size: 11px; color: #888; margin-bottom: 8px;">提供元: ${escapeHtml(spot.source)}</div>
             <a href="/spots/${spot.id}" style="display: inline-block; background: #22c55e; color: white; padding: 4px 12px; border-radius: 6px; font-size: 12px; text-decoration: none;">詳細を見る →</a>
           </div>
         `;

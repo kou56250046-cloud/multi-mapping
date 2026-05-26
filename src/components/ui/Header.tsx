@@ -10,17 +10,9 @@ export default function Header() {
             <span className="font-bold text-base text-gray-900 group-hover:text-primary-600 transition-colors">
               自然スポットマップ
             </span>
-            <span className="text-[10px] text-gray-500">東京・神奈川の自然を共有</span>
+            <span className="text-[10px] text-gray-500">東京・神奈川の自然スポット</span>
           </div>
         </Link>
-        <nav className="flex items-center gap-2">
-          <Link
-            href="/spots/new"
-            className="px-4 py-2 bg-primary-500 hover:bg-primary-600 text-white text-sm font-medium rounded-lg transition-colors"
-          >
-            ＋ スポット投稿
-          </Link>
-        </nav>
       </div>
     </header>
   );
