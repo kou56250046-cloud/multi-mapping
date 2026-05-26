@@ -45,8 +45,8 @@ export default function SpotFilter() {
   const hasFilter = selectedCategories.length > 0 || selectedTags.length > 0 || keyword;
 
   return (
-    <div className="bg-white border-b border-gray-200">
-      <div className="max-w-6xl mx-auto px-4 py-3">
+    <div className="bg-white rounded-xl shadow-lg border border-gray-100">
+      <div className="px-3 py-2.5">
         <div className="flex items-center gap-2 flex-wrap">
           <input
             type="text"
@@ -81,7 +81,7 @@ export default function SpotFilter() {
         </div>
 
         {open && (
-          <div className="mt-3 pt-3 border-t border-gray-100 space-y-3">
+          <div className="mt-0 pt-2.5 border-t border-gray-100 space-y-3">
             <div>
               <div className="text-xs font-bold text-gray-700 mb-1.5">カテゴリ</div>
               <div className="flex flex-wrap gap-1.5">

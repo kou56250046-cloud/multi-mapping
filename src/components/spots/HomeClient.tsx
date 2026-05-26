@@ -4,7 +4,6 @@ import { useMemo } from "react";
 import { useSearchParams } from "next/navigation";
 import MapView from "@/components/map/MapView";
 import SpotFilter from "@/components/spots/SpotFilter";
-import NearbySpots from "@/components/spots/NearbySpots";
 import { loadAllSpots } from "@/lib/data/spots";
 import { isValidTag } from "@/lib/utils/tagConfig";
 import type { SpotCategory } from "@/types/spot";
@@ -22,7 +21,7 @@ const VALID_CATEGORIES: SpotCategory[] = [
 export default function HomeClient() {
   const searchParams = useSearchParams();
 
-  // 静的JSONから全スポットを取得（LocalStorageは不要）
+  // 静的JSONから全スポットを取得
   const allSpots = useMemo(() => loadAllSpots(), []);
 
   const filteredSpots = useMemo(() => {
@@ -50,15 +49,23 @@ export default function HomeClient() {
   }, [allSpots, searchParams]);
 
   return (
-    <>
-      <SpotFilter />
-      <div className="relative" style={{ height: "60vh", minHeight: "400px" }}>
-        <MapView spots={filteredSpots} />
-        <div className="absolute bottom-3 left-3 bg-white/95 backdrop-blur px-3 py-1.5 rounded-md shadow text-xs text-gray-700 z-10">
-          {filteredSpots.length} 件のスポット
-        </div>
+    // ヘッダー高さ約57pxを除いた全高マップ
+    <div className="relative overflow-hidden" style={{ height: "calc(100vh - 57px)" }}>
+      {/* 全高マップ */}
+      <MapView spots={filteredSpots} />
+
+      {/* フローティングフィルターパネル（左上） */}
+      <div
+        className="absolute top-3 left-3 z-10 w-80"
+        style={{ maxHeight: "calc(100% - 5rem)", overflowY: "auto" }}
+      >
+        <SpotFilter />
       </div>
-      <NearbySpots spots={allSpots} />
-    </>
+
+      {/* スポット件数バッジ（左下） */}
+      <div className="absolute bottom-8 left-3 bg-white/90 backdrop-blur-sm px-3 py-1.5 rounded-full shadow text-xs text-gray-700 z-10 pointer-events-none">
+        📍 {filteredSpots.length.toLocaleString()} 件表示中
+      </div>
+    </div>
   );
 }
