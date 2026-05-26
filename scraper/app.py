@@ -199,6 +199,53 @@ def page_scraper_run():
     if st.session_state.scraping_done:
         _render_scraping_summary()
 
+    # ---- 既存データをインポート ----
+    st.divider()
+    _render_import_section()
+
+
+def _render_import_section():
+    """spots.json の手動データをCSVに変換してインポートするセクション"""
+    with st.expander("📥 既存データをインポート（スクレイピングが失敗した場合）", expanded=False):
+        st.markdown(
+            "現在 `src/lib/data/spots.json` に登録済みの手動データをCSVとしてインポートします。\n"
+            "スクレイパーが動作しない間も、データ編集・地図プレビュー・JSON変換を確認できます。"
+        )
+
+        if not SPOTS_JSON.exists():
+            st.warning("spots.json が見つかりません")
+            return
+
+        with open(SPOTS_JSON, encoding="utf-8") as f:
+            spots_data: list[dict] = json.load(f)
+
+        st.info(f"spots.json に **{len(spots_data)} 件**のデータがあります")
+
+        if st.button("📥 spots.json をCSVとしてインポート", type="secondary"):
+            rows = []
+            for i, s in enumerate(spots_data):
+                tags = s.get("tags", [])
+                rows.append({
+                    "id": s.get("id") or f"manual-{str(i+1).zfill(4)}",
+                    "name": s.get("name", ""),
+                    "description": s.get("description") or "",
+                    "category": s.get("category", "walking"),
+                    "latitude": s.get("latitude", 0),
+                    "longitude": s.get("longitude", 0),
+                    "source": s.get("source", "manual"),
+                    "source_url": s.get("source_url") or "",
+                    "tags": ";".join(tags) if isinstance(tags, list) else (tags or ""),
+                    "prefecture": s.get("prefecture", "tokyo"),
+                })
+
+            df = pd.DataFrame(rows)
+            OUTPUT_SPOTS_CSV.parent.mkdir(parents=True, exist_ok=True)
+            FINAL_CSV.parent.mkdir(parents=True, exist_ok=True)
+            df.to_csv(OUTPUT_SPOTS_CSV, index=False, encoding="utf-8-sig")
+            df.to_csv(FINAL_CSV, index=False, encoding="utf-8-sig")
+            st.success(f"✅ {len(df)} 件をCSVとしてインポートしました！\n「データ編集」や「地図プレビュー」ページで確認できます。")
+            st.rerun()
+
 
 def _start_scraping(sources: list[str]):
     """subprocess + threading でスクレイパーを非同期起動する"""
@@ -264,8 +311,16 @@ def _render_log():
 def _render_scraping_summary():
     """完了後のサマリー表示"""
     df = load_csv()
-    if df is None:
-        st.warning("spots.csv が生成されませんでした")
+    if df is None or len(df) == 0:
+        st.error(
+            "**スポットが取得できませんでした。**\n\n"
+            "考えられる原因:\n"
+            "- ネットワーク接続の問題（タイムアウト等）\n"
+            "- 対象サイトのHTML構造変更・URL変更\n"
+            "- GMLデータの名前空間・要素名の変更\n\n"
+            "上のログを確認して詳細なエラーを確認してください。\n\n"
+            "**→ 下の「既存データをインポート」で手動データを読み込み、パイプラインを確認できます。**"
+        )
         return
 
     st.divider()

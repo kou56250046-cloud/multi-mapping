@@ -137,7 +137,14 @@ def main(enabled_sources: set[str] | None = None):
 
     if not all_spots:
         print("\n⚠️  データが取得できませんでした")
-        sys.exit(1)
+        print("   各スクレイパーのエラーログを確認し、ネットワーク接続・サイト構造を確認してください")
+        print("   Streamlit UI の「既存データをインポート」を使うと手動データでパイプラインを確認できます")
+        # sys.exit(1) は呼ばず、空のCSVを書いて終了する
+        df_empty = pd.DataFrame(columns=CSV_COLUMNS)
+        df_empty.to_csv(OUTPUT_CSV, index=False, encoding="utf-8-sig")
+        df_empty.to_csv(FINAL_CSV, index=False, encoding="utf-8-sig")
+        print(f"💾 空のCSVを作成: {OUTPUT_CSV}")
+        return
 
     print(f"\n{'='*50}")
     print(f"📊 合計 {len(all_spots)} 件取得")
