@@ -27,6 +27,7 @@ export type SpotSource =
   | "tokyo_park"
   | "kanagawa_park"
   | "mlit"
+  | "overpass"
   | "manual";
 
 export interface Spot {

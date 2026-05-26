@@ -36,7 +36,7 @@ CSV_COLUMNS = [
 ]
 
 # データソース優先度（重複排除時に先頭のソースが優先される）
-SOURCE_PRIORITY = ["mlit", "tokyo_park", "kanagawa_park", "nap", "manual"]
+SOURCE_PRIORITY = ["overpass", "tokyo_park", "kanagawa_park", "nap", "mlit", "manual"]
 
 
 def run_scraper(name: str, scraper_fn) -> list[dict]:
@@ -88,18 +88,29 @@ def main(enabled_sources: set[str] | None = None):
 
     all_spots: list[dict] = []
 
-    # 1. 国土数値情報 N13（最優先・法的リスクなし）
+    # 1. OpenStreetMap Overpass API（最優先・無料・認証不要・ODbLライセンス）
+    if should_run("overpass"):
+        try:
+            from sources.overpass import scrape_overpass
+            spots = run_scraper("OpenStreetMap (Overpass API)", scrape_overpass)
+            all_spots.extend(spots)
+        except ImportError as e:
+            print(f"⚠️  overpass のインポートエラー: {e}")
+    else:
+        print("⏭️  OpenStreetMap (Overpass API): スキップ")
+
+    # 2. 国土数値情報 N13（互換性のため残存・実質的には道路データのため非推奨）
     if should_run("mlit"):
         try:
             from sources.mlit_open import scrape_mlit
-            spots = run_scraper("国土数値情報 N13（都市公園）", scrape_mlit)
+            spots = run_scraper("国土数値情報 N13", scrape_mlit)
             all_spots.extend(spots)
         except ImportError as e:
             print(f"⚠️  mlit_open のインポートエラー: {e}")
     else:
         print("⏭️  国土数値情報 N13: スキップ")
 
-    # 2. 東京都公園協会
+    # 3. 東京都公園協会
     if should_run("tokyo_park"):
         try:
             from sources.tokyo_park import TokyoParkScraper
@@ -110,7 +121,7 @@ def main(enabled_sources: set[str] | None = None):
     else:
         print("⏭️  東京都立公園: スキップ")
 
-    # 3. 神奈川県立公園
+    # 4. 神奈川県立公園
     if should_run("kanagawa_park"):
         try:
             from sources.kanagawa_park import KanagawaParkScraper
@@ -121,7 +132,7 @@ def main(enabled_sources: set[str] | None = None):
     else:
         print("⏭️  神奈川県立公園: スキップ")
 
-    # 4. なっぷ（robots.txt確認済み かつ 選択された場合のみ）
+    # 5. なっぷ（robots.txt確認済み かつ 選択された場合のみ）
     NAP_ENABLED = os.environ.get("NAP_SCRAPING_ENABLED", "false").lower() == "true"
     if should_run("nap") and NAP_ENABLED:
         try:

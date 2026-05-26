@@ -11,6 +11,7 @@ const SOURCE_LABELS: Record<string, string> = {
   tokyo_park: "東京都公園協会",
   kanagawa_park: "神奈川県公園",
   mlit: "国土数値情報",
+  overpass: "OpenStreetMap",
   manual: "編集部",
 };
 

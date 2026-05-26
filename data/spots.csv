@@ -1,0 +1,1148 @@
+﻿id,name,description,category,latitude,longitude,source,source_url,tags,prefecture
+overpass-0001,荒幡富士,,walking,35.7739749,139.4459221,overpass,https://www.openstreetmap.org/node/296856918,,tokyo
+overpass-0002,スカイガーデン,,meditation,35.4547727,139.6313256,overpass,https://www.openstreetmap.org/node/304566283,fee,kanagawa
+overpass-0003,ガリバー山,,walking,35.6161145,139.4194902,overpass,https://www.openstreetmap.org/node/312522057,,tokyo
+overpass-0004,浅間山,ja:浅間山 (東京都),walking,35.681265,139.5024655,overpass,https://www.openstreetmap.org/node/315737039,,tokyo
+overpass-0005,天覧山,ja:天覧山,walking,35.8620377,139.308305,overpass,https://www.openstreetmap.org/node/323812061,,tokyo
+overpass-0006,多峰主山,ja:多峰主山,walking,35.8681228,139.2979421,overpass,https://www.openstreetmap.org/node/338877338,,tokyo
+overpass-0007,荒神山,,walking,35.3891647,139.6061384,overpass,https://www.openstreetmap.org/node/347520642,,kanagawa
+overpass-0008,塔ノ岳,ja:塔ノ岳,walking,35.4540704,139.163317,overpass,https://www.openstreetmap.org/node/357416162,,kanagawa
+overpass-0009,三ノ塔,ja:三ノ塔,walking,35.4365712,139.1915566,overpass,https://www.openstreetmap.org/node/357416170,,kanagawa
+overpass-0010,二ノ塔,,walking,35.4340378,139.1955383,overpass,https://www.openstreetmap.org/node/357416184,,kanagawa
+overpass-0011,新大日,ja:新大日,walking,35.4516605,139.1767694,overpass,https://www.openstreetmap.org/node/363527561,,kanagawa
+overpass-0012,行者岳,ja:行者岳,walking,35.4454069,139.1822317,overpass,https://www.openstreetmap.org/node/363527591,,kanagawa
+overpass-0013,烏尾山,ja:烏尾山,walking,35.439582,139.185487,overpass,https://www.openstreetmap.org/node/363527617,,kanagawa
+overpass-0014,桜山展望台,,meditation,35.8234486,139.3449473,overpass,https://www.openstreetmap.org/node/365787022,cherry_blossom,tokyo
+overpass-0015,Lakeside Observation Building,,meditation,35.1962174,139.0260842,overpass,https://www.openstreetmap.org/node/391237969,wheelchair,kanagawa
+overpass-0016,子の山,,walking,35.9072981,139.1888835,overpass,https://www.openstreetmap.org/node/409503611,,tokyo
+overpass-0017,浅間山,,walking,35.322111,139.3123404,overpass,https://www.openstreetmap.org/node/494831701,,kanagawa
+overpass-0018,高麗山,ja:高麗山,walking,35.3229076,139.3214142,overpass,https://www.openstreetmap.org/node/494831767,,kanagawa
+overpass-0019,湘南平,ja:湘南平,walking,35.3198696,139.3087418,overpass,https://www.openstreetmap.org/node/494831838,,kanagawa
+overpass-0020,鷹取山,,walking,35.3293164,139.2753593,overpass,https://www.openstreetmap.org/node/496053593,,kanagawa
+overpass-0021,日和田山,ja:日和田山,walking,35.893764,139.3048509,overpass,https://www.openstreetmap.org/node/509903560,,tokyo
+overpass-0022,物見山,,walking,35.9032886,139.2937056,overpass,https://www.openstreetmap.org/node/509903681,,tokyo
+overpass-0023,雲取山,東京都最高峰,walking,35.8555351,138.9439287,overpass,https://www.openstreetmap.org/node/531000790,,tokyo
+overpass-0024,飯室山,,walking,35.6124965,139.5625482,overpass,https://www.openstreetmap.org/node/538944387,,tokyo
+overpass-0025,枡形山,,walking,35.6111218,139.5605655,overpass,https://www.openstreetmap.org/node/538944991,,tokyo
+overpass-0026,フランス山,,walking,35.4411829,139.6535072,overpass,https://www.openstreetmap.org/node/610953772,,kanagawa
+overpass-0027,大丸山,横浜市最高峰,walking,35.3462081,139.5894234,overpass,https://www.openstreetmap.org/node/611629159,,kanagawa
+overpass-0028,妙音沢(Myouon Zawa),,meditation,35.7764083,139.5762697,overpass,https://www.openstreetmap.org/node/631463070,,tokyo
+overpass-0029,大山,ja:大山 (神奈川県),walking,35.4408317,139.2313338,overpass,https://www.openstreetmap.org/node/648765094,,kanagawa
+overpass-0030,高尾山,ja:高尾山,walking,35.6252267,139.2436878,overpass,https://www.openstreetmap.org/node/675449030,,tokyo
+overpass-0031,金比羅台,,meditation,35.6355018,139.2617795,overpass,https://www.openstreetmap.org/node/702326976,,tokyo
+overpass-0032,大菩薩嶺,ja:大菩薩嶺,walking,35.7487175,138.8454802,overpass,https://www.openstreetmap.org/node/705063479,,tokyo
+overpass-0033,大塚山,,walking,35.7924885,139.1468712,overpass,https://www.openstreetmap.org/node/724150165,,tokyo
+overpass-0034,Kaze-no-oka Overlook,,meditation,35.4972625,139.5232323,overpass,https://www.openstreetmap.org/node/734220423,,kanagawa
+overpass-0035,鋸山,ja:鋸山 (千葉県),walking,35.1585708,139.828853,overpass,https://www.openstreetmap.org/node/760291649,,tokyo
+overpass-0036,しだれ柳,往時の平潟道の名残,meditation,35.7874997,139.8951449,overpass,https://www.openstreetmap.org/node/771342043,,tokyo
+overpass-0037,香貫山展望台,,meditation,35.0918612,138.8756948,overpass,https://www.openstreetmap.org/node/777523388,,kanagawa
+overpass-0038,横山,ja:横山 (静岡県),walking,35.0876078,138.8892405,overpass,https://www.openstreetmap.org/node/777655819,,kanagawa
+overpass-0039,徳倉山,ja:徳倉山,walking,35.0784644,138.8884239,overpass,https://www.openstreetmap.org/node/777685253,,kanagawa
+overpass-0040,小仏城山,ja:城山 (東京都・神奈川県),walking,35.6298691,139.22117,overpass,https://www.openstreetmap.org/node/824017753,,tokyo
+overpass-0041,小仏峠,ja:小仏峠,meditation,35.6362447,139.2168348,overpass,https://www.openstreetmap.org/node/824017756,,tokyo
+overpass-0042,東京シティビュー,,meditation,35.66043,139.7290554,overpass,https://www.openstreetmap.org/node/919282252,wheelchair;fee,tokyo
+overpass-0043,高尾山　大見晴園地,,meditation,35.6245849,139.2431553,overpass,https://www.openstreetmap.org/node/945081916,,tokyo
+overpass-0044,赤岩岳,,walking,36.03361,138.8117433,overpass,https://www.openstreetmap.org/node/1058510430,,tokyo
+overpass-0045,柏木山,,walking,35.85622,139.27736,overpass,https://www.openstreetmap.org/node/1348983545,,tokyo
+overpass-0046,Carrot Tower 26F,,meditation,35.6437992,139.6693258,overpass,https://www.openstreetmap.org/node/1394715627,,tokyo
+overpass-0047,大沢山,,walking,35.7333472,139.0149843,overpass,https://www.openstreetmap.org/node/1401023172,,tokyo
+overpass-0048,三頭山 西峰,,walking,35.7389371,139.0122308,overpass,https://www.openstreetmap.org/node/1401025178,,tokyo
+overpass-0049,三頭山 中央峰,,walking,35.7389612,139.0138253,overpass,https://www.openstreetmap.org/node/1401025210,,tokyo
+overpass-0050,すすきの草原,,meditation,35.2603653,139.0088361,overpass,https://www.openstreetmap.org/node/1436512588,,kanagawa
+overpass-0051,Sky Circus,,meditation,35.729442,139.7180675,overpass,https://www.openstreetmap.org/node/1439037612,wheelchair;fee,tokyo
+overpass-0052,仙元山,ja:仙元山,walking,36.041673,139.27106,overpass,https://www.openstreetmap.org/node/1446105027,,tokyo
+overpass-0053,物見峠,,meditation,35.4645925,139.2963325,overpass,https://www.openstreetmap.org/node/1447614193,,kanagawa
+overpass-0054,むじな坂峠,,meditation,35.4668344,139.296689,overpass,https://www.openstreetmap.org/node/1447614778,,kanagawa
+overpass-0055,辺室山,ja:辺室山,walking,35.489765,139.254752,overpass,https://www.openstreetmap.org/node/1447627646,,kanagawa
+overpass-0056,衣浸山,,walking,35.5195423,139.2596118,overpass,https://www.openstreetmap.org/node/1447654055,,kanagawa
+overpass-0057,苺山,,walking,35.6262138,139.2278088,overpass,https://www.openstreetmap.org/node/1456948984,,tokyo
+overpass-0058,丹沢山,,walking,35.4743625,139.1626918,overpass,https://www.openstreetmap.org/node/1512981907,,kanagawa
+overpass-0059,仙元峠,,walking,35.8748368,139.0825835,overpass,https://www.openstreetmap.org/node/1516496667,,tokyo
+overpass-0060,川越山,,walking,35.945996,139.162436,overpass,https://www.openstreetmap.org/node/1519053504,,tokyo
+overpass-0061,正丸山,,walking,35.948919,139.163552,overpass,https://www.openstreetmap.org/node/1519054000,,tokyo
+overpass-0062,甲仁田山,,walking,35.9593087,139.1454475,overpass,https://www.openstreetmap.org/node/1519056480,,tokyo
+overpass-0063,日向山,,walking,35.989294,139.132989,overpass,https://www.openstreetmap.org/node/1519070033,,tokyo
+overpass-0064,聖峰,,meditation,35.4024,139.2652253,overpass,https://www.openstreetmap.org/node/1525926868,,kanagawa
+overpass-0065,松田山　夜景スポット,,meditation,35.36134,139.1350631,overpass,https://www.openstreetmap.org/node/1525932293,night_view,kanagawa
+overpass-0066,糠指山,,walking,35.7548109,139.0073574,overpass,https://www.openstreetmap.org/node/1593220776,,tokyo
+overpass-0067,棒ノ嶺（棒ノ折山）,,walking,35.8586784,139.1550986,overpass,https://www.openstreetmap.org/node/1593299747,,tokyo
+overpass-0068,馬引沢峠,,walking,35.7672764,139.2447629,overpass,https://www.openstreetmap.org/node/1594997330,,tokyo
+overpass-0069,鹿倉山,,walking,35.770329,138.949763,overpass,https://www.openstreetmap.org/node/1597719000,,tokyo
+overpass-0070,大室山,ja:大室山 (丹沢),walking,35.510958,139.068526,overpass,https://www.openstreetmap.org/node/1598891630,,kanagawa
+overpass-0071,白谷ノ丸,,walking,35.6844729,138.8580741,overpass,https://www.openstreetmap.org/node/1599604065,,tokyo
+overpass-0072,大岳山,ja:大岳山 (東京都),walking,35.7651956,139.1303653,overpass,https://www.openstreetmap.org/node/1629787990,,tokyo
+overpass-0073,鋸山,,walking,35.7792411,139.1059477,overpass,https://www.openstreetmap.org/node/1629787991,,tokyo
+overpass-0074,六道山展望台,,meditation,35.7759525,139.3681399,overpass,https://www.openstreetmap.org/node/1632894605,,tokyo
+overpass-0075,のげやまこうえんてんぼうだい,,meditation,35.4449876,139.6232658,overpass,https://www.openstreetmap.org/node/1633845141,wheelchair,kanagawa
+overpass-0076,檜洞丸,ja:檜洞丸,walking,35.4789975,139.1027579,overpass,https://www.openstreetmap.org/node/1654433177,,kanagawa
+overpass-0077,蛭ヶ岳,ja:蛭ヶ岳,walking,35.4862312,139.1388014,overpass,https://www.openstreetmap.org/node/1654433338,,kanagawa
+overpass-0078,袖平山,ja:袖平山,walking,35.5108324,139.1261896,overpass,https://www.openstreetmap.org/node/1654436017,,kanagawa
+overpass-0079,鳥屋越,,walking,35.540747,139.233523,overpass,https://www.openstreetmap.org/node/1654445220,,kanagawa
+overpass-0080,権現平,,walking,35.546007,139.23503,overpass,https://www.openstreetmap.org/node/1654449260,,kanagawa
+overpass-0081,南山,,walking,35.5486839,139.2452418,overpass,https://www.openstreetmap.org/node/1654451507,,kanagawa
+overpass-0082,第4休憩所,,meditation,35.7931706,139.239681,overpass,https://www.openstreetmap.org/node/1657971581,bench,tokyo
+overpass-0083,第3休憩所,,meditation,35.7934729,139.2467601,overpass,https://www.openstreetmap.org/node/1657971598,bench,tokyo
+overpass-0084,稲荷山公園展望台,,meditation,35.8513619,139.4008142,overpass,https://www.openstreetmap.org/node/1667665516,,tokyo
+overpass-0085,パノラマ台,,meditation,35.4126109,138.9094791,overpass,https://www.openstreetmap.org/node/1668712785,,kanagawa
+overpass-0086,薬師堂のマキ,,meditation,35.8627291,139.5902741,overpass,https://www.openstreetmap.org/node/1678068361,,tokyo
+overpass-0087,富士山とランドマークタワー,,meditation,35.4418062,139.5620334,overpass,https://www.openstreetmap.org/node/1678499478,,kanagawa
+overpass-0088,日の出山,,walking,35.7812407,139.1674711,overpass,https://www.openstreetmap.org/node/1681906653,,tokyo
+overpass-0089,三室山,,walking,35.7862259,139.1985434,overpass,https://www.openstreetmap.org/node/1681906655,,tokyo
+overpass-0090,明治百年記念展望台,,meditation,35.312756,139.7854193,overpass,https://www.openstreetmap.org/node/1705606648,,kanagawa
+overpass-0091,展望ベンチ,,meditation,35.3716782,139.243482,overpass,https://www.openstreetmap.org/node/1707830135,bench,kanagawa
+overpass-0092,権現山,,walking,35.3717774,139.2432975,overpass,https://www.openstreetmap.org/node/1707830136,,kanagawa
+overpass-0093,弘法山,ja:弘法山,walking,35.3751459,139.2502445,overpass,https://www.openstreetmap.org/node/1707830242,,kanagawa
+overpass-0094,浅間山,,walking,35.3708517,139.2399095,overpass,https://www.openstreetmap.org/node/1707858282,,kanagawa
+overpass-0095,吾妻山,,walking,35.3843678,139.2687175,overpass,https://www.openstreetmap.org/node/1711490672,,kanagawa
+overpass-0096,平塚テレビ中継局,ja:平塚テレビ中継局,meditation,35.3206767,139.3105445,overpass,https://www.openstreetmap.org/node/1719284136,,kanagawa
+overpass-0097,陣馬山,en:Mount Jinba,walking,35.6521695,139.1665125,overpass,https://www.openstreetmap.org/node/1727671797,,tokyo
+overpass-0098,扇山,ja:扇山 (大月市),walking,35.6373287,139.0136516,overpass,https://www.openstreetmap.org/node/1736088460,,tokyo
+overpass-0099,倉岳山,ja:倉岳山,walking,35.5840323,139.0198373,overpass,https://www.openstreetmap.org/node/1744843829,,tokyo
+overpass-0100,新幹線が見える丘,,walking,35.4093185,139.4078043,overpass,https://www.openstreetmap.org/node/1750408531,,kanagawa
+overpass-0101,滝入ノ頭,,walking,35.9043499,139.114755,overpass,https://www.openstreetmap.org/node/1760779147,,tokyo
+overpass-0102,祇園山見晴台,,meditation,35.3147638,139.5554223,overpass,https://www.openstreetmap.org/node/1782561793,,kanagawa
+overpass-0103,景信山,ja:景信山,walking,35.6460086,139.215893,overpass,https://www.openstreetmap.org/node/1816157339,,tokyo
+overpass-0104,パノラマ台,,meditation,35.3109957,139.5674368,overpass,https://www.openstreetmap.org/node/1826053372,,kanagawa
+overpass-0105,景観百選(富士山),,meditation,35.3129964,139.5685159,overpass,https://www.openstreetmap.org/node/1826211444,,kanagawa
+overpass-0106,大寺山,,walking,35.769417,138.9836716,overpass,https://www.openstreetmap.org/node/1827273460,,tokyo
+overpass-0107,三頭山 東峰,,walking,35.738564,139.0140689,overpass,https://www.openstreetmap.org/node/1827281756,,tokyo
+overpass-0108,丸山,,walking,35.6190021,138.9494491,overpass,https://www.openstreetmap.org/node/1852480986,,tokyo
+overpass-0109,岩殿山,,walking,35.6206994,138.9483748,overpass,https://www.openstreetmap.org/node/1852503364,,tokyo
+overpass-0110,稚児落し,,walking,35.6242597,138.9345886,overpass,https://www.openstreetmap.org/node/1852509782,,tokyo
+overpass-0111,平尾山,,walking,35.4423863,138.8931727,overpass,https://www.openstreetmap.org/node/1863871110,,kanagawa
+overpass-0112,石割山,ja:石割山,walking,35.4504909,138.901359,overpass,https://www.openstreetmap.org/node/1863871113,,kanagawa
+overpass-0113,赤ぼっこ,,meditation,35.7691919,139.238226,overpass,https://www.openstreetmap.org/node/1873552277,,tokyo
+overpass-0114,天狗岩,,meditation,35.770792,139.2348049,overpass,https://www.openstreetmap.org/node/1873552289,,tokyo
+overpass-0115,テレコムセンター展望室,,meditation,35.617096,139.780078,overpass,https://www.openstreetmap.org/node/1880385539,,tokyo
+overpass-0116,御前山,ja:御前山 (東京都),walking,35.7701297,139.0805713,overpass,https://www.openstreetmap.org/node/1883283876,,tokyo
+overpass-0117,鐘掛山,,walking,36.098083,139.017936,overpass,https://www.openstreetmap.org/node/1908610948,,tokyo
+overpass-0118,関八州見晴台,ja:関八州見晴台,meditation,35.9458813,139.222137,overpass,https://www.openstreetmap.org/node/1915115466,,tokyo
+overpass-0119,堂平山,ja:堂平山,walking,36.0057582,139.1900808,overpass,https://www.openstreetmap.org/node/1918235893,,tokyo
+overpass-0120,二十六夜山,,walking,35.565836,139.0441023,overpass,https://www.openstreetmap.org/node/1918278932,,tokyo
+overpass-0121,高畑山,ja:高畑山 (山梨県),walking,35.579358,139.0040303,overpass,https://www.openstreetmap.org/node/1924795089,,tokyo
+overpass-0122,惣岳山,ja:惣岳山,walking,35.7720189,139.0753798,overpass,https://www.openstreetmap.org/node/1925163052,,tokyo
+overpass-0123,嵐山,ja:嵐山 (神奈川県),walking,35.6116091,139.1986821,overpass,https://www.openstreetmap.org/node/1939084060,,tokyo
+overpass-0124,鍋割山,ja:鍋割山 (神奈川県),walking,35.4438534,139.1415288,overpass,https://www.openstreetmap.org/node/1970901525,,kanagawa
+overpass-0125,三ツ峠山,ja:三つ峠,walking,35.5491648,138.8091636,overpass,https://www.openstreetmap.org/node/1971563467,,kanagawa
+overpass-0126,石砂山,,walking,35.5724367,139.1694161,overpass,https://www.openstreetmap.org/node/1985909542,,tokyo
+overpass-0127,石老山,ja:石老山,walking,35.5850709,139.190778,overpass,https://www.openstreetmap.org/node/1985909546,,tokyo
+overpass-0128,秩父御岳山,ja:秩父御岳山,walking,35.9665805,138.94272,overpass,https://www.openstreetmap.org/node/1998588310,,tokyo
+overpass-0129,富士岬平,,meditation,35.4376803,138.9275733,overpass,https://www.openstreetmap.org/node/2008102149,,kanagawa
+overpass-0130,高指山,,walking,35.4329177,138.9263803,overpass,https://www.openstreetmap.org/node/2008147278,,kanagawa
+overpass-0131,大平山,ja:大平山 (鎌倉市),walking,35.3375319,139.5723389,overpass,https://www.openstreetmap.org/node/2027424019,,kanagawa
+overpass-0132,見晴台,,meditation,35.4345884,139.2452728,overpass,https://www.openstreetmap.org/node/2038087727,,kanagawa
+overpass-0133,小廬山,"Rozan (廬山, Lu Shan) is a famous mountain in Jiangxi, China, celebrated in Chinese poetry and painting.
+Designers created a miniature version of Rozan using:
+a small artificial hill, stone arrangements &  plantings that evoke Chinese landscape aesthetics",meditation,35.7055646,139.748643,overpass,https://www.openstreetmap.org/node/2068114589,,tokyo
+overpass-0134,富士見台,,meditation,35.4355402,139.2317976,overpass,https://www.openstreetmap.org/node/2068140284,,kanagawa
+overpass-0135,三峰山,ja:三峰山 (丹沢),walking,35.4646926,139.2447589,overpass,https://www.openstreetmap.org/node/2087077479,,kanagawa
+overpass-0136,鷹取山,,walking,35.6342086,139.1319304,overpass,https://www.openstreetmap.org/node/2090550553,,tokyo
+overpass-0137,向山,,walking,35.546875,139.275016,overpass,https://www.openstreetmap.org/node/2101549216,,kanagawa
+overpass-0138,鍋嵐,ja:鍋嵐,walking,35.4854887,139.2364069,overpass,https://www.openstreetmap.org/node/2108808387,,kanagawa
+overpass-0139,展望台,,meditation,35.3216525,139.5890948,overpass,https://www.openstreetmap.org/node/2128808370,,kanagawa
+overpass-0140,清水坂山,,walking,35.3948134,139.6052456,overpass,https://www.openstreetmap.org/node/2131873084,,kanagawa
+overpass-0141,栗ノ木洞,ja:栗ノ木洞,walking,35.4241932,139.1466967,overpass,https://www.openstreetmap.org/node/2136775523,,kanagawa
+overpass-0142,櫟山,,walking,35.4186982,139.1481733,overpass,https://www.openstreetmap.org/node/2136775612,,kanagawa
+overpass-0143,浅間山,ja:浅間山 (箱根町),walking,35.2334873,139.0595048,overpass,https://www.openstreetmap.org/node/2143486956,,kanagawa
+overpass-0144,鷹巣山,ja:鷹巣山 (神奈川県),walking,35.2273485,139.0539125,overpass,https://www.openstreetmap.org/node/2143496664,,kanagawa
+overpass-0145,麻生山,,walking,35.7696434,139.1797679,overpass,https://www.openstreetmap.org/node/2151396872,,tokyo
+overpass-0146,世附権現山,ja:権現山 (丹沢 世附),walking,35.4305748,139.0252461,overpass,https://www.openstreetmap.org/node/2158929886,,kanagawa
+overpass-0147,浅間嶺,,walking,35.7200537,139.1022591,overpass,https://www.openstreetmap.org/node/2169884485,,tokyo
+overpass-0148,金比羅公園展望台,,meditation,35.7361186,139.2083889,overpass,https://www.openstreetmap.org/node/2190539042,,tokyo
+overpass-0149,高水山,,walking,35.8287437,139.1890472,overpass,https://www.openstreetmap.org/node/2192062689,,tokyo
+overpass-0150,岩茸石山,,walking,35.8307011,139.1788011,overpass,https://www.openstreetmap.org/node/2192073822,,tokyo
+overpass-0151,惣岳山,,walking,35.819166,139.1777652,overpass,https://www.openstreetmap.org/node/2192073823,,tokyo
+overpass-0152,ミツバ岳,,walking,35.4208995,139.0140233,overpass,https://www.openstreetmap.org/node/2216074601,,kanagawa
+overpass-0153,百蔵山,ja:百蔵山,walking,35.6381703,138.9810787,overpass,https://www.openstreetmap.org/node/2217829128,,tokyo
+overpass-0154,川崎マリエン,,meditation,35.4964997,139.7632627,overpass,https://www.openstreetmap.org/node/2241101922,,kanagawa
+overpass-0155,円海山,,walking,35.3612796,139.5944842,overpass,https://www.openstreetmap.org/node/2266534254,,kanagawa
+overpass-0156,金時山,ja:金時山,walking,35.2899433,139.0047198,overpass,https://www.openstreetmap.org/node/2270162192,,kanagawa
+overpass-0157,足柄公園,,meditation,35.3200758,139.0117745,overpass,https://www.openstreetmap.org/node/2270165415,,kanagawa
+overpass-0158,勝峰山,,walking,35.7526357,139.2180096,overpass,https://www.openstreetmap.org/node/2287241473,,tokyo
+overpass-0159,飯森山,,walking,35.4388637,138.869977,overpass,https://www.openstreetmap.org/node/2294516184,shade,kanagawa
+overpass-0160,大平山,,walking,35.4390997,138.8794398,overpass,https://www.openstreetmap.org/node/2294516185,,kanagawa
+overpass-0161,堂所山,,walking,35.6524251,139.1940592,overpass,https://www.openstreetmap.org/node/2297760702,,tokyo
+overpass-0162,焼山,ja:焼山 (丹沢),walking,35.5388591,139.16371,overpass,https://www.openstreetmap.org/node/2300508280,,kanagawa
+overpass-0163,黍殻山,ja:黍殻山,walking,35.5263911,139.1490356,overpass,https://www.openstreetmap.org/node/2300508281,,kanagawa
+overpass-0164,白岩山,ja:白岩山 (埼玉県),walking,35.8788487,138.9522519,overpass,https://www.openstreetmap.org/node/2300534131,,tokyo
+overpass-0165,霧藻ケ峰,ja:霧藻ヶ峰,walking,35.903562,138.9532095,overpass,https://www.openstreetmap.org/node/2300534133,,tokyo
+overpass-0166,大楠山,,walking,35.2502062,139.6280609,overpass,https://www.openstreetmap.org/node/2303621064,,kanagawa
+overpass-0167,富士山,,walking,35.2156727,139.6686844,overpass,https://www.openstreetmap.org/node/2303624963,,kanagawa
+overpass-0168,武山,ja:武山,walking,35.2199003,139.655789,overpass,https://www.openstreetmap.org/node/2303624965,,kanagawa
+overpass-0169,クロスケの家,,meditation,35.7912073,139.4070947,overpass,https://www.openstreetmap.org/node/2319161782,,tokyo
+overpass-0170,県庁本庁舎(King)屋上展望台,,meditation,35.447921,139.6429266,overpass,https://www.openstreetmap.org/node/2319204646,,kanagawa
+overpass-0171,滝子山,ja:滝子山,walking,35.6303537,138.8511716,overpass,https://www.openstreetmap.org/node/2328175902,,tokyo
+overpass-0172,三ノ木戸山,,walking,35.8129542,139.0652207,overpass,https://www.openstreetmap.org/node/2330522066,,tokyo
+overpass-0173,六ツ石山,,walking,35.8172691,139.046447,overpass,https://www.openstreetmap.org/node/2330529952,,tokyo
+overpass-0174,雷岩,,meditation,35.746324,138.845532,overpass,https://www.openstreetmap.org/node/2337748020,,tokyo
+overpass-0175,導水管,,meditation,35.616625,139.612767,overpass,https://www.openstreetmap.org/node/2355662302,,tokyo
+overpass-0176,黒山三滝 男滝・女滝,,meditation,35.9411611,139.2449193,overpass,https://www.openstreetmap.org/node/2372853902,,tokyo
+overpass-0177,上谷の大クス,,meditation,35.98034,139.25387,overpass,https://www.openstreetmap.org/node/2372864280,,tokyo
+overpass-0178,寺坂棚田,,meditation,35.9904159,139.1081667,overpass,https://www.openstreetmap.org/node/2375871399,,tokyo
+overpass-0179,鶏冠山,ja:鶏冠山 (山梨県甲州市),walking,35.7895441,138.8393117,overpass,https://www.openstreetmap.org/node/2383209322,,tokyo
+overpass-0180,高取城跡,,meditation,35.961499,139.2907262,overpass,https://www.openstreetmap.org/node/2383468588,,tokyo
+overpass-0181,草戸山,,walking,35.6093062,139.268801,overpass,https://www.openstreetmap.org/node/2385380131,,tokyo
+overpass-0182,東京都庁展望室 北,,meditation,35.6899139,139.6916135,overpass,https://www.openstreetmap.org/node/2388566136,,tokyo
+overpass-0183,東京都庁展望室 南,,meditation,35.689088,139.6917631,overpass,https://www.openstreetmap.org/node/2388566137,,tokyo
+overpass-0184,天合峰,,walking,35.6919843,139.2618797,overpass,https://www.openstreetmap.org/node/2396037082,,tokyo
+overpass-0185,雨降山,,walking,35.6645683,139.0384579,overpass,https://www.openstreetmap.org/node/2398303490,,tokyo
+overpass-0186,北峰,,walking,35.674987,138.9924929,overpass,https://www.openstreetmap.org/node/2398314349,,tokyo
+overpass-0187,権現山,,walking,35.6679011,139.0214465,overpass,https://www.openstreetmap.org/node/2398314351,,tokyo
+overpass-0188,麻生山,,walking,35.6712134,138.9993411,overpass,https://www.openstreetmap.org/node/2398314352,,tokyo
+overpass-0189,大丸,,walking,35.5899495,139.0772988,overpass,https://www.openstreetmap.org/node/2402934355,,tokyo
+overpass-0190,高柄山,,walking,35.5946163,139.0890366,overpass,https://www.openstreetmap.org/node/2402950714,,tokyo
+overpass-0191,冠ヶ岳,ja:冠ヶ岳,walking,35.2352753,139.0205091,overpass,https://www.openstreetmap.org/node/2406928527,,kanagawa
+overpass-0192,神山,ja:神山,walking,35.2334784,139.0209682,overpass,https://www.openstreetmap.org/node/2407810960,,kanagawa
+overpass-0193,首都圏4000万人の生活と産業を支える東京港,,meditation,35.620496,139.769112,overpass,https://www.openstreetmap.org/node/2410872058,,tokyo
+overpass-0194,生藤山,ja:生藤山,walking,35.6724211,139.132394,overpass,https://www.openstreetmap.org/node/2417236751,,tokyo
+overpass-0195,三国峠,ja:三国峠 (東京都・神奈川県・山梨県),walking,35.6719461,139.1309751,overpass,https://www.openstreetmap.org/node/2417236752,,tokyo
+overpass-0196,熊倉山,,walking,35.677734,139.1242836,overpass,https://www.openstreetmap.org/node/2417236753,,tokyo
+overpass-0197,茅丸,,walking,35.6723485,139.1365103,overpass,https://www.openstreetmap.org/node/2417236754,,tokyo
+overpass-0198,九鬼山,ja:九鬼山,walking,35.5766578,138.9510613,overpass,https://www.openstreetmap.org/node/2422431664,,tokyo
+overpass-0199,天狗岩,,meditation,35.5762537,138.9480011,overpass,https://www.openstreetmap.org/node/2422438474,,tokyo
+overpass-0200,白丸発電所,,meditation,35.8113456,139.1236587,overpass,https://www.openstreetmap.org/node/2435296345,,tokyo
+overpass-0201,御正体山,ja:御正体山,walking,35.486904,138.931697,overpass,https://www.openstreetmap.org/node/2441134639,,kanagawa
+overpass-0202,救命艇,,meditation,35.6192229,139.7737283,overpass,https://www.openstreetmap.org/node/2455022781,,tokyo
+overpass-0203,２、３番ハッチ,,meditation,35.6191081,139.7735413,overpass,https://www.openstreetmap.org/node/2455026456,,tokyo
+overpass-0204,川苔山,,walking,35.8508058,139.1068845,overpass,https://www.openstreetmap.org/node/2467223772,,tokyo
+overpass-0205,畦ヶ丸山,ja:畦ヶ丸,walking,35.4780163,139.0321841,overpass,https://www.openstreetmap.org/node/2467315131,,kanagawa
+overpass-0206,ゴルフ場どおり,,meditation,35.407363,138.856516,overpass,https://www.openstreetmap.org/node/2470714678,,kanagawa
+overpass-0207,茶屋のだんどうりえ,,meditation,35.403992,138.851476,overpass,https://www.openstreetmap.org/node/2470715118,,kanagawa
+overpass-0208,富士山景観 観測塔,,meditation,35.403442,138.866952,overpass,https://www.openstreetmap.org/node/2471656680,,kanagawa
+overpass-0209,やまと山,,walking,35.4372646,139.4518288,overpass,https://www.openstreetmap.org/node/2475364039,,kanagawa
+overpass-0210,高川山,ja:高川山,walking,35.5861399,138.9020358,overpass,https://www.openstreetmap.org/node/2510257735,,tokyo
+overpass-0211,三条ダルミ,,meditation,35.8522154,138.9378448,overpass,https://www.openstreetmap.org/node/2520910977,,tokyo
+overpass-0212,神戸岩,,meditation,35.7562768,139.114301,overpass,https://www.openstreetmap.org/node/2530497164,,tokyo
+overpass-0213,蕨山,,walking,35.8963402,139.1319191,overpass,https://www.openstreetmap.org/node/2548285580,,tokyo
+overpass-0214,大ヨケの頭,,walking,35.8825135,139.1504926,overpass,https://www.openstreetmap.org/node/2548302990,,tokyo
+overpass-0215,藤棚山,,walking,35.8914158,139.1425691,overpass,https://www.openstreetmap.org/node/2548302991,,tokyo
+overpass-0216,大久保山,,walking,35.6359187,139.0084811,overpass,https://www.openstreetmap.org/node/2550178983,,tokyo
+overpass-0217,高指山,ja:高指山 (埼玉県),walking,35.8972591,139.3004857,overpass,https://www.openstreetmap.org/node/2559490172,,tokyo
+overpass-0218,富士見山,,meditation,35.7338666,139.746101,overpass,https://www.openstreetmap.org/node/2560907823,,tokyo
+overpass-0219,出汐湊,,meditation,35.7328571,139.7470752,overpass,https://www.openstreetmap.org/node/2565864323,,tokyo
+overpass-0220,峡谷エリア,,meditation,35.4331166,138.8436594,overpass,https://www.openstreetmap.org/node/2577834069,,kanagawa
+overpass-0221,鎌倉往還の旧道跡,,meditation,35.4325609,138.8426829,overpass,https://www.openstreetmap.org/node/2577837262,,kanagawa
+overpass-0222,薬師林道展望台,,meditation,35.4438508,139.2837158,overpass,https://www.openstreetmap.org/node/2604197602,shade,kanagawa
+overpass-0223,天神平,,meditation,35.4405958,139.2713045,overpass,https://www.openstreetmap.org/node/2604389803,,kanagawa
+overpass-0224,天神尾根,,walking,35.438967,139.270932,overpass,https://www.openstreetmap.org/node/2604389864,,kanagawa
+overpass-0225,白山,,walking,35.4716553,139.2985297,overpass,https://www.openstreetmap.org/node/2610883695,,kanagawa
+overpass-0226,白山展望台,,meditation,35.4716156,139.298589,overpass,https://www.openstreetmap.org/node/2610883699,,kanagawa
+overpass-0227,日向山,,walking,35.4428588,139.2773098,overpass,https://www.openstreetmap.org/node/2618245018,,kanagawa
+overpass-0228,今熊山,,walking,35.7104788,139.2157796,overpass,https://www.openstreetmap.org/node/2623690809,,tokyo
+overpass-0229,イヨ山,,walking,35.7643879,139.0117603,overpass,https://www.openstreetmap.org/node/2629971581,,tokyo
+overpass-0230,展望台,,meditation,35.7384009,139.0143002,overpass,https://www.openstreetmap.org/node/2630000383,,tokyo
+overpass-0231,槙寄山,,walking,35.7164569,139.0299872,overpass,https://www.openstreetmap.org/node/2631261719,,tokyo
+overpass-0232,仏果山山頂展望台,,meditation,35.5207368,139.2581462,overpass,https://www.openstreetmap.org/node/2646667707,,kanagawa
+overpass-0233,革籠石山,ja:革籠石山,walking,35.5135363,139.2643977,overpass,https://www.openstreetmap.org/node/2646667714,,kanagawa
+overpass-0234,経ヶ岳,,walking,35.5072105,139.2752022,overpass,https://www.openstreetmap.org/node/2646958141,,kanagawa
+overpass-0235,越上山,,walking,35.9250804,139.2543039,overpass,https://www.openstreetmap.org/node/2723328349,,tokyo
+overpass-0236,武甲山,ja:武甲山,walking,35.9516121,139.0977764,overpass,https://www.openstreetmap.org/node/2723347374,,tokyo
+overpass-0237,小持山,,walking,35.9353321,139.0957684,overpass,https://www.openstreetmap.org/node/2723350699,,tokyo
+overpass-0238,大持山,ja:大持山,walking,35.9285241,139.1005499,overpass,https://www.openstreetmap.org/node/2725101434,,tokyo
+overpass-0239,有間山 タタラノ頭,,walking,35.8866368,139.1159783,overpass,https://www.openstreetmap.org/node/2725107013,,tokyo
+overpass-0240,武川岳,ja:武川岳,walking,35.9369418,139.1303228,overpass,https://www.openstreetmap.org/node/2725111829,,tokyo
+overpass-0241,焼山,,walking,35.9539463,139.1296146,overpass,https://www.openstreetmap.org/node/2725114736,,tokyo
+overpass-0242,二子山,,walking,35.9618904,139.1380144,overpass,https://www.openstreetmap.org/node/2725119017,,tokyo
+overpass-0243,富士山,,walking,35.9107161,139.3132148,overpass,https://www.openstreetmap.org/node/2725131735,,tokyo
+overpass-0244,鷹巣山,ja:鷹ノ巣山 (東京都),walking,35.8298911,139.0123221,overpass,https://www.openstreetmap.org/node/2725165859,,tokyo
+overpass-0245,スカリ山,,walking,35.9116548,139.2763878,overpass,https://www.openstreetmap.org/node/2725172012,,tokyo
+overpass-0246,寄神社,,meditation,35.3971771,139.1392306,overpass,https://www.openstreetmap.org/node/2749247357,,kanagawa
+overpass-0247,芋堀ドッケン,,walking,35.980507,138.866102,overpass,https://www.openstreetmap.org/node/2766015325,,tokyo
+overpass-0248,丸山,,walking,35.9886136,139.1596292,overpass,https://www.openstreetmap.org/node/2794309250,,tokyo
+overpass-0249,小河内ダム展望塔,,meditation,35.790062,139.0512235,overpass,https://www.openstreetmap.org/node/2838920901,,tokyo
+overpass-0250,東岳,,walking,36.0674107,138.8695376,overpass,https://www.openstreetmap.org/node/2865688184,,tokyo
+overpass-0251,今倉山・東峰,,walking,35.5213158,138.9743935,overpass,https://www.openstreetmap.org/node/2865710003,,kanagawa
+overpass-0252,今倉山・西峰,,walking,35.5222544,138.9686913,overpass,https://www.openstreetmap.org/node/2865733146,,kanagawa
+overpass-0253,松山（赤岩）,,walking,35.5220579,138.9628357,overpass,https://www.openstreetmap.org/node/2865733147,,kanagawa
+overpass-0254,二十六夜山,,walking,35.5276294,138.9468457,overpass,https://www.openstreetmap.org/node/2865738610,,kanagawa
+overpass-0255,ななさわの丘,,meditation,35.4491045,139.2998438,overpass,https://www.openstreetmap.org/node/2865743808,,kanagawa
+overpass-0256,ながめの丘,,meditation,35.452613,139.3016279,overpass,https://www.openstreetmap.org/node/2865894776,,kanagawa
+overpass-0257,もみじ展望台,,meditation,35.4498893,139.3019152,overpass,https://www.openstreetmap.org/node/2865894777,autumn_leaves,kanagawa
+overpass-0258,富士見山,,meditation,35.6575899,139.7626023,overpass,https://www.openstreetmap.org/node/2866251362,,tokyo
+overpass-0259,吉田山,,walking,35.914862,139.206896,overpass,https://www.openstreetmap.org/node/2879818168,,tokyo
+overpass-0260,大平山,,walking,36.0358867,139.305793,overpass,https://www.openstreetmap.org/node/2879896860,,tokyo
+overpass-0261,雁ヶ腹摺山,ja:雁ヶ腹摺山,walking,35.6867905,138.8848056,overpass,https://www.openstreetmap.org/node/2888994174,,tokyo
+overpass-0262,御岳山,en:Mount Mitake (Tokyo),walking,35.7828135,139.1494853,overpass,https://www.openstreetmap.org/node/2906613942,,tokyo
+overpass-0263,高座山,,walking,35.4756196,138.8545783,overpass,https://www.openstreetmap.org/node/2916971624,,kanagawa
+overpass-0264,杓子山,ja:杓子山,walking,35.4852127,138.8662096,overpass,https://www.openstreetmap.org/node/2916973712,,kanagawa
+overpass-0265,展望台,,meditation,35.0989197,139.8809838,overpass,https://www.openstreetmap.org/node/2936278328,,tokyo
+overpass-0266,富山,ja:富山 (千葉県),walking,35.0986879,139.8816004,overpass,https://www.openstreetmap.org/node/2936278337,,tokyo
+overpass-0267,網代城山,,walking,35.7206011,139.2425768,overpass,https://www.openstreetmap.org/node/2973419194,,tokyo
+overpass-0268,網代弁天山,,walking,35.7205816,139.246901,overpass,https://www.openstreetmap.org/node/2973434379,,tokyo
+overpass-0269,荒川ロックゲート,,meditation,35.6829903,139.8473867,overpass,https://www.openstreetmap.org/node/3004012451,,tokyo
+overpass-0270,Overlook,,meditation,35.198216,139.026408,overpass,https://www.openstreetmap.org/node/3028828138,,kanagawa
+overpass-0271,長岳,,walking,35.7287613,139.1812287,overpass,https://www.openstreetmap.org/node/3041961285,,tokyo
+overpass-0272,高丸山,,walking,35.6878708,139.2721389,overpass,https://www.openstreetmap.org/node/3057688450,,tokyo
+overpass-0273,雹留山,,walking,35.7102993,139.2608892,overpass,https://www.openstreetmap.org/node/3064634874,,tokyo
+overpass-0274,皆城山展望台,,meditation,35.3483069,139.5661552,overpass,https://www.openstreetmap.org/node/3076416568,,kanagawa
+overpass-0275,伊豆ヶ岳,ja:伊豆ヶ岳,walking,35.926941,139.160641,overpass,https://www.openstreetmap.org/node/3076426421,,tokyo
+overpass-0276,日向峯,,walking,35.7226253,139.2129041,overpass,https://www.openstreetmap.org/node/3076766883,,tokyo
+overpass-0277,中ノ沢ノ頭,,walking,35.9102282,139.1683639,overpass,https://www.openstreetmap.org/node/3085981689,,tokyo
+overpass-0278,高畑山,,walking,35.9148381,139.1621969,overpass,https://www.openstreetmap.org/node/3085981742,,tokyo
+overpass-0279,古御岳,,walking,35.9228968,139.1597454,overpass,https://www.openstreetmap.org/node/3085981756,,tokyo
+overpass-0280,五輪山,,walking,35.9298099,139.1605254,overpass,https://www.openstreetmap.org/node/3088365270,,tokyo
+overpass-0281,大六天,,walking,35.6633854,139.2575357,overpass,https://www.openstreetmap.org/node/3094244335,,tokyo
+overpass-0282,向山砦,,meditation,35.6653306,139.2568603,overpass,https://www.openstreetmap.org/node/3094244461,,tokyo
+overpass-0283,癒しの穴,,meditation,35.402401,138.866918,overpass,https://www.openstreetmap.org/node/3101292030,,kanagawa
+overpass-0284,八王子城山,,walking,35.6530059,139.2521649,overpass,https://www.openstreetmap.org/node/3105252349,,tokyo
+overpass-0285,千手山,,walking,35.6710402,139.2466302,overpass,https://www.openstreetmap.org/node/3108512444,,tokyo
+overpass-0286,モミの木山,,walking,35.7075381,139.2504278,overpass,https://www.openstreetmap.org/node/3141528731,,tokyo
+overpass-0287,乳頭山,,walking,35.2791211,139.6231692,overpass,https://www.openstreetmap.org/node/3154112846,,kanagawa
+overpass-0288,一丁平,,meditation,35.6261043,139.227775,overpass,https://www.openstreetmap.org/node/3191033061,,tokyo
+overpass-0289,見晴らしの丘,,walking,35.4368197,139.3195768,overpass,https://www.openstreetmap.org/node/3202549326,,kanagawa
+overpass-0290,見晴台,,meditation,35.3766294,139.6346798,overpass,https://www.openstreetmap.org/node/3202605616,,kanagawa
+overpass-0291,北台展望台,,meditation,35.3773641,139.6278663,overpass,https://www.openstreetmap.org/node/3202649002,,kanagawa
+overpass-0292,高松山,ja:高松山 (厚木市),walking,35.4434105,139.3208281,overpass,https://www.openstreetmap.org/node/3209911101,,kanagawa
+overpass-0293,"KING, QUEEN & JACK TOWERS YOKOHAMA VIEW POINT",,meditation,35.4473366,139.6433148,overpass,https://www.openstreetmap.org/node/3245631411,,kanagawa
+overpass-0294,"KING, QUEEN & JACK TOWERS YOKOHAMA VIEW POINT",,meditation,35.4526876,139.648533,overpass,https://www.openstreetmap.org/node/3245788081,,kanagawa
+overpass-0295,"KING, QUEEN & JACK TOWERS YOKOHAMA VIEW POINT",,meditation,35.4509954,139.6449123,overpass,https://www.openstreetmap.org/node/3245788082,,kanagawa
+overpass-0296,富士山の見える場所,,meditation,35.6578739,139.6604179,overpass,https://www.openstreetmap.org/node/3257739474,wheelchair,tokyo
+overpass-0297,伊予ヶ岳（北峰）,ja:伊予ヶ岳,walking,35.1073072,139.9139877,overpass,https://www.openstreetmap.org/node/3259298034,,tokyo
+overpass-0298,愛宕山,ja:愛宕山 (南房総市),walking,35.1148694,139.9867852,overpass,https://www.openstreetmap.org/node/3259298036,,tokyo
+overpass-0299,鹿野山,ja:鹿野山,walking,35.2555778,139.9717721,overpass,https://www.openstreetmap.org/node/3259298038,,tokyo
+overpass-0300,酉谷山,,walking,35.8971212,139.0103263,overpass,https://www.openstreetmap.org/node/3259820848,,tokyo
+overpass-0301,大洞山,,walking,35.8397982,138.8922094,overpass,https://www.openstreetmap.org/node/3259820849,,tokyo
+overpass-0302,和名倉山,ja:和名倉山,walking,35.8994231,138.8779958,overpass,https://www.openstreetmap.org/node/3259820850,,tokyo
+overpass-0303,両神山,ja:両神山,walking,36.0234167,138.8413019,overpass,https://www.openstreetmap.org/node/3259820851,,tokyo
+overpass-0304,二子山,ja:二子山 (埼玉県小鹿野町),walking,36.0696962,138.8637248,overpass,https://www.openstreetmap.org/node/3259820853,,tokyo
+overpass-0305,香貫山,ja:香貫山,walking,35.0922529,138.877594,overpass,https://www.openstreetmap.org/node/3281418319,,kanagawa
+overpass-0306,Observation deck,,meditation,35.7082294,139.7522196,overpass,https://www.openstreetmap.org/node/3291293643,,tokyo
+overpass-0307,愛宕山,,walking,35.1734436,139.9107199,overpass,https://www.openstreetmap.org/node/3298439455,,tokyo
+overpass-0308,無実山,,walking,35.1647649,139.9067464,overpass,https://www.openstreetmap.org/node/3300717990,,tokyo
+overpass-0309,見晴台,,meditation,35.0905596,138.8746933,overpass,https://www.openstreetmap.org/node/3308675352,,kanagawa
+overpass-0310,展望台,,meditation,35.6245471,139.3852401,overpass,https://www.openstreetmap.org/node/3323524569,,tokyo
+overpass-0311,一色海岸,Beautiful beach,meditation,35.2628585,139.5770578,overpass,https://www.openstreetmap.org/node/3385378400,,kanagawa
+overpass-0312,六ッ石の頭,,walking,35.900439,139.203894,overpass,https://www.openstreetmap.org/node/3399354862,,tokyo
+overpass-0313,板屋の頭,,walking,35.9021957,139.2099051,overpass,https://www.openstreetmap.org/node/3399354864,,tokyo
+overpass-0314,高反山,,walking,35.898756,139.207609,overpass,https://www.openstreetmap.org/node/3399354865,,tokyo
+overpass-0315,伽沙羅山,杉田十境眺望図より,walking,35.3978162,139.6126824,overpass,https://www.openstreetmap.org/node/3426437066,,kanagawa
+overpass-0316,野鳥観察デッキ,,meditation,35.478827,139.4430946,overpass,https://www.openstreetmap.org/node/3451517455,,kanagawa
+overpass-0317,ひなた山展望広場,,meditation,35.4790154,139.4446396,overpass,https://www.openstreetmap.org/node/3451517456,,kanagawa
+overpass-0318,展望デッキ,,meditation,35.4766116,139.4452219,overpass,https://www.openstreetmap.org/node/3485926669,,kanagawa
+overpass-0319,東仙波,,walking,35.8753545,138.8730393,overpass,https://www.openstreetmap.org/node/3579388544,,tokyo
+overpass-0320,西仙波,,walking,35.8745286,138.8684819,overpass,https://www.openstreetmap.org/node/3579388545,,tokyo
+overpass-0321,Otome no kane,,meditation,35.2878821,138.9708309,overpass,https://www.openstreetmap.org/node/3597476845,,kanagawa
+overpass-0322,瑠璃光展望台,,meditation,35.1591075,139.8331314,overpass,https://www.openstreetmap.org/node/3606300824,,tokyo
+overpass-0323,地獄のぞき,,meditation,35.1593742,139.8332856,overpass,https://www.openstreetmap.org/node/3606300878,,tokyo
+overpass-0324,二子山,,walking,35.2824719,139.6059027,overpass,https://www.openstreetmap.org/node/3631572196,,kanagawa
+overpass-0325,畠山,,walking,35.273567,139.6316079,overpass,https://www.openstreetmap.org/node/3631572197,,kanagawa
+overpass-0326,阿部倉山,,walking,35.2842232,139.5955897,overpass,https://www.openstreetmap.org/node/3631572198,,kanagawa
+overpass-0327,観音塚,,walking,35.2726068,139.5984223,overpass,https://www.openstreetmap.org/node/3631617229,,kanagawa
+overpass-0328,仙元山,,walking,35.2768926,139.5826229,overpass,https://www.openstreetmap.org/node/3631617246,,kanagawa
+overpass-0329,鷹取山,,walking,35.3065733,139.612695,overpass,https://www.openstreetmap.org/node/3632182160,,kanagawa
+overpass-0330,片栗群生地,,meditation,35.7809174,139.2307123,overpass,https://www.openstreetmap.org/node/3719445901,,tokyo
+overpass-0331,山桜,,meditation,35.7793422,139.2293658,overpass,https://www.openstreetmap.org/node/3719445903,cherry_blossom,tokyo
+overpass-0332,片栗群生地,,meditation,35.781479,139.2248707,overpass,https://www.openstreetmap.org/node/3719445907,,tokyo
+overpass-0333,桜,,meditation,35.7802559,139.2289635,overpass,https://www.openstreetmap.org/node/3719445909,cherry_blossom,tokyo
+overpass-0334,片栗群生地,,meditation,35.7809872,139.2292478,overpass,https://www.openstreetmap.org/node/3719540056,,tokyo
+overpass-0335,奥多摩・青梅方面眺望スポット,,meditation,35.7802779,139.2261579,overpass,https://www.openstreetmap.org/node/3719605141,,tokyo
+overpass-0336,皇帝ダリア,,meditation,35.7820402,139.2267909,overpass,https://www.openstreetmap.org/node/3719605143,,tokyo
+overpass-0337,奥多摩連山眺望スポット,,meditation,35.7773313,139.2317261,overpass,https://www.openstreetmap.org/node/3719605153,,tokyo
+overpass-0338,曼珠沙華群生地,,meditation,35.7808434,139.2295106,overpass,https://www.openstreetmap.org/node/3719605155,,tokyo
+overpass-0339,愛宕山 ・山桜,,walking,35.7741112,139.2209073,overpass,https://www.openstreetmap.org/node/3722445983,cherry_blossom,tokyo
+overpass-0340,桜,,meditation,35.7845364,139.2208305,overpass,https://www.openstreetmap.org/node/3733896451,cherry_blossom,tokyo
+overpass-0341,臘梅,,meditation,35.7849949,139.221132,overpass,https://www.openstreetmap.org/node/3733904979,,tokyo
+overpass-0342,つつじ,,meditation,35.7851413,139.2204603,overpass,https://www.openstreetmap.org/node/3733904980,,tokyo
+overpass-0343,梅郷眺望,,meditation,35.7838856,139.2182906,overpass,https://www.openstreetmap.org/node/3733935659,,tokyo
+overpass-0344,青梅方面眺望,,meditation,35.7849288,139.220416,overpass,https://www.openstreetmap.org/node/3733935661,,tokyo
+overpass-0345,青梅方面眺望,,meditation,35.7851195,139.2184326,overpass,https://www.openstreetmap.org/node/3733935665,,tokyo
+overpass-0346,梅郷眺望、愛宕山、三室山眺望,,meditation,35.7854111,139.2203423,overpass,https://www.openstreetmap.org/node/3733935667,,tokyo
+overpass-0347,野草園,,meditation,35.786853,139.2201988,overpass,https://www.openstreetmap.org/node/3733938109,,tokyo
+overpass-0348,曼珠沙華群生地,,meditation,35.7869953,139.2200151,overpass,https://www.openstreetmap.org/node/3733938415,,tokyo
+overpass-0349,つつじ,,meditation,35.7872619,139.2199735,overpass,https://www.openstreetmap.org/node/3733938547,,tokyo
+overpass-0350,桜・つつじ,,meditation,35.7876622,139.2199843,overpass,https://www.openstreetmap.org/node/3733938575,cherry_blossom,tokyo
+overpass-0351,臘梅・水仙,,meditation,35.786325,139.219071,overpass,https://www.openstreetmap.org/node/3733941450,,tokyo
+overpass-0352,臘梅,,meditation,35.7867616,139.2194424,overpass,https://www.openstreetmap.org/node/3733941515,,tokyo
+overpass-0353,青梅草,,meditation,35.785977,139.2193285,overpass,https://www.openstreetmap.org/node/3733943165,,tokyo
+overpass-0354,奥多摩方面・青梅方面眺望,,meditation,35.779564,139.228588,overpass,https://www.openstreetmap.org/node/3733945858,,tokyo
+overpass-0355,小田急線世田谷代田駅旧跨線橋,富士山の眺望,meditation,35.6580706,139.6618075,overpass,https://www.openstreetmap.org/node/3791091405,,tokyo
+overpass-0356,龍崖山,,walking,35.855531,139.2921671,overpass,https://www.openstreetmap.org/node/3799410457,,tokyo
+overpass-0357,川和富士,ja:川和富士,walking,35.5329531,139.5572141,overpass,https://www.openstreetmap.org/node/3806371263,,kanagawa
+overpass-0358,池辺富士,,walking,35.5326604,139.5656928,overpass,https://www.openstreetmap.org/node/3806377938,,kanagawa
+overpass-0359,山田富士,ja:山田富士,walking,35.5626371,139.5905611,overpass,https://www.openstreetmap.org/node/3806378780,,tokyo
+overpass-0360,月夜見山,,walking,35.7576667,139.0430405,overpass,https://www.openstreetmap.org/node/3891066159,,tokyo
+overpass-0361,石尊山,,walking,35.9322005,139.3015237,overpass,https://www.openstreetmap.org/node/3905852761,,tokyo
+overpass-0362,鼻曲山,,walking,35.9332008,139.2613372,overpass,https://www.openstreetmap.org/node/3905858098,,tokyo
+overpass-0363,大高取山,,walking,35.957701,139.2749279,overpass,https://www.openstreetmap.org/node/3905865042,,tokyo
+overpass-0364,西山高取,,walking,35.9612845,139.2855936,overpass,https://www.openstreetmap.org/node/3905873815,,tokyo
+overpass-0365,官ノ倉山,,walking,36.0598728,139.2232135,overpass,https://www.openstreetmap.org/node/3905881215,,tokyo
+overpass-0366,石尊山,,walking,36.0594594,139.225929,overpass,https://www.openstreetmap.org/node/3905891126,,tokyo
+overpass-0367,富士山,,walking,36.0645847,139.263047,overpass,https://www.openstreetmap.org/node/3905895453,,tokyo
+overpass-0368,烏森山,,walking,36.0629681,139.2143374,overpass,https://www.openstreetmap.org/node/3905901714,shade,tokyo
+overpass-0369,細窪山,,walking,36.067208,139.2008216,overpass,https://www.openstreetmap.org/node/3905904677,,tokyo
+overpass-0370,観音山,,walking,36.0478476,139.1834195,overpass,https://www.openstreetmap.org/node/3905925009,,tokyo
+overpass-0371,地蔵岳,,walking,36.0531871,139.1829397,overpass,https://www.openstreetmap.org/node/3905926285,,tokyo
+overpass-0372,笠山,,walking,36.0184975,139.1898611,overpass,https://www.openstreetmap.org/node/3905950569,,tokyo
+overpass-0373,剣ヶ峰,,walking,35.9989326,139.1862156,overpass,https://www.openstreetmap.org/node/3905955315,,tokyo
+overpass-0374,川木沢ノ頭,,walking,35.9977393,139.1766346,overpass,https://www.openstreetmap.org/node/3905959511,,tokyo
+overpass-0375,大霧山,ja:大霧山,walking,36.034458,139.1561883,overpass,https://www.openstreetmap.org/node/3905964201,,tokyo
+overpass-0376,愛宕山,,walking,36.066189,139.1565463,overpass,https://www.openstreetmap.org/node/3905966251,,tokyo
+overpass-0377,皇鈴山,,walking,36.07313,139.1574168,overpass,https://www.openstreetmap.org/node/3905968008,,tokyo
+overpass-0378,登谷山,,walking,36.0825321,139.156012,overpass,https://www.openstreetmap.org/node/3905970935,,tokyo
+overpass-0379,釜伏山,,walking,36.0926716,139.1436271,overpass,https://www.openstreetmap.org/node/3905973516,,tokyo
+overpass-0380,宝登山,ja:宝登山,walking,36.0931315,139.0916221,overpass,https://www.openstreetmap.org/node/3906033908,,tokyo
+overpass-0381,破風山,,walking,36.0728429,139.0552797,overpass,https://www.openstreetmap.org/node/3906038138,,tokyo
+overpass-0382,城峯山,ja:城峯山,walking,36.0975925,139.0076487,overpass,https://www.openstreetmap.org/node/3906044529,,tokyo
+overpass-0383,簑山,,walking,36.05721,139.1130085,overpass,https://www.openstreetmap.org/node/3906062213,,tokyo
+overpass-0384,小峰山,,walking,36.070521,139.0382899,overpass,https://www.openstreetmap.org/node/3906064592,,tokyo
+overpass-0385,大前山,,walking,36.0747013,139.0451092,overpass,https://www.openstreetmap.org/node/3906087961,,tokyo
+overpass-0386,天狗山,,walking,36.0737708,139.0431597,overpass,https://www.openstreetmap.org/node/3906092020,,tokyo
+overpass-0387,雨乞山,,walking,36.0929707,139.0644709,overpass,https://www.openstreetmap.org/node/3906093812,,tokyo
+overpass-0388,車山,,walking,36.0975407,139.1883584,overpass,https://www.openstreetmap.org/node/3906104319,,tokyo
+overpass-0389,あさひ山,,walking,35.8484497,139.3009775,overpass,https://www.openstreetmap.org/node/3906111905,,tokyo
+overpass-0390,大高谷山,,walking,35.853721,139.2595571,overpass,https://www.openstreetmap.org/node/3906138420,,tokyo
+overpass-0391,間野富士山,,walking,35.8458201,139.252618,overpass,https://www.openstreetmap.org/node/3906141602,,tokyo
+overpass-0392,大仁田山,,walking,35.8478099,139.2163696,overpass,https://www.openstreetmap.org/node/3906144731,,tokyo
+overpass-0393,槇ノ尾山,,walking,35.8628585,139.1471157,overpass,https://www.openstreetmap.org/node/3906223435,,tokyo
+overpass-0394,長尾丸山,,walking,35.8645206,139.132852,overpass,https://www.openstreetmap.org/node/3906225842,,tokyo
+overpass-0395,日向沢ノ峰,,walking,35.8654708,139.10139,overpass,https://www.openstreetmap.org/node/3906228502,,tokyo
+overpass-0396,桂谷ノ峰,,walking,35.869269,139.0938619,overpass,https://www.openstreetmap.org/node/3906269064,,tokyo
+overpass-0397,蕎麦粒山,ja:蕎麦粒山 (東京都・埼玉県),walking,35.8721535,139.0871878,overpass,https://www.openstreetmap.org/node/3906273472,,tokyo
+overpass-0398,天目山,,walking,35.8772411,139.058179,overpass,https://www.openstreetmap.org/node/3906281816,,tokyo
+overpass-0399,立橋,,walking,35.8838292,139.0444483,overpass,https://www.openstreetmap.org/node/3906284161,,tokyo
+overpass-0400,七跳山,,walking,35.8901606,139.0352079,overpass,https://www.openstreetmap.org/node/3906485610,,tokyo
+overpass-0401,タワ尾根ノ頭,,walking,35.8836613,139.0012294,overpass,https://www.openstreetmap.org/node/3906533125,,tokyo
+overpass-0402,水松山,,walking,35.8812049,138.9887298,overpass,https://www.openstreetmap.org/node/3906536555,,tokyo
+overpass-0403,長沢山,,walking,35.8839505,138.976899,overpass,https://www.openstreetmap.org/node/3906539959,,tokyo
+overpass-0404,榊山,,walking,35.9016594,138.9818284,overpass,https://www.openstreetmap.org/node/3906543214,,tokyo
+overpass-0405,小黒,,walking,35.9008902,139.0105081,overpass,https://www.openstreetmap.org/node/3906556480,,tokyo
+overpass-0406,行福ノタオ,,walking,35.8907707,139.006389,overpass,https://www.openstreetmap.org/node/3906563103,,tokyo
+overpass-0407,檜岳,,walking,35.9138016,138.9991896,overpass,https://www.openstreetmap.org/node/3906563603,,tokyo
+overpass-0408,日向谷ノ頭,,walking,35.8975911,139.0200316,overpass,https://www.openstreetmap.org/node/3906587886,,tokyo
+overpass-0409,立橋山,,walking,35.9044806,139.0263288,overpass,https://www.openstreetmap.org/node/3906593150,,tokyo
+overpass-0410,赤岩ノ頭,,walking,35.9075613,139.0312649,overpass,https://www.openstreetmap.org/node/3906604529,,tokyo
+overpass-0411,大平山,ja:大平山 (埼玉県秩父地方),walking,35.8938907,139.0461495,overpass,https://www.openstreetmap.org/node/3906619638,,tokyo
+overpass-0412,矢岳,,walking,35.916252,139.030764,overpass,https://www.openstreetmap.org/node/3906622535,,tokyo
+overpass-0413,龍谷山,,walking,35.8679313,139.2153805,overpass,https://www.openstreetmap.org/node/3906871288,,tokyo
+overpass-0414,周助山,,walking,35.8706411,139.22753,overpass,https://www.openstreetmap.org/node/3906875847,,tokyo
+overpass-0415,ノボット,,walking,35.8748211,139.2210202,overpass,https://www.openstreetmap.org/node/3906876908,,tokyo
+overpass-0416,楢抜山,,walking,35.8709211,139.1969221,overpass,https://www.openstreetmap.org/node/3906915560,,tokyo
+overpass-0417,仁田山,,walking,35.8751906,139.1086213,overpass,https://www.openstreetmap.org/node/3906928473,,tokyo
+overpass-0418,金比羅山,,walking,35.8803509,139.1686098,overpass,https://www.openstreetmap.org/node/3906930266,,tokyo
+overpass-0419,伊予ヶ岳（南峰）,,walking,35.1060435,139.9147186,overpass,https://www.openstreetmap.org/node/3929716592,,tokyo
+overpass-0420,豆口山,,walking,35.8963054,139.1886717,overpass,https://www.openstreetmap.org/node/3935975884,,tokyo
+overpass-0421,披露山展望台,,meditation,35.2959953,139.5643807,overpass,https://www.openstreetmap.org/node/3942908354,,kanagawa
+overpass-0422,大崎公園展望地,,meditation,35.2934471,139.5592094,overpass,https://www.openstreetmap.org/node/3942908355,,kanagawa
+overpass-0423,逗子海岸展望地,,meditation,35.2886832,139.5737792,overpass,https://www.openstreetmap.org/node/3942908356,,kanagawa
+overpass-0424,八俵山,,walking,35.3223769,139.3194951,overpass,https://www.openstreetmap.org/node/3951455253,,kanagawa
+overpass-0425,三方山,,walking,35.8059735,139.2324388,overpass,https://www.openstreetmap.org/node/4009395007,,tokyo
+overpass-0426,葛城山,ja:葛城山 (伊豆の国市),walking,35.0117931,138.9202942,overpass,https://www.openstreetmap.org/node/4041106694,,kanagawa
+overpass-0427,城山,ja:城山 (伊豆の国市),walking,35.004355,138.9304276,overpass,https://www.openstreetmap.org/node/4041106695,,kanagawa
+overpass-0428,大平山,ja:大平山 (静岡県),walking,35.0593099,138.9061855,overpass,https://www.openstreetmap.org/node/4061772858,,kanagawa
+overpass-0429,牛臥山,ja:牛臥山 (静岡県),walking,35.0734524,138.8639676,overpass,https://www.openstreetmap.org/node/4061772864,,kanagawa
+overpass-0430,発端丈山,ja:発端丈山,walking,35.0129093,138.9032405,overpass,https://www.openstreetmap.org/node/4061772867,,kanagawa
+overpass-0431,鷲頭山,ja:鷲頭山,walking,35.0593934,138.8938796,overpass,https://www.openstreetmap.org/node/4061772872,,kanagawa
+overpass-0432,ひっちょったれ山,,walking,35.3891777,139.6100731,overpass,https://www.openstreetmap.org/node/4069367788,,kanagawa
+overpass-0433,高取山,ja:高取山 (愛甲郡),walking,35.526202,139.2503644,overpass,https://www.openstreetmap.org/node/4071341617,,kanagawa
+overpass-0434,高取山山頂展望台,,meditation,35.5261751,139.2503001,overpass,https://www.openstreetmap.org/node/4071341618,,kanagawa
+overpass-0435,松生山,,walking,35.7199294,139.1190493,overpass,https://www.openstreetmap.org/node/4072074916,,tokyo
+overpass-0436,本仁田山,,walking,35.8300647,139.1018313,overpass,https://www.openstreetmap.org/node/4081216243,,tokyo
+overpass-0437,丹波天平,,walking,35.7997894,138.9310681,overpass,https://www.openstreetmap.org/node/4117458149,,tokyo
+overpass-0438,吾野ノ頭,,walking,35.8929591,139.2376174,overpass,https://www.openstreetmap.org/node/4155252237,,tokyo
+overpass-0439,大高山,ja:大高山 (埼玉県),walking,35.898103,139.233017,overpass,https://www.openstreetmap.org/node/4155252263,,tokyo
+overpass-0440,天覚山,ja:天覚山,walking,35.8867581,139.2491104,overpass,https://www.openstreetmap.org/node/4155252299,,tokyo
+overpass-0441,き☆らら展望台,,meditation,35.0642971,138.890324,overpass,https://www.openstreetmap.org/node/4169801380,,kanagawa
+overpass-0442,Mt. Fuji viewpoint,,meditation,35.3276651,139.0044052,overpass,https://www.openstreetmap.org/node/4171787493,,kanagawa
+overpass-0443,Mt. Fuji viewpoint,,meditation,35.3337707,139.001019,overpass,https://www.openstreetmap.org/node/4171787602,,kanagawa
+overpass-0444,野菊苑,,meditation,35.7604492,139.8950534,overpass,https://www.openstreetmap.org/node/4172439352,,tokyo
+overpass-0445,志下山,,walking,35.0660678,138.8878676,overpass,https://www.openstreetmap.org/node/4172630283,,kanagawa
+overpass-0446,市道山,ja:市道山,walking,35.6898672,139.1696151,overpass,https://www.openstreetmap.org/node/4175065325,,tokyo
+overpass-0447,臼杵山,ja:臼杵山 (東京都),walking,35.7064255,139.1652805,overpass,https://www.openstreetmap.org/node/4177431105,,tokyo
+overpass-0448,見城,,walking,35.4476933,139.2795014,overpass,https://www.openstreetmap.org/node/4178741018,,kanagawa
+overpass-0449,ウミウ展望台,,meditation,35.1328072,139.6208339,overpass,https://www.openstreetmap.org/node/4200311006,,kanagawa
+overpass-0450,天王森泉館,,meditation,35.3908775,139.4864528,overpass,https://www.openstreetmap.org/node/4234939690,shade,kanagawa
+overpass-0451,鐘ヶ嶽,,walking,35.4594258,139.2717062,overpass,https://www.openstreetmap.org/node/4237276715,,kanagawa
+overpass-0452,つり橋,,meditation,35.5625746,139.4900607,overpass,https://www.openstreetmap.org/node/4249836020,,tokyo
+overpass-0453,城山,ja:城山 (相模原市),walking,35.5830382,139.2788772,overpass,https://www.openstreetmap.org/node/4267488808,,tokyo
+overpass-0454,清瀬金山緑地公園,,meditation,35.7886763,139.5226769,overpass,https://www.openstreetmap.org/node/4269017189,,tokyo
+overpass-0455,見晴らし台,,meditation,35.5584706,139.4954984,overpass,https://www.openstreetmap.org/node/4293082150,,tokyo
+overpass-0456,汐入桟橋,,meditation,35.2837836,139.6620021,overpass,https://www.openstreetmap.org/node/4300294489,,kanagawa
+overpass-0457,物見山,ja:物見山 (埼玉県東松山市),walking,36.0000322,139.3628529,overpass,https://www.openstreetmap.org/node/4311321285,,tokyo
+overpass-0458,馬頭刈山,,walking,35.7418493,139.1649863,overpass,https://www.openstreetmap.org/node/4311321287,,tokyo
+overpass-0459,赤鞍ヶ岳,,walking,35.5444052,139.0248141,overpass,https://www.openstreetmap.org/node/4311321288,,kanagawa
+overpass-0460,菜畑山,,walking,35.5283072,139.0061719,overpass,https://www.openstreetmap.org/node/4311322189,,kanagawa
+overpass-0461,矢倉岳,ja:矢倉岳,walking,35.3286144,139.0353686,overpass,https://www.openstreetmap.org/node/4311322192,,kanagawa
+overpass-0462,Watch Shibuya Crossing,,meditation,35.658653,139.6998497,overpass,https://www.openstreetmap.org/node/4316519292,wheelchair,tokyo
+overpass-0463,連合艦隊司令部 日吉地下壕 入口,,meditation,35.5494186,139.6505609,overpass,https://www.openstreetmap.org/node/4343867896,,kanagawa
+overpass-0464,高尾山,,walking,35.511863,139.4836363,overpass,https://www.openstreetmap.org/node/4345622021,,kanagawa
+overpass-0465,雪女の地,,meditation,35.7841789,139.2649352,overpass,https://www.openstreetmap.org/node/4347286191,,tokyo
+overpass-0466,駒ヶ岳,ja:箱根駒ヶ岳,walking,35.2249672,139.0248211,overpass,https://www.openstreetmap.org/node/4358112298,,kanagawa
+overpass-0467,大房岬第一展望台,,meditation,35.0411836,139.8146777,overpass,https://www.openstreetmap.org/node/4370613188,,tokyo
+overpass-0468,展望塔,,meditation,35.0399712,139.8153459,overpass,https://www.openstreetmap.org/node/4370613199,,tokyo
+overpass-0469,やまんめ山,,walking,35.5124943,139.5171427,overpass,https://www.openstreetmap.org/node/4383584035,,kanagawa
+overpass-0470,城山・かたくりの里,,meditation,35.6017585,139.296704,overpass,https://www.openstreetmap.org/node/4391368329,,tokyo
+overpass-0471,源氏山,,walking,35.3245569,139.5462725,overpass,https://www.openstreetmap.org/node/4393304580,,kanagawa
+overpass-0472,早雲山,ja:早雲山,walking,35.2374533,139.0317777,overpass,https://www.openstreetmap.org/node/4400707087,,kanagawa
+overpass-0473,平塚新港フィシャリーナ,,meditation,35.3144077,139.3643696,overpass,https://www.openstreetmap.org/node/4401247029,,kanagawa
+overpass-0474,観梅,,meditation,35.3207509,139.5886375,overpass,https://www.openstreetmap.org/node/4401938976,,kanagawa
+overpass-0475,富士見の丘,,meditation,35.5327959,139.6601682,overpass,https://www.openstreetmap.org/node/4402110585,,kanagawa
+overpass-0476,横浜港シンボルタワー,,meditation,35.438959,139.6896296,overpass,https://www.openstreetmap.org/node/4402130899,,kanagawa
+overpass-0477,影向の松,,meditation,35.7274517,139.8936222,overpass,https://www.openstreetmap.org/node/4402394298,,tokyo
+overpass-0478,渋田川沿いの芝桜,,meditation,35.3965417,139.3377751,overpass,https://www.openstreetmap.org/node/4403853920,cherry_blossom,kanagawa
+overpass-0479,鳶尾山観光展望台,,meditation,35.4991328,139.3284839,overpass,https://www.openstreetmap.org/node/4403898067,,kanagawa
+overpass-0480,松風閣,,meditation,35.4152033,139.658683,overpass,https://www.openstreetmap.org/node/4407519001,,kanagawa
+overpass-0481,旧燈明寺三重塔,,meditation,35.4163387,139.659239,overpass,https://www.openstreetmap.org/node/4407526136,,kanagawa
+overpass-0482,杉の丸,,walking,35.65648,139.221239,overpass,https://www.openstreetmap.org/node/4407732521,,tokyo
+overpass-0483,黒ドッケ,,walking,35.6565911,139.2188895,overpass,https://www.openstreetmap.org/node/4407740164,,tokyo
+overpass-0484,黒崎の鼻,,meditation,35.1829948,139.6151296,overpass,https://www.openstreetmap.org/node/4435583889,,kanagawa
+overpass-0485,トレインミュージアム,,meditation,35.7285652,139.7705097,overpass,https://www.openstreetmap.org/node/4437654809,,tokyo
+overpass-0486,いこいの丘,,meditation,35.2890404,139.6110488,overpass,https://www.openstreetmap.org/node/4450424457,,kanagawa
+overpass-0487,下二子山,,walking,35.2819861,139.600903,overpass,https://www.openstreetmap.org/node/4450424757,,kanagawa
+overpass-0488,今熊神社,,meditation,35.5651769,139.401259,overpass,https://www.openstreetmap.org/node/4456086389,,tokyo
+overpass-0489,菰釣山,ja:菰釣山,walking,35.4638156,138.9784308,overpass,https://www.openstreetmap.org/node/4456280289,,kanagawa
+overpass-0490,黒山,,walking,35.8509376,139.1634626,overpass,https://www.openstreetmap.org/node/4458641590,,tokyo
+overpass-0491,イタリア山,,walking,35.4367293,139.6433998,overpass,https://www.openstreetmap.org/node/4481625061,,kanagawa
+overpass-0492,展望台,,meditation,35.5863985,139.5196847,overpass,https://www.openstreetmap.org/node/4484888442,,tokyo
+overpass-0493,金沢山,,walking,35.3460945,139.6289338,overpass,https://www.openstreetmap.org/node/4486782336,,kanagawa
+overpass-0494,稲荷山,,walking,35.3457313,139.6311104,overpass,https://www.openstreetmap.org/node/4486782337,,kanagawa
+overpass-0495,日向山,,walking,35.346007,139.6321994,overpass,https://www.openstreetmap.org/node/4486782338,,kanagawa
+overpass-0496,展望広場,,meditation,35.5313969,139.5526764,overpass,https://www.openstreetmap.org/node/4496007891,,kanagawa
+overpass-0497,長瀞岩畳,,meditation,36.0945177,139.1159019,overpass,https://www.openstreetmap.org/node/4498436489,,tokyo
+overpass-0498,箱根山,ja:箱根山 (新宿区),walking,35.7037012,139.7135103,overpass,https://www.openstreetmap.org/node/4535565126,,tokyo
+overpass-0499,展望テラス,,meditation,35.3131662,138.9671529,overpass,https://www.openstreetmap.org/node/4539793241,,kanagawa
+overpass-0500,見晴らし台,,meditation,35.4957005,139.6149648,overpass,https://www.openstreetmap.org/node/4544491796,,kanagawa
+overpass-0501,妙法ヶ岳,ja:妙法ヶ岳 (埼玉県),walking,35.9179461,138.9475782,overpass,https://www.openstreetmap.org/node/4555038189,,tokyo
+overpass-0502,大温室展望台,,meditation,35.883074,139.7146544,overpass,https://www.openstreetmap.org/node/4559396502,,tokyo
+overpass-0503,日蔭名栗山,,walking,35.8283417,138.9924009,overpass,https://www.openstreetmap.org/node/4578527922,,tokyo
+overpass-0504,高丸山,,walking,35.8330381,138.9839659,overpass,https://www.openstreetmap.org/node/4578527923,,tokyo
+overpass-0505,御亭山,,meditation,35.6588064,139.7635798,overpass,https://www.openstreetmap.org/node/4605641289,,tokyo
+overpass-0506,衣笠山公園展望台,,meditation,35.2495751,139.6570318,overpass,https://www.openstreetmap.org/node/4663300533,,kanagawa
+overpass-0507,丸岳,長尾峠からここまで来る途中に、良い風景が見える場所が多数あり,meditation,35.2702602,138.9821936,overpass,https://www.openstreetmap.org/node/4678585175,,kanagawa
+overpass-0508,岩堂山,三崎砲台の観測所が設置された跡がある,walking,35.1515494,139.6448659,overpass,https://www.openstreetmap.org/node/4678633720,,kanagawa
+overpass-0509,岩殿山展望台,大月の町を一望できる,meditation,35.6207234,138.9484831,overpass,https://www.openstreetmap.org/node/4678633729,,tokyo
+overpass-0510,展望広場,,meditation,35.9898293,139.0899138,overpass,https://www.openstreetmap.org/node/4695055197,,tokyo
+overpass-0511,東京スカイツリー眺望処,,meditation,35.9070663,139.1899065,overpass,https://www.openstreetmap.org/node/4703659177,,tokyo
+overpass-0512,大峰山,,walking,35.268107,139.5782539,overpass,https://www.openstreetmap.org/node/4729364629,,kanagawa
+overpass-0513,見晴らし台,,meditation,35.3000447,139.2012649,overpass,https://www.openstreetmap.org/node/4729988826,,kanagawa
+overpass-0514,明星ヶ岳,ja:明星ヶ岳 (神奈川県),walking,35.2561211,139.0674855,overpass,https://www.openstreetmap.org/node/4730366635,,kanagawa
+overpass-0515,黒岳,,walking,35.252359,138.8180038,overpass,https://www.openstreetmap.org/node/4750752757,,kanagawa
+overpass-0516,愛鷹山,ja:愛鷹山,walking,35.1984863,138.807719,overpass,https://www.openstreetmap.org/node/4750752759,,kanagawa
+overpass-0517,位牌岳,,walking,35.2237768,138.8099844,overpass,https://www.openstreetmap.org/node/4750752761,,kanagawa
+overpass-0518,桂木展望台,,meditation,35.9488172,139.2756177,overpass,https://www.openstreetmap.org/node/4771045787,,tokyo
+overpass-0519,太郎坊,,walking,35.8672616,139.3067581,overpass,https://www.openstreetmap.org/node/4791540178,,tokyo
+overpass-0520,見晴らし山,,walking,35.4255938,139.6593918,overpass,https://www.openstreetmap.org/node/4796173496,,kanagawa
+overpass-0521,長尾峠,,meditation,35.2586117,138.9758349,overpass,https://www.openstreetmap.org/node/4826704675,,kanagawa
+overpass-0522,橋本山,,walking,35.9012553,139.2659323,overpass,https://www.openstreetmap.org/node/4849098216,,tokyo
+overpass-0523,見張場,,meditation,35.1924275,139.0270046,overpass,https://www.openstreetmap.org/node/4883312768,,kanagawa
+overpass-0524,OSANBASHI VIEWPOINT,,meditation,35.452982,139.6483673,overpass,https://www.openstreetmap.org/node/4895092861,,kanagawa
+overpass-0525,OSANBASHI VIEWPOINT,,meditation,35.4509851,139.6466961,overpass,https://www.openstreetmap.org/node/4895092862,,kanagawa
+overpass-0526,象の鼻テラス,,meditation,35.4496801,139.6431929,overpass,https://www.openstreetmap.org/node/4924035837,,kanagawa
+overpass-0527,大生郷天満宮 天神山公園,,meditation,36.0609873,139.9516604,overpass,https://www.openstreetmap.org/node/4937303125,,tokyo
+overpass-0528,風土博物館 坂野県住宅,,meditation,36.066058,139.9552364,overpass,https://www.openstreetmap.org/node/4937308523,,tokyo
+overpass-0529,森の丘,,meditation,35.5448348,139.4543092,overpass,https://www.openstreetmap.org/node/4950200911,shade,kanagawa
+overpass-0530,鍋割山,,walking,35.7780919,139.1371099,overpass,https://www.openstreetmap.org/node/4953299756,,tokyo
+overpass-0531,石戸蒲さくら,,meditation,36.0064783,139.5127793,overpass,https://www.openstreetmap.org/node/4964675023,,tokyo
+overpass-0532,雷電山,,walking,35.8155416,139.2152633,overpass,https://www.openstreetmap.org/node/4997184581,,tokyo
+overpass-0533,ゆうひの丘,,meditation,35.6418832,139.4608871,overpass,https://www.openstreetmap.org/node/5004042607,,tokyo
+overpass-0534,裾野カンツリー倶楽部,,meditation,35.2248704,138.8703249,overpass,https://www.openstreetmap.org/node/5045581722,,kanagawa
+overpass-0535,三浦桜祭り 臨時駐車場,,meditation,35.183962,139.6456742,overpass,https://www.openstreetmap.org/node/5058590524,cherry_blossom;parking,kanagawa
+overpass-0536,大田和 つつじの丘 駐車場,,meditation,35.2320998,139.6425245,overpass,https://www.openstreetmap.org/node/5062217166,parking,kanagawa
+overpass-0537,熊倉山,ja:熊倉山 (埼玉県),walking,35.9247086,138.9912281,overpass,https://www.openstreetmap.org/node/5197358266,,tokyo
+overpass-0538,蝉笹山,,walking,35.9205355,138.9955303,overpass,https://www.openstreetmap.org/node/5197358267,,tokyo
+overpass-0539,聖光岩,,walking,35.9474959,138.9776102,overpass,https://www.openstreetmap.org/node/5197364729,,tokyo
+overpass-0540,お聖山,,walking,35.9461546,138.9793966,overpass,https://www.openstreetmap.org/node/5197364730,,tokyo
+overpass-0541,篠戸山,,walking,35.9304598,139.0394303,overpass,https://www.openstreetmap.org/node/5197370432,,tokyo
+overpass-0542,大反山,８５３,walking,35.9408576,139.0450126,overpass,https://www.openstreetmap.org/node/5197417009,,tokyo
+overpass-0543,みはらしの丘,,meditation,36.0238622,139.769494,overpass,https://www.openstreetmap.org/node/5214703501,,tokyo
+overpass-0544,本城山,,walking,35.0952209,138.8988359,overpass,https://www.openstreetmap.org/node/5230141990,,kanagawa
+overpass-0545,新道児童公園,,walking,36.0226658,139.7269792,overpass,https://www.openstreetmap.org/node/5238802795,,tokyo
+overpass-0546,玉川橋,ja:玉川橋 (都幾川),meditation,36.009803,139.2949453,overpass,https://www.openstreetmap.org/node/5239075322,,tokyo
+overpass-0547,川の広場,,meditation,36.0111163,139.3008008,overpass,https://www.openstreetmap.org/node/5239075323,,tokyo
+overpass-0548,倉松落大口逆除,ja:倉松落大口逆除,meditation,35.9875479,139.7611855,overpass,https://www.openstreetmap.org/node/5239097621,,tokyo
+overpass-0549,旧倉松落,,meditation,35.9935668,139.7621112,overpass,https://www.openstreetmap.org/node/5239191432,,tokyo
+overpass-0550,桔梗山,,walking,35.3249318,139.5365863,overpass,https://www.openstreetmap.org/node/5241981604,,kanagawa
+overpass-0551,御殿,,meditation,35.5121388,138.8017039,overpass,https://www.openstreetmap.org/node/5249754721,,kanagawa
+overpass-0552,釜戸山,,walking,35.8822713,139.272383,overpass,https://www.openstreetmap.org/node/5281638325,,tokyo
+overpass-0553,永田山,,walking,35.8730881,139.2816534,overpass,https://www.openstreetmap.org/node/5285412254,,tokyo
+overpass-0554,久須美山,,walking,35.8730467,139.2770078,overpass,https://www.openstreetmap.org/node/5285412255,,tokyo
+overpass-0555,ふるさと資料館,,meditation,35.5146999,139.3312742,overpass,https://www.openstreetmap.org/node/5287961023,,kanagawa
+overpass-0556,黒山展望台,,meditation,35.9404041,139.2363057,overpass,https://www.openstreetmap.org/node/5313261118,,tokyo
+overpass-0557,さざえ島,,meditation,35.3005617,139.485578,overpass,https://www.openstreetmap.org/node/5346571710,,kanagawa
+overpass-0558,唐松尾山,ja:唐松尾山,walking,35.8676877,138.8453948,overpass,https://www.openstreetmap.org/node/5368052172,,tokyo
+overpass-0559,小金沢山,ja:小金沢山,walking,35.7169553,138.8566197,overpass,https://www.openstreetmap.org/node/5368054496,,tokyo
+overpass-0560,玄岳,ja:玄岳,walking,35.0817223,139.0281026,overpass,https://www.openstreetmap.org/node/5385279822,,kanagawa
+overpass-0561,46階展望スペース,,meditation,35.6642722,139.762675,overpass,https://www.openstreetmap.org/node/5412443691,,tokyo
+overpass-0562,坂公民館,富士山展望,meditation,35.1384587,138.9622041,overpass,https://www.openstreetmap.org/node/5419526395,,kanagawa
+overpass-0563,新町橋,富士山展望,meditation,35.1216837,138.9260177,overpass,https://www.openstreetmap.org/node/5420155100,,kanagawa
+overpass-0564,Saint gobain,,meditation,35.6831197,139.7400542,overpass,https://www.openstreetmap.org/node/5449713526,,tokyo
+overpass-0565,下滝田基地桜花カタパルト式滑走路跡,,meditation,35.052129,139.89364,overpass,https://www.openstreetmap.org/node/5483936621,cherry_blossom,tokyo
+overpass-0566,知恩院,,meditation,35.050659,139.90095,overpass,https://www.openstreetmap.org/node/5483936821,,tokyo
+overpass-0567,富士見テラス,,meditation,35.7604019,139.5336259,overpass,https://www.openstreetmap.org/node/5535745038,,tokyo
+overpass-0568,展望の丘,,meditation,36.0935828,139.7265257,overpass,https://www.openstreetmap.org/node/5540723068,,tokyo
+overpass-0569,やぼろじ,,meditation,35.6790856,139.4476128,overpass,https://www.openstreetmap.org/node/5569258747,,tokyo
+overpass-0570,富士見台,,meditation,35.6888875,139.6902041,overpass,https://www.openstreetmap.org/node/5580334182,,tokyo
+overpass-0571,鋸山,ja:鋸山 (千葉県),walking,35.1602802,139.8409776,overpass,https://www.openstreetmap.org/node/5590328222,,tokyo
+overpass-0572,小鋸山,,walking,35.1613468,139.8612597,overpass,https://www.openstreetmap.org/node/5590328371,,tokyo
+overpass-0573,嵯峨山,,walking,35.157361,139.8834892,overpass,https://www.openstreetmap.org/node/5590328531,,tokyo
+overpass-0574,スイセンピーク,,walking,35.1573459,139.8803652,overpass,https://www.openstreetmap.org/node/5590328532,,tokyo
+overpass-0575,御伊勢山,,walking,35.3303249,139.6156942,overpass,https://www.openstreetmap.org/node/5596197232,,kanagawa
+overpass-0576,展望広場,,meditation,35.5908766,139.4358828,overpass,https://www.openstreetmap.org/node/5635301486,,tokyo
+overpass-0577,横箱山,,walking,36.0020653,138.8397163,overpass,https://www.openstreetmap.org/node/5645252635,,tokyo
+overpass-0578,バラのトンネル,,meditation,35.9924347,139.4882463,overpass,https://www.openstreetmap.org/node/5646192868,,tokyo
+overpass-0579,ハナショウブ,,meditation,35.9914267,139.4883013,overpass,https://www.openstreetmap.org/node/5646192869,,tokyo
+overpass-0580,古代蓮,,meditation,35.9909167,139.4871171,overpass,https://www.openstreetmap.org/node/5646192983,,tokyo
+overpass-0581,くにたち はたけんぼ,,meditation,35.6766537,139.4450581,overpass,https://www.openstreetmap.org/node/5655638721,,tokyo
+overpass-0582,北展望所,,meditation,36.0994919,139.3786284,overpass,https://www.openstreetmap.org/node/5661488351,,tokyo
+overpass-0583,福寿草,,meditation,36.0734898,139.3682724,overpass,https://www.openstreetmap.org/node/5669757040,,tokyo
+overpass-0584,蓮池,,meditation,36.071815,139.3692487,overpass,https://www.openstreetmap.org/node/5669757043,,tokyo
+overpass-0585,展望広場,,meditation,36.0535797,139.1582442,overpass,https://www.openstreetmap.org/node/5714644148,,tokyo
+overpass-0586,四阿屋山,ja:四阿屋山 (埼玉県秩父郡),walking,35.9981073,138.9516503,overpass,https://www.openstreetmap.org/node/5732034946,,tokyo
+overpass-0587,展望広場,,meditation,36.0321061,139.3185845,overpass,https://www.openstreetmap.org/node/5734640830,,tokyo
+overpass-0588,川幅日本一,,meditation,36.0453223,139.4731122,overpass,https://www.openstreetmap.org/node/5762467253,,tokyo
+overpass-0589,赤久奈山,,walking,35.8374487,139.1381059,overpass,https://www.openstreetmap.org/node/5816004111,,tokyo
+overpass-0590,ズマド山,,walking,35.8229943,139.1509584,overpass,https://www.openstreetmap.org/node/5816004112,,tokyo
+overpass-0591,ウトウの頭,,walking,35.8730936,139.011266,overpass,https://www.openstreetmap.org/node/5816004113,,tokyo
+overpass-0592,小雲取山,,walking,35.8494389,138.9484569,overpass,https://www.openstreetmap.org/node/5816401058,,tokyo
+overpass-0593,赤指山,,walking,35.8081558,138.9768239,overpass,https://www.openstreetmap.org/node/5816401059,,tokyo
+overpass-0594,城山,,walking,35.8242178,139.0295813,overpass,https://www.openstreetmap.org/node/5816401060,,tokyo
+overpass-0595,栗山,,walking,35.9235093,139.0598489,overpass,https://www.openstreetmap.org/node/5816692082,,tokyo
+overpass-0596,金比羅山,,walking,36.0010786,139.2692893,overpass,https://www.openstreetmap.org/node/5884609909,,tokyo
+overpass-0597,愛宕山,,walking,35.9992169,139.2769324,overpass,https://www.openstreetmap.org/node/5884609910,,tokyo
+overpass-0598,弓立山,,walking,35.9951223,139.254816,overpass,https://www.openstreetmap.org/node/5884609911,,tokyo
+overpass-0599,午頭山,,walking,35.9345,139.2841052,overpass,https://www.openstreetmap.org/node/5884923885,,tokyo
+overpass-0600,新柵山,,walking,35.98913,139.224421,overpass,https://www.openstreetmap.org/node/5884923886,,tokyo
+overpass-0601,矢立橋,,meditation,35.8378526,139.8064232,overpass,https://www.openstreetmap.org/node/5886892590,,tokyo
+overpass-0602,松原の散歩道,,meditation,35.8449112,139.8039361,overpass,https://www.openstreetmap.org/node/5886892620,,tokyo
+overpass-0603,桜並木,,meditation,35.8574917,139.8553622,overpass,https://www.openstreetmap.org/node/5886894494,cherry_blossom,tokyo
+overpass-0604,百代橋,ja:百代橋,meditation,35.8444397,139.8040542,overpass,https://www.openstreetmap.org/node/5886897885,,tokyo
+overpass-0605,妙法ヶ岳,,walking,35.9192254,138.9481905,overpass,https://www.openstreetmap.org/node/5893731307,,tokyo
+overpass-0606,七ッ石山,ja:七ツ石山,walking,35.8297506,138.9618091,overpass,https://www.openstreetmap.org/node/5894013770,,tokyo
+overpass-0607,摺鉢山,,walking,35.7138597,139.7740034,overpass,https://www.openstreetmap.org/node/5906019304,,tokyo
+overpass-0608,飛鳥山,回転展望塔「スカイラウンジ(飛鳥山タワー)」跡地,walking,35.7522835,139.7370565,overpass,https://www.openstreetmap.org/node/5906168180,,tokyo
+overpass-0609,観音山,,walking,36.0440156,138.9566016,overpass,https://www.openstreetmap.org/node/5911701413,,tokyo
+overpass-0610,父不見山,,walking,36.0940282,138.9163148,overpass,https://www.openstreetmap.org/node/5911701415,,tokyo
+overpass-0611,見晴らし台,,meditation,35.4262999,139.3226874,overpass,https://www.openstreetmap.org/node/5966711491,,kanagawa
+overpass-0612,大山,,meditation,35.6545322,139.7582173,overpass,https://www.openstreetmap.org/node/5971603396,,tokyo
+overpass-0613,姫次,ja:姫次,walking,35.5107024,139.1341611,overpass,https://www.openstreetmap.org/node/6017147805,,kanagawa
+overpass-0614,臼ヶ岳,,walking,35.476655,139.1265448,overpass,https://www.openstreetmap.org/node/6017155052,,kanagawa
+overpass-0615,ミカゲ沢ノ頭,ja:ミカゲ沢ノ頭,walking,35.484587,139.1301142,overpass,https://www.openstreetmap.org/node/6017164567,,kanagawa
+overpass-0616,安馬谷里山,,walking,35.0060207,139.9502585,overpass,https://www.openstreetmap.org/node/6025950692,,tokyo
+overpass-0617,海の見晴らし台,,meditation,35.2542591,139.7427812,overpass,https://www.openstreetmap.org/node/6036364460,,kanagawa
+overpass-0618,将門馬場,,walking,35.8225312,139.0378402,overpass,https://www.openstreetmap.org/node/6067611783,,tokyo
+overpass-0619,Gaiemmae Sta.,,meditation,35.6754032,139.7124667,overpass,https://www.openstreetmap.org/node/6091770887,,tokyo
+overpass-0620,塚山公園展望デッキ,,meditation,35.2809817,139.642252,overpass,https://www.openstreetmap.org/node/6103491571,,kanagawa
+overpass-0621,築山,,walking,35.6650604,139.5301361,overpass,https://www.openstreetmap.org/node/6122961686,,tokyo
+overpass-0622,富士山ビュー,,meditation,35.6602472,138.8104003,overpass,https://www.openstreetmap.org/node/6126382952,,tokyo
+overpass-0623,蛇山,,walking,35.5494469,139.4990191,overpass,https://www.openstreetmap.org/node/6229018160,,kanagawa
+overpass-0624,庚申山,,walking,35.5475726,139.499928,overpass,https://www.openstreetmap.org/node/6229018161,,kanagawa
+overpass-0625,本社ヶ丸,,walking,35.5748241,138.8073277,overpass,https://www.openstreetmap.org/node/6246036502,,tokyo
+overpass-0626,茶臼山,,walking,35.5595471,138.8017162,overpass,https://www.openstreetmap.org/node/6246036504,,tokyo
+overpass-0627,御巣鷹山,三ツ峠山の一峰,walking,35.553855,138.8079052,overpass,https://www.openstreetmap.org/node/6246036505,,tokyo
+overpass-0628,鶴ヶ鳥屋山,,walking,35.5820638,138.8413267,overpass,https://www.openstreetmap.org/node/6246036506,,tokyo
+overpass-0629,前武川岳,,walking,35.9328834,139.1335479,overpass,https://www.openstreetmap.org/node/6246312985,,tokyo
+overpass-0630,横倉山,,walking,35.9250094,139.1033614,overpass,https://www.openstreetmap.org/node/6246312986,,tokyo
+overpass-0631,蔦岩山,,walking,35.9436513,139.1282056,overpass,https://www.openstreetmap.org/node/6246312987,,tokyo
+overpass-0632,岩殿山,,walking,35.6216668,138.9501213,overpass,https://www.openstreetmap.org/node/6246480970,,tokyo
+overpass-0633,牛奥ノ雁ヶ腹摺山,ja:牛奥ノ雁ヶ腹摺山,walking,35.7059362,138.856672,overpass,https://www.openstreetmap.org/node/6246480971,,tokyo
+overpass-0634,黒岳,,walking,35.6885547,138.8597842,overpass,https://www.openstreetmap.org/node/6246480972,,tokyo
+overpass-0635,三ッ山,,walking,35.8523996,138.9104362,overpass,https://www.openstreetmap.org/node/6248373097,,tokyo
+overpass-0636,笠取山,ja:笠取山 (奥秩父),walking,35.8653931,138.8199449,overpass,https://www.openstreetmap.org/node/6248373098,,tokyo
+overpass-0637,燕山,,walking,35.8695818,138.8057464,overpass,https://www.openstreetmap.org/node/6248373105,,tokyo
+overpass-0638,米沢山,,walking,35.623406,138.803338,overpass,https://www.openstreetmap.org/node/6248717059,,tokyo
+overpass-0639,お坊山,,walking,35.622085,138.813273,overpass,https://www.openstreetmap.org/node/6248717060,,tokyo
+overpass-0640,大鹿山,,walking,35.6304968,138.8229302,overpass,https://www.openstreetmap.org/node/6248717061,,tokyo
+overpass-0641,オッ立,,walking,35.628924,138.829876,overpass,https://www.openstreetmap.org/node/6248717062,,tokyo
+overpass-0642,浜立山,,walking,35.6274283,138.8429138,overpass,https://www.openstreetmap.org/node/6248717063,,tokyo
+overpass-0643,コンドウ丸,,walking,35.635758,138.835042,overpass,https://www.openstreetmap.org/node/6248717064,,tokyo
+overpass-0644,大谷ヶ丸,,walking,35.6445602,138.8461183,overpass,https://www.openstreetmap.org/node/6248717065,,tokyo
+overpass-0645,ハマイバ丸,,walking,35.6617476,138.8495769,overpass,https://www.openstreetmap.org/node/6248717066,,tokyo
+overpass-0646,大蔵高丸,ja:大蔵高丸,walking,35.6728138,138.8468177,overpass,https://www.openstreetmap.org/node/6248717067,,tokyo
+overpass-0647,赤岩ノ丸,,walking,35.686702,138.87003,overpass,https://www.openstreetmap.org/node/6248717069,,tokyo
+overpass-0648,姥子山,,walking,35.678897,138.8965111,overpass,https://www.openstreetmap.org/node/6248717071,,tokyo
+overpass-0649,角研山,,walking,35.5828905,138.8243172,overpass,https://www.openstreetmap.org/node/6248734765,,tokyo
+overpass-0650,タコチバ山,,walking,35.3991133,139.1265185,overpass,https://www.openstreetmap.org/node/6267428745,,kanagawa
+overpass-0651,天祖山,,walking,35.8644348,138.9899285,overpass,https://www.openstreetmap.org/node/6297667381,,tokyo
+overpass-0652,富士見台,,meditation,35.6083354,139.6321512,overpass,https://www.openstreetmap.org/node/6334952048,,tokyo
+overpass-0653,おろちの松,,meditation,35.638747,139.7175721,overpass,https://www.openstreetmap.org/node/6348359889,,tokyo
+overpass-0654,虎秀山,,walking,35.9017403,139.2545164,overpass,https://www.openstreetmap.org/node/6388654590,,tokyo
+overpass-0655,屋船山,,walking,35.8882683,139.2642666,overpass,https://www.openstreetmap.org/node/6388654591,,tokyo
+overpass-0656,虚空蔵山,,walking,35.937847,139.2210295,overpass,https://www.openstreetmap.org/node/6388654826,,tokyo
+overpass-0657,ヤシンタイノ頭,,walking,35.9007258,139.1189476,overpass,https://www.openstreetmap.org/node/6391715060,,tokyo
+overpass-0658,初沢山,,walking,35.6356667,139.2788995,overpass,https://www.openstreetmap.org/node/6427340311,,tokyo
+overpass-0659,琴平山,,walking,35.9787993,139.1204466,overpass,https://www.openstreetmap.org/node/6435274118,,tokyo
+overpass-0660,清水建設荏田ラグビー場,,meditation,35.5554969,139.5633204,overpass,https://www.openstreetmap.org/node/6440912286,,tokyo
+overpass-0661,防鹿柵による植生回復試験地,,meditation,35.8196646,139.0706835,overpass,https://www.openstreetmap.org/node/6453133385,,tokyo
+overpass-0662,キリン 富士御殿場蒸溜所,,meditation,35.3370687,138.8951346,overpass,https://www.openstreetmap.org/node/6461983796,,kanagawa
+overpass-0663,合角ダム,,meditation,36.0575884,138.9647922,overpass,https://www.openstreetmap.org/node/6463028085,,tokyo
+overpass-0664,富士パノラマ台,,meditation,35.5019419,138.8018206,overpass,https://www.openstreetmap.org/node/6499036686,,kanagawa
+overpass-0665,三舟山,ja:三舟山,walking,35.3001159,139.8953345,overpass,https://www.openstreetmap.org/node/6546739449,,tokyo
+overpass-0666,三舟山展望台,,meditation,35.3024306,139.8968868,overpass,https://www.openstreetmap.org/node/6546739450,,tokyo
+overpass-0667,陸橋,,meditation,35.5593881,139.7166696,overpass,https://www.openstreetmap.org/node/6552547685,,tokyo
+overpass-0668,中の島展望台,,meditation,35.3114661,139.8068946,overpass,https://www.openstreetmap.org/node/6556453623,,tokyo
+overpass-0669,見晴し台,,meditation,35.2525748,139.7414039,overpass,https://www.openstreetmap.org/node/6594152288,,kanagawa
+overpass-0670,衣張山,,walking,35.3156089,139.5668283,overpass,https://www.openstreetmap.org/node/6612264475,,kanagawa
+overpass-0671,矢作小山山頂,,walking,36.0052338,139.8931112,overpass,https://www.openstreetmap.org/node/6625414767,,tokyo
+overpass-0672,猿橋,,meditation,35.6154724,138.9803848,overpass,https://www.openstreetmap.org/node/6704809967,,tokyo
+overpass-0673,大仙山,,walking,35.0810906,138.9734057,overpass,https://www.openstreetmap.org/node/6763302325,,kanagawa
+overpass-0674,浅間山,,walking,35.0290237,138.957501,overpass,https://www.openstreetmap.org/node/6763302326,,kanagawa
+overpass-0675,守山,,walking,35.0451024,138.9384701,overpass,https://www.openstreetmap.org/node/6763302327,,kanagawa
+overpass-0676,大嵐山,ja:大嵐山 (函南町),walking,35.064605,138.9255518,overpass,https://www.openstreetmap.org/node/6763302329,,kanagawa
+overpass-0677,鷹ノ巣山,,walking,35.1070544,139.0360645,overpass,https://www.openstreetmap.org/node/6763302330,,kanagawa
+overpass-0678,岩戸山,,walking,35.1254267,139.0635863,overpass,https://www.openstreetmap.org/node/6763302331,,kanagawa
+overpass-0679,三国山,ja:三国山 (箱根山外輪山),walking,35.2159109,138.9841054,overpass,https://www.openstreetmap.org/node/6763302332,,kanagawa
+overpass-0680,池ノ平,,walking,35.2018567,138.837336,overpass,https://www.openstreetmap.org/node/6763302345,,kanagawa
+overpass-0681,大堤山,,walking,35.0360864,138.9122485,overpass,https://www.openstreetmap.org/node/6769418358,,kanagawa
+overpass-0682,西沢つつじ園,,meditation,35.6737187,139.5964754,overpass,https://www.openstreetmap.org/node/6788946286,,tokyo
+overpass-0683,烏山つつじ緑地,,meditation,35.6735294,139.5968674,overpass,https://www.openstreetmap.org/node/6788963985,,tokyo
+overpass-0684,西之谷公園,,meditation,35.6725077,139.597186,overpass,https://www.openstreetmap.org/node/6788967685,,tokyo
+overpass-0685,塩沢展望広場,,meditation,35.9616846,138.8566047,overpass,https://www.openstreetmap.org/node/6798109693,,tokyo
+overpass-0686,イモリ山,,walking,35.917796,139.19433,overpass,https://www.openstreetmap.org/node/6807999737,,tokyo
+overpass-0687,展望デッキ,,meditation,35.5753104,139.6594577,overpass,https://www.openstreetmap.org/node/6815465511,,tokyo
+overpass-0688,ルーフテラス,,meditation,35.3116506,139.4874322,overpass,https://www.openstreetmap.org/node/6840774584,,kanagawa
+overpass-0689,二瀬ダム 展望台,,meditation,35.9427587,138.9086238,overpass,https://www.openstreetmap.org/node/6847057900,,tokyo
+overpass-0690,展望デッキ,,meditation,35.5013511,138.8015617,overpass,https://www.openstreetmap.org/node/6859319785,,kanagawa
+overpass-0691,スカイタワー西東京,ja:スカイタワー西東京,meditation,35.7351079,139.5229679,overpass,https://www.openstreetmap.org/node/6901773291,,tokyo
+overpass-0692,サクラの丘,,meditation,35.258861,139.1227651,overpass,https://www.openstreetmap.org/node/6929058200,,kanagawa
+overpass-0693,見晴らしの丘広場,,meditation,35.2584885,139.1257375,overpass,https://www.openstreetmap.org/node/6929109423,,kanagawa
+overpass-0694,Shibuya Sky,ja:SHIBUYA SKY,meditation,35.6582857,139.7022617,overpass,https://www.openstreetmap.org/node/6952876785,wheelchair;fee,tokyo
+overpass-0695,燧山,,walking,35.8533852,139.2929379,overpass,https://www.openstreetmap.org/node/6966577904,,tokyo
+overpass-0696,石射太郎山,,walking,35.2138289,139.9850867,overpass,https://www.openstreetmap.org/node/6975381023,,tokyo
+overpass-0697,高宕山,ja:高宕山,walking,35.1982851,139.9924989,overpass,https://www.openstreetmap.org/node/6975381031,,tokyo
+overpass-0698,相模湾眺望,,meditation,35.3095332,139.5077153,overpass,https://www.openstreetmap.org/node/6984040072,,kanagawa
+overpass-0699,峯山,,walking,35.3104501,139.5063364,overpass,https://www.openstreetmap.org/node/6985857310,,kanagawa
+overpass-0700,うさぎ山,,walking,35.3136807,139.511084,overpass,https://www.openstreetmap.org/node/6985857312,,kanagawa
+overpass-0701,白鳩鳩舎,,meditation,35.6944303,139.7440516,overpass,https://www.openstreetmap.org/node/7005259585,,tokyo
+overpass-0702,吉沢川紅葉,,meditation,35.3283079,139.5792873,overpass,https://www.openstreetmap.org/node/7056021979,autumn_leaves,kanagawa
+overpass-0703,鷲の山,,walking,35.5482514,139.4999501,overpass,https://www.openstreetmap.org/node/7114835059,,kanagawa
+overpass-0704,新倉山,,walking,35.5112564,138.8020363,overpass,https://www.openstreetmap.org/node/7154109297,,kanagawa
+overpass-0705,そよぎの丘,,walking,35.7025005,139.4074903,overpass,https://www.openstreetmap.org/node/7159763175,,tokyo
+overpass-0706,沖縄タウン,,meditation,35.6722698,139.6586473,overpass,https://www.openstreetmap.org/node/7166440685,,tokyo
+overpass-0707,Terminal 2 Observation Deck (South),,meditation,35.5504887,139.7893694,overpass,https://www.openstreetmap.org/node/7249343082,,tokyo
+overpass-0708,Terminal 2 Observation Deck (North),,meditation,35.5519319,139.7883405,overpass,https://www.openstreetmap.org/node/7249343083,,tokyo
+overpass-0709,Gulliver's Deck,,meditation,35.5487351,139.7837692,overpass,https://www.openstreetmap.org/node/7251287087,,kanagawa
+overpass-0710,やまゆり展望台,,meditation,35.4439094,139.3034863,overpass,https://www.openstreetmap.org/node/7275624324,,kanagawa
+overpass-0711,見晴らし台,,meditation,36.0050827,139.3529048,overpass,https://www.openstreetmap.org/node/7301682302,,tokyo
+overpass-0712,高本山,,walking,36.0132177,139.3633419,overpass,https://www.openstreetmap.org/node/7304229493,,tokyo
+overpass-0713,仏果山,,walking,35.5205569,139.2581094,overpass,https://www.openstreetmap.org/node/7319182884,,kanagawa
+overpass-0714,華厳山,,walking,35.4999718,139.2798614,overpass,https://www.openstreetmap.org/node/7319213793,,kanagawa
+overpass-0715,高取山,ja:高取山 (厚木市),walking,35.4965827,139.2872429,overpass,https://www.openstreetmap.org/node/7331455761,,kanagawa
+overpass-0716,シダンゴ山,,walking,35.4083163,139.1234833,overpass,https://www.openstreetmap.org/node/7334603153,,kanagawa
+overpass-0717,高松山,ja:高松山 (松田町・山北町),walking,35.3896896,139.1024816,overpass,https://www.openstreetmap.org/node/7334603154,,kanagawa
+overpass-0718,檜岳,,walking,35.431299,139.1156177,overpass,https://www.openstreetmap.org/node/7334603156,,kanagawa
+overpass-0719,雨山,,walking,35.4379459,139.1233223,overpass,https://www.openstreetmap.org/node/7334603157,,kanagawa
+overpass-0720,西峰,,walking,35.4868274,139.1706312,overpass,https://www.openstreetmap.org/node/7334603158,,kanagawa
+overpass-0721,中峰,,walking,35.4900051,139.1755074,overpass,https://www.openstreetmap.org/node/7334603159,,kanagawa
+overpass-0722,東峰,,walking,35.494411,139.1810381,overpass,https://www.openstreetmap.org/node/7334603160,,kanagawa
+overpass-0723,高畑山,,walking,35.5002207,139.2123744,overpass,https://www.openstreetmap.org/node/7334603161,,kanagawa
+overpass-0724,富士見台,,meditation,35.2789921,139.6402476,overpass,https://www.openstreetmap.org/node/7372140404,,kanagawa
+overpass-0725,七国山,ja:七国山,walking,35.5785261,139.4403336,overpass,https://www.openstreetmap.org/node/7433885438,,tokyo
+overpass-0726,権現山（横浜市金沢区六浦）,,walking,35.3309869,139.6174523,overpass,https://www.openstreetmap.org/node/7444228226,,kanagawa
+overpass-0727,くじら山,,walking,35.6914028,139.5164718,overpass,https://www.openstreetmap.org/node/7484690033,,tokyo
+overpass-0728,展望広場,,meditation,35.5857143,139.407032,overpass,https://www.openstreetmap.org/node/7487724591,,tokyo
+overpass-0729,白泰山,ja:白泰山,walking,35.9568675,138.8011066,overpass,https://www.openstreetmap.org/node/7499989331,,tokyo
+overpass-0730,青梅丘陵,,meditation,35.8152888,139.2151688,overpass,https://www.openstreetmap.org/node/7524965685,,tokyo
+overpass-0731,青梅丘陵,,meditation,35.7926663,139.2615472,overpass,https://www.openstreetmap.org/node/7524965785,,tokyo
+overpass-0732,大峰,,walking,35.5498952,139.2673452,overpass,https://www.openstreetmap.org/node/7543043953,,kanagawa
+overpass-0733,服部牧場,,meditation,35.5480941,139.2583396,overpass,https://www.openstreetmap.org/node/7554662686,,kanagawa
+overpass-0734,龍城山,,walking,35.0534008,138.9556461,overpass,https://www.openstreetmap.org/node/7645036835,,kanagawa
+overpass-0735,小川と湿地,,meditation,35.6399269,139.7189471,overpass,https://www.openstreetmap.org/node/7657655687,,tokyo
+overpass-0736,白旗山,別名、はなれ山（磯子の史話より）,walking,35.3912591,139.6139501,overpass,https://www.openstreetmap.org/node/7705605227,,kanagawa
+overpass-0737,所沢ぶどう園,,meditation,35.8082404,139.5122162,overpass,https://www.openstreetmap.org/node/7732286685,,tokyo
+overpass-0738,三浦半島　葉山町からの富士,関東の富士見100景 富士山の見えるまちづくり,meditation,35.267921,139.5754181,overpass,https://www.openstreetmap.org/node/7772325797,,kanagawa
+overpass-0739,鎌北湖展望台,,meditation,35.9151252,139.2945477,overpass,https://www.openstreetmap.org/node/7802247399,,tokyo
+overpass-0740,むらさき山 三つ葉つつじ園,,meditation,35.9392901,139.2564548,overpass,https://www.openstreetmap.org/node/7803765685,,tokyo
+overpass-0741,北斎神奈川沖浪裏景観,,meditation,35.4457102,139.6968235,overpass,https://www.openstreetmap.org/node/7875527540,,kanagawa
+overpass-0742,富士見台,,meditation,35.334527,139.5584479,overpass,https://www.openstreetmap.org/node/7886120710,,kanagawa
+overpass-0743,コナラ林,,meditation,35.6377743,139.7178077,overpass,https://www.openstreetmap.org/node/7972571994,shade,tokyo
+overpass-0744,もみじの新緑・紅葉,,meditation,35.6382503,139.71962,overpass,https://www.openstreetmap.org/node/7972637473,autumn_leaves,tokyo
+overpass-0745,旅立ちの丘,,meditation,36.0036315,139.060406,overpass,https://www.openstreetmap.org/node/7975951211,,tokyo
+overpass-0746,倉見山,,walking,35.5079546,138.8557155,overpass,https://www.openstreetmap.org/node/7988429866,,kanagawa
+overpass-0747,嶺,,walking,35.8796243,139.1982203,overpass,https://www.openstreetmap.org/node/8039021843,,tokyo
+overpass-0748,根藤,,walking,35.8759037,139.2138918,overpass,https://www.openstreetmap.org/node/8039021844,,tokyo
+overpass-0749,榎窪山,,walking,35.602414,139.2648393,overpass,https://www.openstreetmap.org/node/8041580640,,tokyo
+overpass-0750,宮地山,,walking,35.3961856,139.1297441,overpass,https://www.openstreetmap.org/node/8133024912,,kanagawa
+overpass-0751,ガタクリ峰,,walking,35.5227513,139.1693315,overpass,https://www.openstreetmap.org/node/8230620151,,kanagawa
+overpass-0752,浅間山,,walking,35.9827226,139.7429893,overpass,https://www.openstreetmap.org/node/8321448671,,tokyo
+overpass-0753,見晴らしの丘,,meditation,36.002853,139.3535361,overpass,https://www.openstreetmap.org/node/8326604658,,tokyo
+overpass-0754,天満山,,walking,35.1025046,139.8381901,overpass,https://www.openstreetmap.org/node/8370615480,,tokyo
+overpass-0755,津辺野山,,walking,35.1123348,139.8647332,overpass,https://www.openstreetmap.org/node/8370615481,,tokyo
+overpass-0756,人骨山,,walking,35.1310353,139.9259734,overpass,https://www.openstreetmap.org/node/8370615482,,tokyo
+overpass-0757,津森山,,walking,35.1389232,139.9325556,overpass,https://www.openstreetmap.org/node/8370615483,shade,tokyo
+overpass-0758,コボちゃん増,,meditation,35.7029714,139.7367749,overpass,https://www.openstreetmap.org/node/8513058923,,tokyo
+overpass-0759,城山,,walking,35.8041178,139.1266327,overpass,https://www.openstreetmap.org/node/8544175733,,tokyo
+overpass-0760,地球が丸く見える展望台,,meditation,35.159597,139.835942,overpass,https://www.openstreetmap.org/node/8591259794,,tokyo
+overpass-0761,旧二ツ塚峠,,walking,35.7654704,139.2513695,overpass,https://www.openstreetmap.org/node/8639231857,,tokyo
+overpass-0762,西側展望デッキ,,meditation,35.6677864,139.9412462,overpass,https://www.openstreetmap.org/node/8690812651,,tokyo
+overpass-0763,東側展望デッキ,,meditation,35.6687604,139.9448086,overpass,https://www.openstreetmap.org/node/8690812652,,tokyo
+overpass-0764,第1休憩所,,meditation,35.7937926,139.2575792,overpass,https://www.openstreetmap.org/node/8692142449,bench,tokyo
+overpass-0765,第2休憩所,,meditation,35.793264,139.2555665,overpass,https://www.openstreetmap.org/node/8692142450,bench,tokyo
+overpass-0766,矢倉台,,meditation,35.7930098,139.2355062,overpass,https://www.openstreetmap.org/node/8692142480,,tokyo
+overpass-0767,大常木山,,walking,35.8474421,138.8818074,overpass,https://www.openstreetmap.org/node/8755750106,,tokyo
+overpass-0768,栃本関所跡,,meditation,35.9446856,138.8627763,overpass,https://www.openstreetmap.org/node/8815678319,,tokyo
+overpass-0769,滝沢ダム下流広場,,meditation,35.9569607,138.9033841,overpass,https://www.openstreetmap.org/node/8815678321,,tokyo
+overpass-0770,金蔵落しの渓流,,meditation,35.9439936,138.9672693,overpass,https://www.openstreetmap.org/node/8816838920,,tokyo
+overpass-0771,神庭鍾乳洞,,meditation,35.9374665,138.9428577,overpass,https://www.openstreetmap.org/node/8816838921,,tokyo
+overpass-0772,橋倉川第二ダム,,meditation,36.0922739,138.8011113,overpass,https://www.openstreetmap.org/node/8816839220,,tokyo
+overpass-0773,三十槌の氷柱,,meditation,35.9449579,138.9261786,overpass,https://www.openstreetmap.org/node/8816841118,,tokyo
+overpass-0774,神庭洞窟,,meditation,35.9377329,138.9434756,overpass,https://www.openstreetmap.org/node/8816841720,,tokyo
+overpass-0775,高取山,,walking,35.4024264,139.2544198,overpass,https://www.openstreetmap.org/node/8842141418,,kanagawa
+overpass-0776,見越山,,walking,35.3951426,139.2544732,overpass,https://www.openstreetmap.org/node/8842141419,,kanagawa
+overpass-0777,念仏山,,walking,35.3914036,139.2506279,overpass,https://www.openstreetmap.org/node/8842141420,,kanagawa
+overpass-0778,浅間山,,walking,35.4230551,139.2376499,overpass,https://www.openstreetmap.org/node/8842141424,,kanagawa
+overpass-0779,寺山見晴台山頂,,walking,35.8182428,139.3299357,overpass,https://www.openstreetmap.org/node/8916271856,,tokyo
+overpass-0780,三国山,ja:三国山 (神奈川県・山梨県・静岡県),walking,35.3988643,138.9126566,overpass,https://www.openstreetmap.org/node/8957728010,,kanagawa
+overpass-0781,連行峰,ja:連行峰,walking,35.6699891,139.1426763,overpass,https://www.openstreetmap.org/node/8981886587,,tokyo
+overpass-0782,醍醐丸,ja:醍醐丸,walking,35.6677052,139.1613646,overpass,https://www.openstreetmap.org/node/8981886588,,tokyo
+overpass-0783,どんぐりの広場,,meditation,35.8332141,139.3521444,overpass,https://www.openstreetmap.org/node/9007956778,,tokyo
+overpass-0784,大野山,ja:大野山 (神奈川県),walking,35.3859758,139.0487323,overpass,https://www.openstreetmap.org/node/9085376445,,kanagawa
+overpass-0785,日影山,,walking,35.4102099,139.0831005,overpass,https://www.openstreetmap.org/node/9085376446,,kanagawa
+overpass-0786,愛宕山,,walking,35.174229,139.9484938,overpass,https://www.openstreetmap.org/node/9105429574,,tokyo
+overpass-0787,明神ヶ岳,ja:明神ヶ岳 (神奈川県),walking,35.2794977,139.0525134,overpass,https://www.openstreetmap.org/node/9148441788,,kanagawa
+overpass-0788,頭高山,,walking,35.3617548,139.1632204,overpass,https://www.openstreetmap.org/node/9229281466,,kanagawa
+overpass-0789,塔ノ峰,ja:塔ノ峰,walking,35.2425078,139.0975928,overpass,https://www.openstreetmap.org/node/9232362041,,kanagawa
+overpass-0790,一国坂展望ポイント,,meditation,35.2831781,139.6566666,overpass,https://www.openstreetmap.org/node/9242911179,,kanagawa
+overpass-0791,都筑中央公園　展望広場,,meditation,35.5482734,139.5698027,overpass,https://www.openstreetmap.org/node/9262697400,,kanagawa
+overpass-0792,南郷山,ja:南郷山,walking,35.1767637,139.1043947,overpass,https://www.openstreetmap.org/node/9271933876,,kanagawa
+overpass-0793,幕山,ja:幕山,walking,35.1737119,139.0913236,overpass,https://www.openstreetmap.org/node/9271947292,,kanagawa
+overpass-0794,権現山,,walking,35.2667941,139.6384079,overpass,https://www.openstreetmap.org/node/9283049814,,kanagawa
+overpass-0795,聖岳,,walking,35.2047161,139.0966773,overpass,https://www.openstreetmap.org/node/9290014952,,kanagawa
+overpass-0796,見晴し台,,meditation,35.268057,139.643894,overpass,https://www.openstreetmap.org/node/9297842500,,kanagawa
+overpass-0797,南無谷崎,,meditation,35.0658555,139.819503,overpass,https://www.openstreetmap.org/node/9300492969,,tokyo
+overpass-0798,屏風山,ja:屏風山 (神奈川県),walking,35.1970801,139.0384197,overpass,https://www.openstreetmap.org/node/9305111601,,kanagawa
+overpass-0799,城山,,walking,35.1562668,139.084779,overpass,https://www.openstreetmap.org/node/9308619047,,kanagawa
+overpass-0800,常磐富士見台,,meditation,35.3240638,139.5270666,overpass,https://www.openstreetmap.org/node/9311816105,,kanagawa
+overpass-0801,御殿山,ja:御殿山 (千葉県),walking,35.0887532,139.9478368,overpass,https://www.openstreetmap.org/node/9313418000,,tokyo
+overpass-0802,大峰,,walking,35.9484528,138.8715872,overpass,https://www.openstreetmap.org/node/9316541495,,tokyo
+overpass-0803,大黒山,,walking,35.9484064,138.9040995,overpass,https://www.openstreetmap.org/node/9316541496,,tokyo
+overpass-0804,星ヶ山,,walking,35.188856,139.0973036,overpass,https://www.openstreetmap.org/node/9330788715,,kanagawa
+overpass-0805,竜喰山,,walking,35.8549288,138.8723199,overpass,https://www.openstreetmap.org/node/9372281236,,tokyo
+overpass-0806,カバアノ頭,,walking,35.8738229,138.8808248,overpass,https://www.openstreetmap.org/node/9372349088,,tokyo
+overpass-0807,平代山,,walking,35.5741552,139.2439485,overpass,https://www.openstreetmap.org/node/9382978694,,tokyo
+overpass-0808,津久井堂所山,,walking,35.5775457,139.2504216,overpass,https://www.openstreetmap.org/node/9382996335,,tokyo
+overpass-0809,展望の丘,,meditation,35.6775245,139.5267896,overpass,https://www.openstreetmap.org/node/9383404890,,tokyo
+overpass-0810,泰光寺山,,walking,35.6030049,139.255503,overpass,https://www.openstreetmap.org/node/9384746777,,tokyo
+overpass-0811,コンピラ山,,walking,35.6116206,139.2348761,overpass,https://www.openstreetmap.org/node/9384754863,,tokyo
+overpass-0812,大洞山,13A-420,walking,35.6138594,139.2312631,overpass,https://www.openstreetmap.org/node/9384754864,,tokyo
+overpass-0813,東山,,walking,35.6033533,139.2510259,overpass,https://www.openstreetmap.org/node/9384760670,,tokyo
+overpass-0814,入沢山,https://www.yamakei-online.com/yama-ya/detail.php?id=1414,walking,35.604609,139.2485217,overpass,https://www.openstreetmap.org/node/9384764624,,tokyo
+overpass-0815,中沢山,,walking,35.6074453,139.2382921,overpass,https://www.openstreetmap.org/node/9384771523,,tokyo
+overpass-0816,大野良ラジ場,,meditation,35.4999406,139.3414026,overpass,https://www.openstreetmap.org/node/9385117418,,kanagawa
+overpass-0817,城山,,walking,36.0966406,138.8330581,overpass,https://www.openstreetmap.org/node/9387619009,,tokyo
+overpass-0818,雌龍籠山,,walking,35.6035346,139.276702,overpass,https://www.openstreetmap.org/node/9387812041,,tokyo
+overpass-0819,牡龍籠山,,walking,35.6056422,139.2773962,overpass,https://www.openstreetmap.org/node/9391703124,,tokyo
+overpass-0820,古代蓮 群生地,,meditation,36.0338176,139.669247,overpass,https://www.openstreetmap.org/node/9414312518,,tokyo
+overpass-0821,上稲荷山,,walking,35.2801929,139.6546421,overpass,https://www.openstreetmap.org/node/9420332656,,kanagawa
+overpass-0822,下稲荷山,,walking,35.2782968,139.6548201,overpass,https://www.openstreetmap.org/node/9420332657,,kanagawa
+overpass-0823,狭山富士,,walking,35.7684718,139.4096841,overpass,https://www.openstreetmap.org/node/9438504458,,tokyo
+overpass-0824,不動山,別名、北湖峰（杉田十境眺望図より）,walking,35.3876683,139.6128349,overpass,https://www.openstreetmap.org/node/9532462925,,kanagawa
+overpass-0825,富士山と丹沢山地,,meditation,35.4659584,139.5127181,overpass,https://www.openstreetmap.org/node/9556266075,,kanagawa
+overpass-0826,水室山,,walking,35.1971744,139.9224557,overpass,https://www.openstreetmap.org/node/9591342132,,tokyo
+overpass-0827,白谷小丸,,walking,35.6830545,138.8586988,overpass,https://www.openstreetmap.org/node/9608260907,,tokyo
+overpass-0828,鹿留山,,walking,35.4879787,138.8783999,overpass,https://www.openstreetmap.org/node/9608307782,,kanagawa
+overpass-0829,風の展望台,,meditation,35.5930065,139.4003187,overpass,https://www.openstreetmap.org/node/9722271958,,tokyo
+overpass-0830,要害山,,walking,35.7721004,139.2271896,overpass,https://www.openstreetmap.org/node/9724479585,,tokyo
+overpass-0831,展望台,,meditation,35.719851,139.9727029,overpass,https://www.openstreetmap.org/node/9793797565,,tokyo
+overpass-0832,滝田城址,,meditation,35.062585,139.893323,overpass,https://www.openstreetmap.org/node/9802072285,,tokyo
+overpass-0833,嶺岡大塚山,,walking,35.1205739,139.9875706,overpass,https://www.openstreetmap.org/node/9805350706,,tokyo
+overpass-0834,三郡山,,walking,35.1556306,139.993065,overpass,https://www.openstreetmap.org/node/9805364485,,tokyo
+overpass-0835,二ツ山（南峰）,,walking,35.1148551,139.9739739,overpass,https://www.openstreetmap.org/node/9805364486,,tokyo
+overpass-0836,二ツ山（北峰）,,walking,35.1176915,139.9735276,overpass,https://www.openstreetmap.org/node/9805364487,,tokyo
+overpass-0837,伊勢山（横浜市磯子区森）,この山には、その昔、天照太神宮があったという（磯子の史話より）,walking,35.392885,139.6103025,overpass,https://www.openstreetmap.org/node/9847876839,shade,kanagawa
+overpass-0838,アメリカ山,,walking,35.4412343,139.6515851,overpass,https://www.openstreetmap.org/node/9847876840,,kanagawa
+overpass-0839,掃部山,,walking,35.4529595,139.6255129,overpass,https://www.openstreetmap.org/node/9847876841,,kanagawa
+overpass-0840,野島山,,walking,35.3271804,139.6354602,overpass,https://www.openstreetmap.org/node/9847876842,,kanagawa
+overpass-0841,石垣山,ja:石垣山,walking,35.2351523,139.1271233,overpass,https://www.openstreetmap.org/node/9847876843,,kanagawa
+overpass-0842,石保戸山,,walking,35.831723,138.8047242,overpass,https://www.openstreetmap.org/node/9855757006,,tokyo
+overpass-0843,莫越山,,walking,35.016813,139.9540781,overpass,https://www.openstreetmap.org/node/9875877156,,tokyo
+overpass-0844,大黒山,,walking,35.112899,139.8279039,overpass,https://www.openstreetmap.org/node/9877578999,,tokyo
+overpass-0845,三島スカイウォーク,,meditation,35.1518793,138.9806281,overpass,https://www.openstreetmap.org/node/9969055017,,kanagawa
+overpass-0846,八景の棚,,meditation,35.5219922,139.3775886,overpass,https://www.openstreetmap.org/node/10006253717,,kanagawa
+overpass-0847,佐久間ダム湖親水公園,,meditation,35.1263686,139.9001462,overpass,https://www.openstreetmap.org/node/10023360522,,tokyo
+overpass-0848,弘法山,,walking,35.9767125,139.2847967,overpass,https://www.openstreetmap.org/node/10131230452,,tokyo
+overpass-0849,Mt Fuji View Otoge Pass,,meditation,35.2810626,138.9888297,overpass,https://www.openstreetmap.org/node/10153795518,,kanagawa
+overpass-0850,山桜のおか,,meditation,35.6134237,139.2804363,overpass,https://www.openstreetmap.org/node/10230157669,cherry_blossom,tokyo
+overpass-0851,段木入のおか,,meditation,35.6173298,139.2774717,overpass,https://www.openstreetmap.org/node/10230157670,,tokyo
+overpass-0852,けやき坂,,walking,35.6594416,139.7278938,overpass,https://www.openstreetmap.org/node/10234973244,,tokyo
+overpass-0853,仙台坂,,walking,35.6519338,139.7306493,overpass,https://www.openstreetmap.org/node/10234973245,,tokyo
+overpass-0854,堀切峠,,walking,35.4658996,139.3192012,overpass,https://www.openstreetmap.org/node/10285948114,,kanagawa
+overpass-0855,愛宕山,,walking,35.890597,139.274672,overpass,https://www.openstreetmap.org/node/10537326907,,tokyo
+overpass-0856,龍ヶ谷山,,walking,35.9366071,139.2942059,overpass,https://www.openstreetmap.org/node/10565048713,,tokyo
+overpass-0857,吾妻山,ja:吾妻山 (神奈川県),walking,35.2993847,139.2498817,overpass,https://www.openstreetmap.org/node/10572522244,,kanagawa
+overpass-0858,崎山,別名、吐月峰（杉田十境眺望図より）,walking,35.3769376,139.627585,overpass,https://www.openstreetmap.org/node/10576699836,,kanagawa
+overpass-0859,凌雲峰,"杉田十境眺望図より
+桐ヶ谷の西側にあったという",walking,35.3851527,139.6102735,overpass,https://www.openstreetmap.org/node/10576699837,,kanagawa
+overpass-0860,正山,,walking,36.0280994,139.3027534,overpass,https://www.openstreetmap.org/node/10698583234,,tokyo
+overpass-0861,桜山,,walking,35.476975,139.2990668,overpass,https://www.openstreetmap.org/node/10726417255,cherry_blossom,kanagawa
+overpass-0862,鳶尾山,,walking,35.5044711,139.32471,overpass,https://www.openstreetmap.org/node/10727751315,,kanagawa
+overpass-0863,石楯山,,walking,35.6126857,139.1303551,overpass,https://www.openstreetmap.org/node/10728965591,,tokyo
+overpass-0864,古峯山,,walking,35.6100254,139.1443294,overpass,https://www.openstreetmap.org/node/10728967526,,tokyo
+overpass-0865,一本松山,,walking,35.6099752,139.1378599,overpass,https://www.openstreetmap.org/node/10728967527,,tokyo
+overpass-0866,京塚山,,walking,35.6073344,139.144147,overpass,https://www.openstreetmap.org/node/10728967528,,tokyo
+overpass-0867,八菅山,,walking,35.5180086,139.3161319,overpass,https://www.openstreetmap.org/node/10735390948,,kanagawa
+overpass-0868,物見山,,walking,36.0287982,139.2796147,overpass,https://www.openstreetmap.org/node/10749685772,,tokyo
+overpass-0869,寺域山,,walking,35.3644334,139.6070898,overpass,https://www.openstreetmap.org/node/10795096714,,kanagawa
+overpass-0870,権現山（横浜市金沢区柴町）,,walking,35.3439693,139.6358006,overpass,https://www.openstreetmap.org/node/10796952313,,kanagawa
+overpass-0871,胡桃山,,walking,35.3278936,139.5764628,overpass,https://www.openstreetmap.org/node/10833442474,,kanagawa
+overpass-0872,伊勢山（横浜市西区宮崎町）,,walking,35.4502082,139.6258025,overpass,https://www.openstreetmap.org/node/10833485875,,kanagawa
+overpass-0873,高根山,,walking,36.0950425,139.3434834,overpass,https://www.openstreetmap.org/node/10857073665,,tokyo
+overpass-0874,淡島標高,,walking,35.0331323,138.8874821,overpass,https://www.openstreetmap.org/node/10866467359,,kanagawa
+overpass-0875,ロックテラス,,meditation,35.0318027,138.8892238,overpass,https://www.openstreetmap.org/node/10866467374,,kanagawa
+overpass-0876,愛宕山,ja:愛宕山 (東京都港区),walking,35.6647678,139.7487461,overpass,https://www.openstreetmap.org/node/10875876583,,tokyo
+overpass-0877,大峰山,,walking,36.0329109,139.2566335,overpass,https://www.openstreetmap.org/node/10927537506,,tokyo
+overpass-0878,展望台,,meditation,35.3299096,139.4914289,overpass,https://www.openstreetmap.org/node/10931689469,,kanagawa
+overpass-0879,金勝山,,walking,36.0809736,139.2293,overpass,https://www.openstreetmap.org/node/10938122402,,tokyo
+overpass-0880,長塚山,,walking,35.381513,139.6152691,overpass,https://www.openstreetmap.org/node/10951482871,,kanagawa
+overpass-0881,妙観寺山,,walking,35.3812099,139.6196851,overpass,https://www.openstreetmap.org/node/10951482872,,kanagawa
+overpass-0882,妙法寺山,,walking,35.3804546,139.6200762,overpass,https://www.openstreetmap.org/node/10951482873,,kanagawa
+overpass-0883,西丹那駐車場,,meditation,35.0850098,139.0265288,overpass,https://www.openstreetmap.org/node/11035286691,parking,kanagawa
+overpass-0884,玄岳駐車場,,meditation,35.0846573,139.0304461,overpass,https://www.openstreetmap.org/node/11035286701,parking,kanagawa
+overpass-0885,見晴台,,walking,35.4081139,139.4063582,overpass,https://www.openstreetmap.org/node/11047504121,,kanagawa
+overpass-0886,洋光台西公園見晴台,洋光台の公園だけれども見渡せるのは港南台,meditation,35.3813306,139.5919959,overpass,https://www.openstreetmap.org/node/11051153795,,kanagawa
+overpass-0887,地頭山,『磯子の史話』より,walking,35.3843512,139.5953639,overpass,https://www.openstreetmap.org/node/11051153800,,kanagawa
+overpass-0888,荻根山副峰,,walking,36.0862817,139.1410203,overpass,https://www.openstreetmap.org/node/11058027652,,tokyo
+overpass-0889,三沢雨乞山,,walking,36.0868545,139.1535725,overpass,https://www.openstreetmap.org/node/11058034433,,tokyo
+overpass-0890,荻根山,,walking,36.0883493,139.1402949,overpass,https://www.openstreetmap.org/node/11058046625,,tokyo
+overpass-0891,琴平山,,walking,36.0787742,139.1193936,overpass,https://www.openstreetmap.org/node/11058046667,,tokyo
+overpass-0892,高岩山,,walking,36.0887947,139.1281661,overpass,https://www.openstreetmap.org/node/11058063284,,tokyo
+overpass-0893,角山　前山,,walking,36.0797066,139.1194194,overpass,https://www.openstreetmap.org/node/11058067204,,tokyo
+overpass-0894,幕岩山,,walking,36.0867814,139.1282783,overpass,https://www.openstreetmap.org/node/11058076758,,tokyo
+overpass-0895,仙元山,,walking,36.0761771,139.1069923,overpass,https://www.openstreetmap.org/node/11058084317,,tokyo
+overpass-0896,権田山,,walking,36.0878395,139.1071031,overpass,https://www.openstreetmap.org/node/11058091329,,tokyo
+overpass-0897,前原山,,walking,36.0712229,139.0783986,overpass,https://www.openstreetmap.org/node/11058099304,,tokyo
+overpass-0898,野土山,,walking,36.0903646,139.1054016,overpass,https://www.openstreetmap.org/node/11058099489,,tokyo
+overpass-0899,金崎十二天山,,walking,36.0857609,139.1061646,overpass,https://www.openstreetmap.org/node/11058108094,,tokyo
+overpass-0900,タッケ山,,walking,36.0908674,139.00442,overpass,https://www.openstreetmap.org/node/11058132039,,tokyo
+overpass-0901,四万部山,,walking,36.0347,139.123794,overpass,https://www.openstreetmap.org/node/11061289627,,tokyo
+overpass-0902,愛宕山(日野沢重木),,walking,36.0892496,139.0454579,overpass,https://www.openstreetmap.org/node/11061301728,,tokyo
+overpass-0903,愛宕山(長瀞),,walking,36.0964804,139.1047531,overpass,https://www.openstreetmap.org/node/11061306714,,tokyo
+overpass-0904,井戸山,,walking,35.9954191,138.8476583,overpass,https://www.openstreetmap.org/node/11066016172,,tokyo
+overpass-0905,門平759.3m峰 日野沢四等三角点,,walking,36.0852694,139.0231801,overpass,https://www.openstreetmap.org/node/11074616968,,tokyo
+overpass-0906,諏訪山,,walking,36.0503262,138.8347304,overpass,https://www.openstreetmap.org/node/11090413788,,tokyo
+overpass-0907,竜谷山,,walking,36.0733729,139.1244043,overpass,https://www.openstreetmap.org/node/11140420926,,tokyo
+overpass-0908,展望台,,meditation,35.4972286,139.403145,overpass,https://www.openstreetmap.org/node/11158073272,,kanagawa
+overpass-0909,1452ピーク,,walking,35.9088864,139.0045098,overpass,https://www.openstreetmap.org/node/11164804927,,tokyo
+overpass-0910,滝入ノ峰,,walking,35.8548158,139.0530823,overpass,https://www.openstreetmap.org/node/11164804928,,tokyo
+overpass-0911,西谷富士,,walking,35.4788479,139.5690589,overpass,https://www.openstreetmap.org/node/11167045586,,kanagawa
+overpass-0912,若御子山,,walking,35.9465027,139.0436199,overpass,https://www.openstreetmap.org/node/11240372118,,tokyo
+overpass-0913,城山,,walking,35.9519033,139.0590379,overpass,https://www.openstreetmap.org/node/11240468978,,tokyo
+overpass-0914,エビヅルの頭,,walking,36.0162947,138.8586044,overpass,https://www.openstreetmap.org/node/11258860900,,tokyo
+overpass-0915,三笠山,,walking,36.0184007,138.8512743,overpass,https://www.openstreetmap.org/node/11258871925,,tokyo
+overpass-0916,両神神社1627m峰,,walking,36.0201906,138.8457462,overpass,https://www.openstreetmap.org/node/11258893962,,tokyo
+overpass-0917,月テラス,,meditation,35.1453035,139.073795,overpass,https://www.openstreetmap.org/node/11276644013,,kanagawa
+overpass-0918,川テラス,,meditation,35.1452437,139.0726393,overpass,https://www.openstreetmap.org/node/11276655797,,kanagawa
+overpass-0919,滝テラス,,meditation,35.1450376,139.0742218,overpass,https://www.openstreetmap.org/node/11276657935,,kanagawa
+overpass-0920,四等三角点水窪,,walking,36.0583964,139.0350813,overpass,https://www.openstreetmap.org/node/11278938298,,tokyo
+overpass-0921,四等三角点一本栗,,walking,36.0593141,139.0538249,overpass,https://www.openstreetmap.org/node/11278947006,,tokyo
+overpass-0922,金岳,,walking,36.0597282,139.0209406,overpass,https://www.openstreetmap.org/node/11278959540,,tokyo
+overpass-0923,寺山(三等三角点 久長),,walking,36.0522831,139.0413875,overpass,https://www.openstreetmap.org/node/11278968463,,tokyo
+overpass-0924,四等三角点 石間戸向,,walking,36.0449142,139.0054627,overpass,https://www.openstreetmap.org/node/11278974694,,tokyo
+overpass-0925,逸見ヶ岳,,walking,36.0149051,138.8646798,overpass,https://www.openstreetmap.org/node/11280992594,,tokyo
+overpass-0926,瞽女ヶ岳,,walking,36.0033909,138.8904628,overpass,https://www.openstreetmap.org/node/11280998367,,tokyo
+overpass-0927,粥新田峠の西592m峰,,walking,36.0435595,139.1481627,overpass,https://www.openstreetmap.org/node/11287798072,,tokyo
+overpass-0928,Great view above Tokyo (on the 26th floor),At least the southern and western part of it.,meditation,35.6435601,139.6690283,overpass,https://www.openstreetmap.org/node/11288138836,,tokyo
+overpass-0929,権現山,,walking,35.4717504,139.628356,overpass,https://www.openstreetmap.org/node/11292672854,,kanagawa
+overpass-0930,小岩峰,,walking,35.9791164,138.8743891,overpass,https://www.openstreetmap.org/node/11299354706,,tokyo
+overpass-0931,倉明山,,walking,35.9724378,138.8844304,overpass,https://www.openstreetmap.org/node/11299366187,,tokyo
+overpass-0932,烏頭山,,walking,35.9746978,138.860926,overpass,https://www.openstreetmap.org/node/11299385654,,tokyo
+overpass-0933,大谷山,,walking,36.0058701,138.8844815,overpass,https://www.openstreetmap.org/node/11311296937,,tokyo
+overpass-0934,煤ノ山,,walking,35.9944529,138.9031887,overpass,https://www.openstreetmap.org/node/11311314158,,tokyo
+overpass-0935,月見台,,meditation,35.6467028,139.7911924,overpass,https://www.openstreetmap.org/node/11374673023,,tokyo
+overpass-0936,高峰山,,walking,35.7876041,139.1819808,overpass,https://www.openstreetmap.org/node/11402143000,,tokyo
+overpass-0937,横手山,,walking,35.8907276,139.2862344,overpass,https://www.openstreetmap.org/node/11461534841,,tokyo
+overpass-0938,東展望デッキ,,meditation,35.4639612,139.8749912,overpass,https://www.openstreetmap.org/node/11478111872,,tokyo
+overpass-0939,Fuji View,,meditation,35.5466445,139.5995427,overpass,https://www.openstreetmap.org/node/11500037820,,kanagawa
+overpass-0940,梵天岩,,walking,36.0008486,138.8394746,overpass,https://www.openstreetmap.org/node/11578353408,,tokyo
+overpass-0941,茂荻山,,walking,35.970058,138.9132912,overpass,https://www.openstreetmap.org/node/11578410835,,tokyo
+overpass-0942,1441峰,,walking,35.9903492,138.8543584,overpass,https://www.openstreetmap.org/node/11578443426,,tokyo
+overpass-0943,1424峰,,walking,35.9841427,138.8622211,overpass,https://www.openstreetmap.org/node/11578445120,,tokyo
+overpass-0944,浅間岳,,walking,35.7539961,139.2967741,overpass,https://www.openstreetmap.org/node/11610299353,,tokyo
+overpass-0945,大澄山,,walking,35.7435005,139.311195,overpass,https://www.openstreetmap.org/node/11610320899,,tokyo
+overpass-0946,前原山三叉ピーク,,walking,36.0752202,139.0740633,overpass,https://www.openstreetmap.org/node/11612884414,,tokyo
+overpass-0947,高突山,,walking,36.0181786,138.9570147,overpass,https://www.openstreetmap.org/node/11625956219,,tokyo
+overpass-0948,出原舟,,walking,36.0258715,138.8973625,overpass,https://www.openstreetmap.org/node/11625959061,,tokyo
+overpass-0949,戸蓋山,,walking,36.0281333,138.9320846,overpass,https://www.openstreetmap.org/node/11625966635,,tokyo
+overpass-0950,鷹谷山,,walking,36.0336743,138.9185052,overpass,https://www.openstreetmap.org/node/11625980630,,tokyo
+overpass-0951,両詰山,,walking,36.0226392,138.9041045,overpass,https://www.openstreetmap.org/node/11625984319,,tokyo
+overpass-0952,龍王山,,walking,36.0157081,138.9588819,overpass,https://www.openstreetmap.org/node/11625994412,,tokyo
+overpass-0953,三合落,,walking,35.9991382,138.9129742,overpass,https://www.openstreetmap.org/node/11626061513,,tokyo
+overpass-0954,球体展望室,,meditation,35.6270652,139.7745922,overpass,https://www.openstreetmap.org/node/11669259008,fee,tokyo
+overpass-0955,富士山の見える展望台,,meditation,35.7715114,138.8040422,overpass,https://www.openstreetmap.org/node/11711834728,,tokyo
+overpass-0956,北とぴあ,,meditation,35.7548512,139.7366726,overpass,https://www.openstreetmap.org/node/11727641387,,tokyo
+overpass-0957,弟富士山,,walking,35.9521768,139.0222206,overpass,https://www.openstreetmap.org/node/11729841352,,tokyo
+overpass-0958,二子山雌岳,,walking,35.9630411,139.1380126,overpass,https://www.openstreetmap.org/node/11739984699,,tokyo
+overpass-0959,西岳,,walking,36.0335896,138.8388237,overpass,https://www.openstreetmap.org/node/11749654134,,tokyo
+overpass-0960,天理岳,,walking,36.034486,138.8639817,overpass,https://www.openstreetmap.org/node/11749692643,,tokyo
+overpass-0961,東岳,,walking,36.0302688,138.8417048,overpass,https://www.openstreetmap.org/node/11749694401,,tokyo
+overpass-0962,両見山,,walking,36.0117291,138.9213917,overpass,https://www.openstreetmap.org/node/11749722872,,tokyo
+overpass-0963,奈良倉山,ja:奈良倉山,walking,35.7211358,138.96629,overpass,https://www.openstreetmap.org/node/11780023520,,tokyo
+overpass-0964,前原尾根コース2級基準点445m峰,,walking,36.0758488,139.0663828,overpass,https://www.openstreetmap.org/node/11816234722,,tokyo
+overpass-0965,祝山,,walking,36.0478116,139.1060866,overpass,https://www.openstreetmap.org/node/11821339348,,tokyo
+overpass-0966,和銅山,,walking,36.0470861,139.1071804,overpass,https://www.openstreetmap.org/node/11821342331,,tokyo
+overpass-0967,三等三角点山田 やまだ,,walking,36.0135435,139.102338,overpass,https://www.openstreetmap.org/node/11853672272,,tokyo
+overpass-0968,一番の山,,walking,36.0273144,139.1200534,overpass,https://www.openstreetmap.org/node/11853714946,,tokyo
+overpass-0969,天狗山,,walking,36.0208382,139.0499041,overpass,https://www.openstreetmap.org/node/11853760604,,tokyo
+overpass-0970,蓬莱山,,walking,36.0414492,138.8290403,overpass,https://www.openstreetmap.org/node/11867637819,,tokyo
+overpass-0971,三等三角点高篠 たかしの,,walking,35.999389,139.1327745,overpass,https://www.openstreetmap.org/node/11873600801,,tokyo
+overpass-0972,第二展望台,,meditation,35.132541,139.6184244,overpass,https://www.openstreetmap.org/node/11896359569,,kanagawa
+overpass-0973,黒目川の桜堤,,meditation,35.8155093,139.5931381,overpass,https://www.openstreetmap.org/node/11896906400,cherry_blossom,tokyo
+overpass-0974,黒目川の桜堤,,meditation,35.8096261,139.5890649,overpass,https://www.openstreetmap.org/node/11896906586,cherry_blossom,tokyo
+overpass-0975,大東の富士塚,,walking,35.8837319,139.6655692,overpass,https://www.openstreetmap.org/node/11897710648,,tokyo
+overpass-0976,二十曲峠,,meditation,35.4570421,138.8923404,overpass,https://www.openstreetmap.org/node/11902780376,,kanagawa
+overpass-0977,男山,,walking,35.9296312,139.0787559,overpass,https://www.openstreetmap.org/node/11946749859,,tokyo
+overpass-0978,大塚山,,walking,35.924865,139.0744545,overpass,https://www.openstreetmap.org/node/11946756135,,tokyo
+overpass-0979,笙ノ岩山,,walking,35.8517665,139.0786419,overpass,https://www.openstreetmap.org/node/11959684041,,tokyo
+overpass-0980,遠ノ平山 とおのひらやま,,walking,36.0502568,139.2960247,overpass,https://www.openstreetmap.org/node/11959775086,,tokyo
+overpass-0981,二ノ宮山,,walking,36.0752455,139.3318774,overpass,https://www.openstreetmap.org/node/11959780329,,tokyo
+overpass-0982,大立山,,walking,36.0640332,139.3393535,overpass,https://www.openstreetmap.org/node/11959857430,,tokyo
+overpass-0983,ポンポン山,,walking,36.0687397,139.4383332,overpass,https://www.openstreetmap.org/node/11961994962,,tokyo
+overpass-0984,ハートの丘,,meditation,35.3379047,139.2199882,overpass,https://www.openstreetmap.org/node/11966015678,,kanagawa
+overpass-0985,天神山,,walking,35.4027566,139.5708265,overpass,https://www.openstreetmap.org/node/12052803752,,kanagawa
+overpass-0986,GINZA SIX ガーデン,,meditation,35.6697382,139.7637749,overpass,https://www.openstreetmap.org/node/12059958249,wheelchair,tokyo
+overpass-0987,弘法ヶ嶽,,walking,35.3002375,139.4773903,overpass,https://www.openstreetmap.org/node/12065049488,,kanagawa
+overpass-0988,Sunshine observatory,,meditation,35.7296483,139.717942,overpass,https://www.openstreetmap.org/node/12067181245,,tokyo
+overpass-0989,土俵岳,ja:土俵岳,walking,35.6931776,139.0846288,overpass,https://www.openstreetmap.org/node/12144088518,,tokyo
+overpass-0990,丸山,ja:丸山 (奥多摩),walking,35.6989544,139.0642977,overpass,https://www.openstreetmap.org/node/12144088519,,tokyo
+overpass-0991,大羽根山,,walking,35.7126847,139.0581608,overpass,https://www.openstreetmap.org/node/12144088520,,tokyo
+overpass-0992,大峰,,walking,35.6917312,138.9356106,overpass,https://www.openstreetmap.org/node/12144088521,,tokyo
+overpass-0993,大樺ノ頭,,walking,35.6948332,138.8930547,overpass,https://www.openstreetmap.org/node/12144088522,,tokyo
+overpass-0994,大マテイ山,,walking,35.7409392,138.9237821,overpass,https://www.openstreetmap.org/node/12144088523,,tokyo
+overpass-0995,向山,,walking,35.751371,138.9746904,overpass,https://www.openstreetmap.org/node/12144088524,,tokyo
+overpass-0996,芦沢山,,walking,35.7864093,138.8935482,overpass,https://www.openstreetmap.org/node/12144088525,,tokyo
+overpass-0997,熊倉山,,walking,35.817935,138.9043629,overpass,https://www.openstreetmap.org/node/12144088526,,tokyo
+overpass-0998,中指山,,walking,35.7689443,138.9139008,overpass,https://www.openstreetmap.org/node/12144088527,,tokyo
+overpass-0999,サカリ山,,walking,35.7674949,138.8881302,overpass,https://www.openstreetmap.org/node/12144088528,,tokyo
+overpass-1000,白草ノ頭,,walking,35.7182249,138.9018309,overpass,https://www.openstreetmap.org/node/12144088529,,tokyo
+overpass-1001,丸の内ハウス,,meditation,35.6824495,139.7646788,overpass,https://www.openstreetmap.org/node/12151295691,wheelchair,tokyo
+overpass-1002,逸見が丘,,walking,35.27113,139.6504004,overpass,https://www.openstreetmap.org/node/12174337566,,kanagawa
+overpass-1003,銅座金山,,walking,35.4879737,139.3180172,overpass,https://www.openstreetmap.org/node/12184245281,,kanagawa
+overpass-1004,東京交通会館コリーヌ,,meditation,35.674874,139.7639371,overpass,https://www.openstreetmap.org/node/12208862374,wheelchair,tokyo
+overpass-1005,浦安富士,,walking,35.6446559,139.8979662,overpass,https://www.openstreetmap.org/node/12222491798,,tokyo
+overpass-1006,Gorge viewpoint,,meditation,36.0921105,139.1168334,overpass,https://www.openstreetmap.org/node/12245785001,,tokyo
+overpass-1007,唐沢線終点,,meditation,35.4723102,139.2170787,overpass,https://www.openstreetmap.org/node/12336892201,,kanagawa
+overpass-1008,幕岩展望台,,meditation,35.9563732,139.2781421,overpass,https://www.openstreetmap.org/node/12347186205,,tokyo
+overpass-1009,黒山三滝 天狗滝,,meditation,35.9406598,139.2454888,overpass,https://www.openstreetmap.org/node/12347407656,,tokyo
+overpass-1010,前岳,,walking,35.2299527,138.8188265,overpass,https://www.openstreetmap.org/node/12389304262,,kanagawa
+overpass-1011,有間山 橋小屋ノ頭,,walking,35.8952071,139.1207326,overpass,https://www.openstreetmap.org/node/12389985412,,tokyo
+overpass-1012,西沢ノ頭,,walking,35.4513927,139.2280583,overpass,https://www.openstreetmap.org/node/12393405491,,kanagawa
+overpass-1013,水道山,,walking,35.8622432,139.3057408,overpass,https://www.openstreetmap.org/node/12401338974,water,tokyo
+overpass-1014,神久山,,walking,35.8643846,139.3095423,overpass,https://www.openstreetmap.org/node/12401338975,,tokyo
+overpass-1015,高麗平,,meditation,35.8706449,139.3002503,overpass,https://www.openstreetmap.org/node/12401339013,,tokyo
+overpass-1016,Crossing View & Rooftop Lounge MAG8,Magnet mall's park rooftop Shibuya Crossing observation deck; charges for access,meditation,35.6596594,139.7008409,overpass,https://www.openstreetmap.org/node/12417634001,fee,tokyo
+overpass-1017,Shōnan Monorail,,meditation,35.3120944,139.4879223,overpass,https://www.openstreetmap.org/node/12452733531,,kanagawa
+overpass-1018,富士山,,meditation,35.3292751,139.5417654,overpass,https://www.openstreetmap.org/node/12452733552,,kanagawa
+overpass-1019,神楽山,,walking,35.6024693,138.9651128,overpass,https://www.openstreetmap.org/node/12486053744,,tokyo
+overpass-1020,御前山,,walking,35.6018693,138.9604335,overpass,https://www.openstreetmap.org/node/12486053748,,tokyo
+overpass-1021,菊花山,,walking,35.6080076,138.9479283,overpass,https://www.openstreetmap.org/node/12486053753,,tokyo
+overpass-1022,馬立山,,walking,35.5953097,138.9517991,overpass,https://www.openstreetmap.org/node/12486053754,,tokyo
+overpass-1023,矢平山,,walking,35.5863428,139.0670801,overpass,https://www.openstreetmap.org/node/12486054294,,tokyo
+overpass-1024,甚之函山,,walking,35.5843112,139.0749305,overpass,https://www.openstreetmap.org/node/12486070627,,tokyo
+overpass-1025,丸ツヅク山,,walking,35.5832265,139.0625015,overpass,https://www.openstreetmap.org/node/12486070628,,tokyo
+overpass-1026,鳥屋山,,walking,35.5845086,139.0397886,overpass,https://www.openstreetmap.org/node/12486070629,,tokyo
+overpass-1027,細野山,,walking,35.5827725,139.0311271,overpass,https://www.openstreetmap.org/node/12486070630,,tokyo
+overpass-1028,鶴島御前山,,walking,35.6096491,139.1052042,overpass,https://www.openstreetmap.org/node/12486070631,,tokyo
+overpass-1029,城山,,walking,35.9247314,139.3321538,overpass,https://www.openstreetmap.org/node/12517927187,,tokyo
+overpass-1030,Mt. Fuji Viewpoint,,meditation,35.303145,139.4815567,overpass,https://www.openstreetmap.org/node/12603830501,,kanagawa
+overpass-1031,Mt. Fuji Beach Viewpoint,,meditation,35.3013188,139.4789235,overpass,https://www.openstreetmap.org/node/12603830601,,kanagawa
+overpass-1032,Waterfront,,meditation,35.2991839,139.4747156,overpass,https://www.openstreetmap.org/node/12603830701,,kanagawa
+overpass-1033,大黒山,,walking,35.865418,139.2929711,overpass,https://www.openstreetmap.org/node/12606341555,,tokyo
+overpass-1034,Tokyo Station & Cat face Viewpoint 6F,,meditation,35.6800689,139.7650998,overpass,https://www.openstreetmap.org/node/12606699905,,tokyo
+overpass-1035,Tokyo Station train tracks Viewpoint 6F,,meditation,35.6794006,139.7654879,overpass,https://www.openstreetmap.org/node/12606700203,,tokyo
+overpass-1036,愛宕山,,walking,35.7755361,139.220952,overpass,https://www.openstreetmap.org/node/12639938172,,tokyo
+overpass-1037,屏風岩山,,walking,35.4551508,139.0279717,overpass,https://www.openstreetmap.org/node/12640609921,,kanagawa
+overpass-1038,大界木山,,walking,35.4793202,139.0166932,overpass,https://www.openstreetmap.org/node/12640609924,,kanagawa
+overpass-1039,白ヶ尾山,,walking,35.474675,139.0076788,overpass,https://www.openstreetmap.org/node/12640609925,,kanagawa
+overpass-1040,中ノ丸,,walking,35.4739618,138.994326,overpass,https://www.openstreetmap.org/node/12640609926,,kanagawa
+overpass-1041,ブナノ丸,,walking,35.4666839,138.9734512,overpass,https://www.openstreetmap.org/node/12640609927,,kanagawa
+overpass-1042,油沢ノ頭,,walking,35.4637386,138.9658561,overpass,https://www.openstreetmap.org/node/12640609928,,kanagawa
+overpass-1043,岩保土山,,walking,35.4545499,138.9476064,overpass,https://www.openstreetmap.org/node/12640609929,,kanagawa
+overpass-1044,奥ノ岳,,walking,35.459198,138.9263381,overpass,https://www.openstreetmap.org/node/12640609944,,kanagawa
+overpass-1045,中ノ岳,,walking,35.4701509,138.9283415,overpass,https://www.openstreetmap.org/node/12640609945,,kanagawa
+overpass-1046,前ノ岳,,walking,35.4787054,138.9292761,overpass,https://www.openstreetmap.org/node/12640609946,,kanagawa
+overpass-1047,長尾,,walking,35.5452499,139.0669163,overpass,https://www.openstreetmap.org/node/12640610192,,kanagawa
+overpass-1048,鳥井立,,walking,35.5486216,139.0783539,overpass,https://www.openstreetmap.org/node/12640610193,,kanagawa
+overpass-1049,加入道山,,walking,35.5097627,139.0462534,overpass,https://www.openstreetmap.org/node/12640610194,,kanagawa
+overpass-1050,鳥ノ胸山,,walking,35.4987096,139.0065854,overpass,https://www.openstreetmap.org/node/12640761627,,kanagawa
+overpass-1051,龍崖山,,walking,35.905632,139.2282151,overpass,https://www.openstreetmap.org/node/12666348903,,tokyo
+overpass-1052,八丁山,,walking,35.845569,139.0201365,overpass,https://www.openstreetmap.org/node/12666765003,,tokyo
+overpass-1053,城山,,walking,35.9434065,139.0021662,overpass,https://www.openstreetmap.org/node/12666765010,,tokyo
+overpass-1054,馬ノ頭,,walking,35.3191229,138.8063944,overpass,https://www.openstreetmap.org/node/12672606824,,kanagawa
+overpass-1055,岡野山,,walking,35.2800557,138.8221637,overpass,https://www.openstreetmap.org/node/12672606825,,kanagawa
+overpass-1056,平塚,,walking,35.2845764,138.800544,overpass,https://www.openstreetmap.org/node/12672606827,,kanagawa
+overpass-1057,雌日和田山,,walking,35.8934331,139.3066288,overpass,https://www.openstreetmap.org/node/12680890790,,tokyo
+overpass-1058,観音ヶ岳,,walking,35.9118088,139.2779014,overpass,https://www.openstreetmap.org/node/12680890793,,tokyo
+overpass-1059,湯ヶ天山,,walking,35.9132105,139.2726508,overpass,https://www.openstreetmap.org/node/12680891606,,tokyo
+overpass-1060,茶嶽山,,walking,35.916042,139.269112,overpass,https://www.openstreetmap.org/node/12680891624,,tokyo
+overpass-1061,蟹穴山,,walking,35.9205551,139.2672424,overpass,https://www.openstreetmap.org/node/12680891625,,tokyo
+overpass-1062,大沢山,,walking,35.9217872,139.2663206,overpass,https://www.openstreetmap.org/node/12680891626,,tokyo
+overpass-1063,勝峰山林道展望広場,,meditation,35.750977,139.2198323,overpass,https://www.openstreetmap.org/node/12690667989,shade,tokyo
+overpass-1064,富士見台,,walking,35.6486827,139.2435037,overpass,https://www.openstreetmap.org/node/12712906734,,tokyo
+overpass-1065,ジャンダルム,,walking,35.8592277,139.284869,overpass,https://www.openstreetmap.org/node/12725113617,,tokyo
+overpass-1066,茜台展望台,,meditation,35.8596437,139.2875165,overpass,https://www.openstreetmap.org/node/12725113629,,tokyo
+overpass-1067,大宮台地与野支台,,walking,35.8701351,139.6258761,overpass,https://www.openstreetmap.org/node/12732400957,,tokyo
+overpass-1068,大岳山 観測所,,meditation,35.7828316,139.1492501,overpass,https://www.openstreetmap.org/node/12749537701,,tokyo
+overpass-1069,天王山,,walking,35.8812329,139.6247398,overpass,https://www.openstreetmap.org/node/12764965538,,tokyo
+overpass-1070,すりばち山,,walking,35.8817766,139.6180444,overpass,https://www.openstreetmap.org/node/12765692433,,tokyo
+overpass-1071,錦田一里塚,富士山展望,meditation,35.1282253,138.9408852,overpass,https://www.openstreetmap.org/node/12769684234,,kanagawa
+overpass-1072,岳ノ台,,walking,35.4258222,139.2132108,overpass,https://www.openstreetmap.org/node/12785684935,,kanagawa
+overpass-1073,見晴茶屋,相模湾遠望,meditation,35.2085766,139.0571697,overpass,https://www.openstreetmap.org/node/12791577205,,kanagawa
+overpass-1074,矢筈,,walking,35.5274832,139.2488558,overpass,https://www.openstreetmap.org/node/12803323966,,kanagawa
+overpass-1075,大沢山,,walking,35.5325588,139.2461876,overpass,https://www.openstreetmap.org/node/12803324005,,kanagawa
+overpass-1076,木無山,,walking,35.5465874,138.8032772,overpass,https://www.openstreetmap.org/node/12810625789,,kanagawa
+overpass-1077,大洞山,,walking,35.3895835,138.8918853,overpass,https://www.openstreetmap.org/node/12813372995,,kanagawa
+overpass-1078,ツツジ山,,walking,35.9671943,139.1861342,overpass,https://www.openstreetmap.org/node/12816207219,,tokyo
+overpass-1079,立野緑地,,meditation,35.359073,139.2266218,overpass,https://www.openstreetmap.org/node/12818393896,,kanagawa
+overpass-1080,上ノ丸,,walking,35.4669161,139.2012012,overpass,https://www.openstreetmap.org/node/12832743162,,kanagawa
+overpass-1081,オハヤシノ頭,,walking,35.8684388,139.0993189,overpass,https://www.openstreetmap.org/node/12857605756,,tokyo
+overpass-1082,松田山,,walking,35.3681564,139.1298309,overpass,https://www.openstreetmap.org/node/12876388581,,kanagawa
+overpass-1083,一盃山,,walking,35.858386,139.3020071,overpass,https://www.openstreetmap.org/node/12925406669,,tokyo
+overpass-1084,寺山,,walking,35.866769,139.3027447,overpass,https://www.openstreetmap.org/node/12925406670,,tokyo
+overpass-1085,笹山,,walking,35.8705098,139.3052596,overpass,https://www.openstreetmap.org/node/12925406671,,tokyo
+overpass-1086,東峯,,walking,35.8645698,139.291209,overpass,https://www.openstreetmap.org/node/12925406672,,tokyo
+overpass-1087,愛宕山,,walking,35.8650494,139.289737,overpass,https://www.openstreetmap.org/node/12925406673,,tokyo
+overpass-1088,平山,,walking,35.8690959,139.2836333,overpass,https://www.openstreetmap.org/node/12925406674,,tokyo
+overpass-1089,大平山,,walking,35.863383,139.2770862,overpass,https://www.openstreetmap.org/node/12925406675,,tokyo
+overpass-1090,東山,,walking,35.8672537,139.2716552,overpass,https://www.openstreetmap.org/node/12925406676,,tokyo
+overpass-1091,丸山,,walking,35.8783549,139.2764429,overpass,https://www.openstreetmap.org/node/12925406677,,tokyo
+overpass-1092,不動山,,walking,35.8843087,139.2678153,overpass,https://www.openstreetmap.org/node/12925406678,,tokyo
+overpass-1093,堂山,,walking,36.0120543,139.2640792,overpass,https://www.openstreetmap.org/node/12951089009,,tokyo
+overpass-1094,雷電山,,walking,36.0169607,139.2500082,overpass,https://www.openstreetmap.org/node/12951089010,,tokyo
+overpass-1095,見晴台,,meditation,35.6054832,139.2434972,overpass,https://www.openstreetmap.org/node/12961247576,,tokyo
+overpass-1096,前金勝山,,walking,36.0797754,139.2284988,overpass,https://www.openstreetmap.org/node/13013310378,,tokyo
+overpass-1097,裏金勝山,,walking,36.0813164,139.2289007,overpass,https://www.openstreetmap.org/node/13013310379,,tokyo
+overpass-1098,浅間山,,walking,36.0804018,139.224752,overpass,https://www.openstreetmap.org/node/13013310380,,tokyo
+overpass-1099,西金勝山,,walking,36.0812945,139.2251318,overpass,https://www.openstreetmap.org/node/13013310381,,tokyo
+overpass-1100,桜の峰,,walking,36.0838332,139.224396,overpass,https://www.openstreetmap.org/node/13013310382,cherry_blossom,tokyo
+overpass-1101,cu―mo テラス,,meditation,35.2464767,139.0359427,overpass,https://www.openstreetmap.org/node/13014001330,,kanagawa
+overpass-1102,畑引山,,walking,35.1905329,139.0173537,overpass,https://www.openstreetmap.org/node/13019201996,,kanagawa
+overpass-1103,城山,,walking,35.5543345,138.9038747,overpass,https://www.openstreetmap.org/node/13028077361,,tokyo
+overpass-1104,金峰山,,walking,35.5257967,138.8291511,overpass,https://www.openstreetmap.org/node/13037488964,,kanagawa
+overpass-1105,上峯山,,walking,35.8731798,139.6176055,overpass,https://www.openstreetmap.org/node/13102059575,,tokyo
+overpass-1106,蛇骨橋,,meditation,35.2398445,139.0552387,overpass,https://www.openstreetmap.org/node/13114803301,,kanagawa
+overpass-1107,ミナカ小田原 展望足湯庭園,,meditation,35.2547031,139.1553274,overpass,https://www.openstreetmap.org/node/13114811801,,kanagawa
+overpass-1108,稲荷台,,walking,35.855538,139.6395301,overpass,https://www.openstreetmap.org/node/13115502458,,tokyo
+overpass-1109,大丸山,,walking,35.0121046,139.0474363,overpass,https://www.openstreetmap.org/node/13130290716,,kanagawa
+overpass-1110,ナコウ山,,walking,35.0226344,139.0867622,overpass,https://www.openstreetmap.org/node/13130290773,,kanagawa
+overpass-1111,西山富士,,walking,35.9545589,139.2843744,overpass,https://www.openstreetmap.org/node/13130362286,,tokyo
+overpass-1112,茅塚,,walking,35.2750935,139.6229517,overpass,https://www.openstreetmap.org/node/13135737376,,kanagawa
+overpass-1113,金比羅山,,walking,35.048939,139.9097707,overpass,https://www.openstreetmap.org/node/13137497394,,tokyo
+overpass-1114,城山,,walking,35.0599231,139.868794,overpass,https://www.openstreetmap.org/node/13137497395,,tokyo
+overpass-1115,大日山,,walking,35.0751944,139.9376187,overpass,https://www.openstreetmap.org/node/13137497397,,tokyo
+overpass-1116,宝篋印塔山,,walking,35.0768357,139.9395538,overpass,https://www.openstreetmap.org/node/13137497398,,tokyo
+overpass-1117,鷹取山,,walking,35.0858922,139.9425841,overpass,https://www.openstreetmap.org/node/13137540643,,tokyo
+overpass-1118,大塚山,,walking,35.2039021,139.9580773,overpass,https://www.openstreetmap.org/node/13137540646,,tokyo
+overpass-1119,夢の大橋,,meditation,35.6287177,139.78439,overpass,https://www.openstreetmap.org/node/13165479601,,tokyo
+overpass-1120,旧江戸川展望台,,meditation,35.6800246,139.8867609,overpass,https://www.openstreetmap.org/node/13165487701,,tokyo
+overpass-1121,ドレミファ橋,,meditation,35.8592308,139.2943735,overpass,https://www.openstreetmap.org/node/13172101301,,tokyo
+overpass-1122,大胡山,Please add the correct name:ja-Hira and name:ja-Latn: (dai|tai)ko(san|zan)? Oogoyama?,walking,35.2383725,138.8620806,overpass,https://www.openstreetmap.org/node/13228142969,,kanagawa
+overpass-1123,展望デッキ,,meditation,35.213621,139.7233449,overpass,https://www.openstreetmap.org/node/13323554615,,kanagawa
+overpass-1124,六道山,,walking,35.7759312,139.3680897,overpass,https://www.openstreetmap.org/node/13344141253,,tokyo
+overpass-1125,阿須山,,walking,35.8272627,139.3452655,overpass,https://www.openstreetmap.org/node/13347125662,,tokyo
+overpass-1126,八国山,,walking,35.7735285,139.4659931,overpass,https://www.openstreetmap.org/node/13347178911,,tokyo
+overpass-1127,View of Tokyo Skytree across Sumida river,,meditation,35.7136053,139.8016699,overpass,https://www.openstreetmap.org/node/13359160501,,tokyo
+overpass-1128,View of Tokyo Skytree from Sumida River Walk,,meditation,35.7125282,139.8004618,overpass,https://www.openstreetmap.org/node/13359165601,,tokyo
+overpass-1129,"View of trains at Ueno Station, and Ameyayokocho",,meditation,35.7121554,139.7747091,overpass,https://www.openstreetmap.org/node/13360999501,wheelchair,tokyo
+overpass-1130,渋谷駅の歩道橋から見た渋谷交差点,,meditation,35.6588804,139.7003227,overpass,https://www.openstreetmap.org/node/13432198601,,tokyo
+overpass-1131,峯山,,walking,35.3248881,139.5304609,overpass,https://www.openstreetmap.org/node/13463619134,,kanagawa
+overpass-1132,みはらし広場,,meditation,35.1333632,139.6157408,overpass,https://www.openstreetmap.org/node/13531576207,,kanagawa
+overpass-1133,富士山ビューポイント,,meditation,35.3377378,139.5615584,overpass,https://www.openstreetmap.org/node/13592495533,,kanagawa
+overpass-1134,富士山ビューポイント,,meditation,35.3387996,139.5617958,overpass,https://www.openstreetmap.org/node/13592495539,,kanagawa
+overpass-1135,大臣山,,walking,35.326726,139.5574301,overpass,https://www.openstreetmap.org/node/13606456988,,kanagawa
+overpass-1136,春岳山,,walking,35.4357825,139.221334,overpass,https://www.openstreetmap.org/node/13653686796,,kanagawa
+overpass-1137,Train viewpoint,,meditation,35.6878853,139.7011274,overpass,https://www.openstreetmap.org/node/13665813902,,tokyo
+overpass-1138,大塚山,,walking,35.2749276,139.8829761,overpass,https://www.openstreetmap.org/node/13717098060,,tokyo
+overpass-1139,長徳寺山,,walking,35.8411086,139.68976,overpass,https://www.openstreetmap.org/node/13733804131,,tokyo
+overpass-1140,愛宕山,,walking,35.9527545,139.248587,overpass,https://www.openstreetmap.org/node/13741662339,,tokyo
+overpass-1141,展望広場,,meditation,35.7944799,139.2553798,overpass,https://www.openstreetmap.org/node/13751694487,,tokyo
+overpass-1142,マツボックリ山展望台(三町分岐点),,meditation,35.7973057,139.2574381,overpass,https://www.openstreetmap.org/node/13751694488,,tokyo
+overpass-1143,リスの展望広場,,meditation,35.7994937,139.2580308,overpass,https://www.openstreetmap.org/node/13751694489,,tokyo
+overpass-1144,大観山,,walking,35.1845489,139.0483745,overpass,https://www.openstreetmap.org/node/13809814285,,kanagawa

@@ -46,10 +46,11 @@ CATEGORY_CONFIG: dict[str, dict] = {
 }
 
 SOURCE_LABELS: dict[str, str] = {
-    "mlit":          "国土数値情報",
+    "overpass":      "OpenStreetMap",
     "tokyo_park":    "東京都立公園",
     "kanagawa_park": "神奈川県立公園",
     "nap":           "なっぷ",
+    "mlit":          "国土数値情報（非推奨）",
     "manual":        "手動入力",
 }
 
@@ -137,7 +138,11 @@ def page_scraper_run():
     st.subheader("データソース選択")
     col1, col2 = st.columns(2)
     with col1:
-        run_mlit     = st.checkbox("🏛️ 国土数値情報 N13（都市公園）", value=True, help="法的リスクなし・CC BY利用可。最優先推奨。")
+        run_overpass = st.checkbox(
+            "🗺️ OpenStreetMap (Overpass API)",
+            value=True,
+            help="無料・認証不要・ODbLライセンス (© OpenStreetMap contributors)。東京・神奈川の公園・滝・川・BBQスポットを取得。最優先推奨。",
+        )
         run_tokyo    = st.checkbox("🌿 東京都立公園", value=True, help="tokyo-park.or.jp からスクレイピング")
     with col2:
         run_kanagawa = st.checkbox("🌿 神奈川県立公園", value=True, help="kanagawa-park.or.jp からスクレイピング")
@@ -161,7 +166,7 @@ def page_scraper_run():
 
     # 実行対象のソースリストを構築
     selected_sources = []
-    if run_mlit:          selected_sources.append("mlit")
+    if run_overpass:      selected_sources.append("overpass")
     if run_tokyo:         selected_sources.append("tokyo_park")
     if run_kanagawa:      selected_sources.append("kanagawa_park")
     if run_nap and nap_confirmed: selected_sources.append("nap")
